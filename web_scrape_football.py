@@ -1,11 +1,12 @@
 import time
 import logging
+from multiprocessing import Pool
+import pandas as pd
+
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from multiprocessing import Pool
-import pandas as pd
 
 
 def setup_driver():
