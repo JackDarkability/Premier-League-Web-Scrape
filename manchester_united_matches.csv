@@ -1,0 +1,1237 @@
+home_team,away_team,home_team_goals,away_team_goals,winner,loser,venue,league,year,date
+Man Utd,Brentford,2,1,Man Utd,Brentford,"Old Trafford, Manchester",1,2024/25,2024-10-19
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,2024/25,2024-10-06
+Man Utd,Spurs,0,3,Spurs,Man Utd,"Old Trafford, Manchester",1,2024/25,2024-09-29
+Crystal Palace,Man Utd,0,0,draw,draw,"Selhurst Park, London",1,2024/25,2024-09-21
+Southampton,Man Utd,0,3,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2024/25,2024-09-14
+Man Utd,Liverpool,0,3,Liverpool,Man Utd,"Old Trafford, Manchester",1,2024/25,2024-09-01
+Brighton,Man Utd,2,1,Brighton,Man Utd,"American Express Stadium, Falmer",1,2024/25,2024-08-24
+Man Utd,Fulham,1,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2024/25,2024-08-16
+Brighton,Man Utd,0,2,Man Utd,Brighton,"American Express Stadium, Falmer",1,2023/24,2024-05-19
+Man Utd,Newcastle,3,2,Man Utd,Newcastle,"Old Trafford, Manchester",1,2023/24,2024-05-15
+Man Utd,Arsenal,0,1,Arsenal,Man Utd,"Old Trafford, Manchester",1,2023/24,2024-05-12
+Crystal Palace,Man Utd,4,0,Crystal Palace,Man Utd,"Selhurst Park, London",1,2023/24,2024-05-06
+Man Utd,Burnley,1,1,draw,draw,"Old Trafford, Manchester",1,2023/24,2024-04-27
+Man Utd,Sheffield Utd,4,2,Man Utd,Sheffield Utd,"Old Trafford, Manchester",1,2023/24,2024-04-24
+Bournemouth,Man Utd,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2023/24,2024-04-13
+Man Utd,Liverpool,2,2,draw,draw,"Old Trafford, Manchester",1,2023/24,2024-04-07
+Chelsea,Man Utd,4,3,Chelsea,Man Utd,"Stamford Bridge, London",1,2023/24,2024-04-04
+Brentford,Man Utd,1,1,draw,draw,"Gtech Community Stadium, Brentford",1,2023/24,2024-03-30
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,2023/24,2024-03-09
+Man City,Man Utd,3,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2023/24,2024-03-03
+Man Utd,Fulham,1,2,Fulham,Man Utd,"Old Trafford, Manchester",1,2023/24,2024-02-24
+Luton,Man Utd,1,2,Man Utd,Luton,"Kenilworth Road, Luton",1,2023/24,2024-02-18
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2023/24,2024-02-11
+Man Utd,West Ham,3,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2023/24,2024-02-04
+Wolves,Man Utd,3,4,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2023/24,2024-02-01
+Man Utd,Spurs,2,2,draw,draw,"Old Trafford, Manchester",1,2023/24,2024-01-14
+Nott'm Forest,Man Utd,2,1,Nott'm Forest,Man Utd,"The City Ground, Nottingham",1,2023/24,2023-12-30
+Man Utd,Aston Villa,3,2,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2023/24,2023-12-26
+West Ham,Man Utd,2,0,West Ham,Man Utd,"London Stadium, London",1,2023/24,2023-12-23
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2023/24,2023-12-17
+Man Utd,Bournemouth,0,3,Bournemouth,Man Utd,"Old Trafford, Manchester",1,2023/24,2023-12-09
+Man Utd,Chelsea,2,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2023/24,2023-12-06
+Newcastle,Man Utd,1,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2023/24,2023-12-02
+Everton,Man Utd,0,3,Man Utd,Everton,"Goodison Park, Liverpool",1,2023/24,2023-11-26
+Man Utd,Luton,1,0,Man Utd,Luton,"Old Trafford, Manchester",1,2023/24,2023-11-11
+Fulham,Man Utd,0,1,Man Utd,Fulham,"Craven Cottage, London",1,2023/24,2023-11-04
+Man Utd,Man City,0,3,Man City,Man Utd,"Old Trafford, Manchester",1,2023/24,2023-10-29
+Sheffield Utd,Man Utd,1,2,Man Utd,Sheffield Utd,"Bramall Lane, Sheffield",1,2023/24,2023-10-21
+Man Utd,Brentford,2,1,Man Utd,Brentford,"Old Trafford, Manchester",1,2023/24,2023-10-07
+Man Utd,Crystal Palace,0,1,Crystal Palace,Man Utd,"Old Trafford, Manchester",1,2023/24,2023-09-30
+Burnley,Man Utd,0,1,Man Utd,Burnley,"Turf Moor, Burnley",1,2023/24,2023-09-23
+Man Utd,Brighton,1,3,Brighton,Man Utd,"Old Trafford, Manchester",1,2023/24,2023-09-16
+Arsenal,Man Utd,3,1,Arsenal,Man Utd,"Emirates Stadium, London",1,2023/24,2023-09-03
+Man Utd,Nott'm Forest,3,2,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,2023/24,2023-08-26
+Spurs,Man Utd,2,0,Spurs,Man Utd,"Tottenham Hotspur Stadium, London",1,2023/24,2023-08-19
+Man Utd,Wolves,1,0,Man Utd,Wolves,"Old Trafford, Manchester",1,2023/24,2023-08-14
+Man Utd,Fulham,2,1,Man Utd,Fulham,"Old Trafford, Manchester",1,2022/23,2023-05-28
+Man Utd,Chelsea,4,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2022/23,2023-05-25
+Bournemouth,Man Utd,0,1,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2022/23,2023-05-20
+Man Utd,Wolves,2,0,Man Utd,Wolves,"Old Trafford, Manchester",1,2022/23,2023-05-13
+West Ham,Man Utd,1,0,West Ham,Man Utd,"London Stadium, London",1,2022/23,2023-05-07
+Brighton,Man Utd,1,0,Brighton,Man Utd,"American Express Stadium, Falmer",1,2022/23,2023-05-04
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2022/23,2023-04-30
+Spurs,Man Utd,2,2,draw,draw,"Tottenham Hotspur Stadium, London",1,2022/23,2023-04-27
+Nott'm Forest,Man Utd,0,2,Man Utd,Nott'm Forest,"The City Ground, Nottingham",1,2022/23,2023-04-16
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,2022/23,2023-04-08
+Man Utd,Brentford,1,0,Man Utd,Brentford,"Old Trafford, Manchester",1,2022/23,2023-04-05
+Newcastle,Man Utd,2,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2022/23,2023-04-02
+Man Utd,Southampton,0,0,draw,draw,"Old Trafford, Manchester",1,2022/23,2023-03-12
+Liverpool,Man Utd,7,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2022/23,2023-03-05
+Man Utd,Leicester,3,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2022/23,2023-02-19
+Leeds,Man Utd,0,2,Man Utd,Leeds,"Elland Road, Leeds",1,2022/23,2023-02-12
+Man Utd,Leeds,2,2,draw,draw,"Old Trafford, Manchester",1,2022/23,2023-02-08
+Man Utd,Crystal Palace,2,1,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2022/23,2023-02-04
+Arsenal,Man Utd,3,2,Arsenal,Man Utd,"Emirates Stadium, London",1,2022/23,2023-01-22
+Crystal Palace,Man Utd,1,1,draw,draw,"Selhurst Park, London",1,2022/23,2023-01-18
+Man Utd,Man City,2,1,Man Utd,Man City,"Old Trafford, Manchester",1,2022/23,2023-01-14
+Man Utd,Bournemouth,3,0,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2022/23,2023-01-03
+Wolves,Man Utd,0,1,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2022/23,2022-12-31
+Man Utd,Nott'm Forest,3,0,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,2022/23,2022-12-27
+Fulham,Man Utd,1,2,Man Utd,Fulham,"Craven Cottage, London",1,2022/23,2022-11-13
+Aston Villa,Man Utd,3,1,Aston Villa,Man Utd,"Villa Park, Birmingham",1,2022/23,2022-11-06
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2022/23,2022-10-30
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,2022/23,2022-10-22
+Man Utd,Spurs,2,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2022/23,2022-10-19
+Man Utd,Newcastle,0,0,draw,draw,"Old Trafford, Manchester",1,2022/23,2022-10-16
+Everton,Man Utd,1,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2022/23,2022-10-09
+Man City,Man Utd,6,3,Man City,Man Utd,"Etihad Stadium, Manchester",1,2022/23,2022-10-02
+Man Utd,Arsenal,3,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2022/23,2022-09-04
+Leicester,Man Utd,0,1,Man Utd,Leicester,"King Power Stadium, Leicester",1,2022/23,2022-09-01
+Southampton,Man Utd,0,1,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2022/23,2022-08-27
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2022/23,2022-08-22
+Brentford,Man Utd,4,0,Brentford,Man Utd,"Gtech Community Stadium, Brentford",1,2022/23,2022-08-13
+Man Utd,Brighton,1,2,Brighton,Man Utd,"Old Trafford, Manchester",1,2022/23,2022-08-07
+Crystal Palace,Man Utd,1,0,Crystal Palace,Man Utd,"Selhurst Park, London",1,2021/22,2022-05-22
+Brighton,Man Utd,4,0,Brighton,Man Utd,"Amex Stadium, Falmer",1,2021/22,2022-05-07
+Man Utd,Brentford,3,0,Man Utd,Brentford,"Old Trafford, Manchester",1,2021/22,2022-05-02
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,2021/22,2022-04-28
+Arsenal,Man Utd,3,1,Arsenal,Man Utd,"Emirates Stadium, London",1,2021/22,2022-04-23
+Liverpool,Man Utd,4,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2021/22,2022-04-19
+Man Utd,Norwich,3,2,Man Utd,Norwich,"Old Trafford, Manchester",1,2021/22,2022-04-16
+Everton,Man Utd,1,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2021/22,2022-04-09
+Man Utd,Leicester,1,1,draw,draw,"Old Trafford, Manchester",1,2021/22,2022-04-02
+Man Utd,Spurs,3,2,Man Utd,Spurs,"Old Trafford, Manchester",1,2021/22,2022-03-12
+Man City,Man Utd,4,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2021/22,2022-03-06
+Man Utd,Watford,0,0,draw,draw,"Old Trafford, Manchester",1,2021/22,2022-02-26
+Leeds,Man Utd,2,4,Man Utd,Leeds,"Elland Road, Leeds",1,2021/22,2022-02-20
+Man Utd,Brighton,2,0,Man Utd,Brighton,"Old Trafford, Manchester",1,2021/22,2022-02-15
+Man Utd,Southampton,1,1,draw,draw,"Old Trafford, Manchester",1,2021/22,2022-02-12
+Burnley,Man Utd,1,1,draw,draw,"Turf Moor, Burnley",1,2021/22,2022-02-08
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2021/22,2022-01-22
+Brentford,Man Utd,1,3,Man Utd,Brentford,"Gtech Community Stadium, Brentford",1,2021/22,2022-01-19
+Aston Villa,Man Utd,2,2,draw,draw,"Villa Park, Birmingham",1,2021/22,2022-01-15
+Man Utd,Wolves,0,1,Wolves,Man Utd,"Old Trafford, Manchester",1,2021/22,2022-01-03
+Man Utd,Burnley,3,1,Man Utd,Burnley,"Old Trafford, Manchester",1,2021/22,2021-12-30
+Newcastle,Man Utd,1,1,draw,draw,"St. James' Park, Newcastle",1,2021/22,2021-12-27
+Norwich,Man Utd,0,1,Man Utd,Norwich,"Carrow Road, Norwich",1,2021/22,2021-12-11
+Man Utd,Crystal Palace,1,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2021/22,2021-12-05
+Man Utd,Arsenal,3,2,Man Utd,Arsenal,"Old Trafford, Manchester",1,2021/22,2021-12-02
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,2021/22,2021-11-28
+Watford,Man Utd,4,1,Watford,Man Utd,"Vicarage Road, Watford",1,2021/22,2021-11-20
+Man Utd,Man City,0,2,Man City,Man Utd,"Old Trafford, Manchester",1,2021/22,2021-11-06
+Spurs,Man Utd,0,3,Man Utd,Spurs,"Tottenham Hotspur Stadium, London",1,2021/22,2021-10-30
+Man Utd,Liverpool,0,5,Liverpool,Man Utd,"Old Trafford, Manchester",1,2021/22,2021-10-24
+Leicester,Man Utd,4,2,Leicester,Man Utd,"King Power Stadium, Leicester",1,2021/22,2021-10-16
+Man Utd,Everton,1,1,draw,draw,"Old Trafford, Manchester",1,2021/22,2021-10-02
+Man Utd,Aston Villa,0,1,Aston Villa,Man Utd,"Old Trafford, Manchester",1,2021/22,2021-09-25
+West Ham,Man Utd,1,2,Man Utd,West Ham,"London Stadium, London",1,2021/22,2021-09-19
+Man Utd,Newcastle,4,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2021/22,2021-09-11
+Wolves,Man Utd,0,1,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2021/22,2021-08-29
+Southampton,Man Utd,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2021/22,2021-08-22
+Man Utd,Leeds,5,1,Man Utd,Leeds,"Old Trafford, Manchester",1,2021/22,2021-08-14
+Wolves,Man Utd,1,2,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2020/21,2021-05-23
+Man Utd,Fulham,1,1,draw,draw,"Old Trafford, Manchester",1,2020/21,2021-05-18
+Man Utd,Liverpool,2,4,Liverpool,Man Utd,"Old Trafford, Manchester",1,2020/21,2021-05-13
+Man Utd,Leicester,1,2,Leicester,Man Utd,"Old Trafford, Manchester",1,2020/21,2021-05-11
+Aston Villa,Man Utd,1,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-05-09
+Leeds,Man Utd,0,0,draw,draw,"Elland Road, Leeds",1,2020/21,2021-04-25
+Man Utd,Burnley,3,1,Man Utd,Burnley,"Old Trafford, Manchester",1,2020/21,2021-04-18
+Spurs,Man Utd,1,3,Man Utd,Spurs,"Tottenham Hotspur Stadium, London",1,2020/21,2021-04-11
+Man Utd,Brighton,2,1,Man Utd,Brighton,"Old Trafford, Manchester",1,2020/21,2021-04-04
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2020/21,2021-03-14
+Man City,Man Utd,0,2,Man Utd,Man City,"Etihad Stadium, Manchester",1,2020/21,2021-03-07
+Crystal Palace,Man Utd,0,0,draw,draw,"Selhurst Park, London",1,2020/21,2021-03-03
+Chelsea,Man Utd,0,0,draw,draw,"Stamford Bridge, London",1,2020/21,2021-02-28
+Man Utd,Newcastle,3,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2020/21,2021-02-21
+West Brom,Man Utd,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2020/21,2021-02-14
+Man Utd,Everton,3,3,draw,draw,"Old Trafford, Manchester",1,2020/21,2021-02-06
+Man Utd,Southampton,9,0,Man Utd,Southampton,"Old Trafford, Manchester",1,2020/21,2021-02-02
+Arsenal,Man Utd,0,0,draw,draw,"Emirates Stadium, London",1,2020/21,2021-01-30
+Man Utd,Sheffield Utd,1,2,Sheffield Utd,Man Utd,"Old Trafford, Manchester",1,2020/21,2021-01-27
+Fulham,Man Utd,1,2,Man Utd,Fulham,"Craven Cottage, London",1,2020/21,2021-01-20
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2020/21,2021-01-17
+Burnley,Man Utd,0,1,Man Utd,Burnley,"Turf Moor, Burnley",1,2020/21,2021-01-12
+Man Utd,Aston Villa,2,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2020/21,2021-01-01
+Man Utd,Wolves,1,0,Man Utd,Wolves,"Old Trafford, Manchester",1,2020/21,2020-12-29
+Leicester,Man Utd,2,2,draw,draw,"King Power Stadium, Leicester",1,2020/21,2020-12-26
+Man Utd,Leeds,6,2,Man Utd,Leeds,"Old Trafford, Manchester",1,2020/21,2020-12-20
+Sheffield Utd,Man Utd,2,3,Man Utd,Sheffield Utd,"Bramall Lane, Sheffield",1,2020/21,2020-12-17
+Man Utd,Man City,0,0,draw,draw,"Old Trafford, Manchester",1,2020/21,2020-12-12
+West Ham,Man Utd,1,3,Man Utd,West Ham,"London Stadium, London",1,2020/21,2020-12-05
+Southampton,Man Utd,2,3,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2020/21,2020-11-29
+Man Utd,West Brom,1,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2020/21,2020-11-21
+Everton,Man Utd,1,3,Man Utd,Everton,"Goodison Park, Liverpool",1,2020/21,2020-11-07
+Man Utd,Arsenal,0,1,Arsenal,Man Utd,"Old Trafford, Manchester",1,2020/21,2020-11-01
+Man Utd,Chelsea,0,0,draw,draw,"Old Trafford, Manchester",1,2020/21,2020-10-24
+Newcastle,Man Utd,1,4,Man Utd,Newcastle,"St. James' Park, Newcastle",1,2020/21,2020-10-17
+Man Utd,Spurs,1,6,Spurs,Man Utd,"Old Trafford, Manchester",1,2020/21,2020-10-04
+Brighton,Man Utd,2,3,Man Utd,Brighton,"American Express Stadium, Falmer",1,2020/21,2020-09-26
+Man Utd,Crystal Palace,1,3,Crystal Palace,Man Utd,"Old Trafford, Manchester",1,2020/21,2020-09-19
+Leicester,Man Utd,0,2,Man Utd,Leicester,"King Power Stadium, Leicester",1,2019/20,2020-07-26
+Man Utd,West Ham,1,1,draw,draw,"Old Trafford, Manchester",1,2019/20,2020-07-22
+Crystal Palace,Man Utd,0,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,2019/20,2020-07-16
+Man Utd,Southampton,2,2,draw,draw,"Old Trafford, Manchester",1,2019/20,2020-07-13
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-07-09
+Man Utd,Bournemouth,5,2,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2019/20,2020-07-04
+Brighton,Man Utd,0,3,Man Utd,Brighton,"American Express Stadium, Falmer",1,2019/20,2020-06-30
+Man Utd,Sheffield Utd,3,0,Man Utd,Sheffield Utd,"Old Trafford, Manchester",1,2019/20,2020-06-24
+Spurs,Man Utd,1,1,draw,draw,"Tottenham Hotspur Stadium, London",1,2019/20,2020-06-19
+Man Utd,Man City,2,0,Man Utd,Man City,"Old Trafford, Manchester",1,2019/20,2020-03-08
+Everton,Man Utd,1,1,draw,draw,"Goodison Park, Liverpool",1,2019/20,2020-03-01
+Man Utd,Watford,3,0,Man Utd,Watford,"Old Trafford, Manchester",1,2019/20,2020-02-23
+Chelsea,Man Utd,0,2,Man Utd,Chelsea,"Stamford Bridge, London",1,2019/20,2020-02-17
+Man Utd,Wolves,0,0,draw,draw,"Old Trafford, Manchester",1,2019/20,2020-02-01
+Man Utd,Burnley,0,2,Burnley,Man Utd,"Old Trafford, Manchester",1,2019/20,2020-01-22
+Liverpool,Man Utd,2,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2019/20,2020-01-19
+Man Utd,Norwich,4,0,Man Utd,Norwich,"Old Trafford, Manchester",1,2019/20,2020-01-11
+Arsenal,Man Utd,2,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2019/20,2020-01-01
+Burnley,Man Utd,0,2,Man Utd,Burnley,"Turf Moor, Burnley",1,2019/20,2019-12-28
+Man Utd,Newcastle,4,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2019/20,2019-12-26
+Watford,Man Utd,2,0,Watford,Man Utd,"Vicarage Road, Watford",1,2019/20,2019-12-22
+Man Utd,Everton,1,1,draw,draw,"Old Trafford, Manchester",1,2019/20,2019-12-15
+Man City,Man Utd,1,2,Man Utd,Man City,"Etihad Stadium, Manchester",1,2019/20,2019-12-07
+Man Utd,Spurs,2,1,Man Utd,Spurs,"Old Trafford, Manchester",1,2019/20,2019-12-04
+Man Utd,Aston Villa,2,2,draw,draw,"Old Trafford, Manchester",1,2019/20,2019-12-01
+Sheffield Utd,Man Utd,3,3,draw,draw,"Bramall Lane, Sheffield",1,2019/20,2019-11-24
+Man Utd,Brighton,3,1,Man Utd,Brighton,"Old Trafford, Manchester",1,2019/20,2019-11-10
+Bournemouth,Man Utd,1,0,Bournemouth,Man Utd,"Vitality Stadium, Bournemouth",1,2019/20,2019-11-02
+Norwich,Man Utd,1,3,Man Utd,Norwich,"Carrow Road, Norwich",1,2019/20,2019-10-27
+Man Utd,Liverpool,1,1,draw,draw,"Old Trafford, Manchester",1,2019/20,2019-10-20
+Newcastle,Man Utd,1,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2019/20,2019-10-06
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,2019/20,2019-09-30
+West Ham,Man Utd,2,0,West Ham,Man Utd,"London Stadium, London",1,2019/20,2019-09-22
+Man Utd,Leicester,1,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2019/20,2019-09-14
+Southampton,Man Utd,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2019/20,2019-08-31
+Man Utd,Crystal Palace,1,2,Crystal Palace,Man Utd,"Old Trafford, Manchester",1,2019/20,2019-08-24
+Wolves,Man Utd,1,1,draw,draw,"Molineux Stadium, Wolverhampton",1,2019/20,2019-08-19
+Man Utd,Chelsea,4,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2019/20,2019-08-11
+Man Utd,Cardiff,0,2,Cardiff,Man Utd,"Old Trafford, Manchester",1,2018/19,2019-05-12
+Huddersfield,Man Utd,1,1,draw,draw,"John Smith's Stadium, Huddersfield",1,2018/19,2019-05-05
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,2018/19,2019-04-28
+Man Utd,Man City,0,2,Man City,Man Utd,"Old Trafford, Manchester",1,2018/19,2019-04-24
+Everton,Man Utd,4,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2018/19,2019-04-21
+Man Utd,West Ham,2,1,Man Utd,West Ham,"Old Trafford, Manchester",1,2018/19,2019-04-13
+Wolves,Man Utd,2,1,Wolves,Man Utd,"Molineux Stadium, Wolverhampton",1,2018/19,2019-04-02
+Man Utd,Watford,2,1,Man Utd,Watford,"Old Trafford, Manchester",1,2018/19,2019-03-30
+Arsenal,Man Utd,2,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2018/19,2019-03-10
+Man Utd,Southampton,3,2,Man Utd,Southampton,"Old Trafford, Manchester",1,2018/19,2019-03-02
+Crystal Palace,Man Utd,1,3,Man Utd,Crystal Palace,"Selhurst Park, London",1,2018/19,2019-02-27
+Man Utd,Liverpool,0,0,draw,draw,"Old Trafford, Manchester",1,2018/19,2019-02-24
+Fulham,Man Utd,0,3,Man Utd,Fulham,"Craven Cottage, London",1,2018/19,2019-02-09
+Leicester,Man Utd,0,1,Man Utd,Leicester,"King Power Stadium, Leicester",1,2018/19,2019-02-03
+Man Utd,Burnley,2,2,draw,draw,"Old Trafford, Manchester",1,2018/19,2019-01-29
+Man Utd,Brighton,2,1,Man Utd,Brighton,"Old Trafford, Manchester",1,2018/19,2019-01-19
+Spurs,Man Utd,0,1,Man Utd,Spurs,"Wembley Stadium, London",1,2018/19,2019-01-13
+Newcastle,Man Utd,0,2,Man Utd,Newcastle,"St. James' Park, Newcastle",1,2018/19,2019-01-02
+Man Utd,Bournemouth,4,1,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2018/19,2018-12-30
+Man Utd,Huddersfield,3,1,Man Utd,Huddersfield,"Old Trafford, Manchester",1,2018/19,2018-12-26
+Cardiff,Man Utd,1,5,Man Utd,Cardiff,"Cardiff City Stadium, Cardiff",1,2018/19,2018-12-22
+Liverpool,Man Utd,3,1,Liverpool,Man Utd,"Anfield, Liverpool",1,2018/19,2018-12-16
+Man Utd,Fulham,4,1,Man Utd,Fulham,"Old Trafford, Manchester",1,2018/19,2018-12-08
+Man Utd,Arsenal,2,2,draw,draw,"Old Trafford, Manchester",1,2018/19,2018-12-05
+Southampton,Man Utd,2,2,draw,draw,"St. Mary's Stadium, Southampton",1,2018/19,2018-12-01
+Man Utd,Crystal Palace,0,0,draw,draw,"Old Trafford, Manchester",1,2018/19,2018-11-24
+Man City,Man Utd,3,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2018/19,2018-11-11
+Bournemouth,Man Utd,1,2,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2018/19,2018-11-03
+Man Utd,Everton,2,1,Man Utd,Everton,"Old Trafford, Manchester",1,2018/19,2018-10-28
+Chelsea,Man Utd,2,2,draw,draw,"Stamford Bridge, London",1,2018/19,2018-10-20
+Man Utd,Newcastle,3,2,Man Utd,Newcastle,"Old Trafford, Manchester",1,2018/19,2018-10-06
+West Ham,Man Utd,3,1,West Ham,Man Utd,"London Stadium, London",1,2018/19,2018-09-29
+Man Utd,Wolves,1,1,draw,draw,"Old Trafford, Manchester",1,2018/19,2018-09-22
+Watford,Man Utd,1,2,Man Utd,Watford,"Vicarage Road, Watford",1,2018/19,2018-09-15
+Burnley,Man Utd,0,2,Man Utd,Burnley,"Turf Moor, Burnley",1,2018/19,2018-09-02
+Man Utd,Spurs,0,3,Spurs,Man Utd,"Old Trafford, Manchester",1,2018/19,2018-08-27
+Brighton,Man Utd,3,2,Brighton,Man Utd,"American Express Stadium, Falmer",1,2018/19,2018-08-19
+Man Utd,Leicester,2,1,Man Utd,Leicester,"Old Trafford, Manchester",1,2018/19,2018-08-10
+Man Utd,Watford,1,0,Man Utd,Watford,"Old Trafford, Manchester",1,2017/18,2018-05-13
+West Ham,Man Utd,0,0,draw,draw,"London Stadium, London",1,2017/18,2018-05-10
+Brighton,Man Utd,1,0,Brighton,Man Utd,"Amex Stadium, Falmer",1,2017/18,2018-05-04
+Man Utd,Arsenal,2,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2017/18,2018-04-29
+Bournemouth,Man Utd,0,2,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2018-04-18
+Man Utd,West Brom,0,1,West Brom,Man Utd,"Old Trafford, Manchester",1,2017/18,2018-04-15
+Man City,Man Utd,2,3,Man Utd,Man City,"Etihad Stadium, Manchester",1,2017/18,2018-04-07
+Man Utd,Swansea,2,0,Man Utd,Swansea,"Old Trafford, Manchester",1,2017/18,2018-03-31
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2017/18,2018-03-10
+Crystal Palace,Man Utd,2,3,Man Utd,Crystal Palace,"Selhurst Park, London",1,2017/18,2018-03-05
+Man Utd,Chelsea,2,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2017/18,2018-02-25
+Newcastle,Man Utd,1,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2017/18,2018-02-11
+Man Utd,Huddersfield,2,0,Man Utd,Huddersfield,"Old Trafford, Manchester",1,2017/18,2018-02-03
+Spurs,Man Utd,2,0,Spurs,Man Utd,"Wembley Stadium, London",1,2017/18,2018-01-31
+Burnley,Man Utd,0,1,Man Utd,Burnley,"Turf Moor, Burnley",1,2017/18,2018-01-20
+Man Utd,Stoke,3,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2017/18,2018-01-15
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2017/18,2018-01-01
+Man Utd,Southampton,0,0,draw,draw,"Old Trafford, Manchester",1,2017/18,2017-12-30
+Man Utd,Burnley,2,2,draw,draw,"Old Trafford, Manchester",1,2017/18,2017-12-26
+Leicester,Man Utd,2,2,draw,draw,"King Power Stadium, Leicester",1,2017/18,2017-12-23
+West Brom,Man Utd,1,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2017-12-17
+Man Utd,Bournemouth,1,0,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2017/18,2017-12-13
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2017/18,2017-12-10
+Arsenal,Man Utd,1,3,Man Utd,Arsenal,"Emirates Stadium, London",1,2017/18,2017-12-02
+Watford,Man Utd,2,4,Man Utd,Watford,"Vicarage Road, Watford",1,2017/18,2017-11-28
+Man Utd,Brighton,1,0,Man Utd,Brighton,"Old Trafford, Manchester",1,2017/18,2017-11-25
+Man Utd,Newcastle,4,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2017/18,2017-11-18
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2017/18,2017-11-05
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2017/18,2017-10-28
+Huddersfield,Man Utd,2,1,Huddersfield,Man Utd,"John Smith's Stadium, Huddersfield",1,2017/18,2017-10-21
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2017/18,2017-10-14
+Man Utd,Crystal Palace,4,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2017/18,2017-09-30
+Southampton,Man Utd,0,1,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2017-09-23
+Man Utd,Everton,4,0,Man Utd,Everton,"Old Trafford, Manchester",1,2017/18,2017-09-17
+Stoke,Man Utd,2,2,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2017-09-09
+Man Utd,Leicester,2,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2017/18,2017-08-26
+Swansea,Man Utd,0,4,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-08-19
+Man Utd,West Ham,4,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2017/18,2017-08-13
+Man Utd,Crystal Palace,2,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2016/17,2017-05-21
+Southampton,Man Utd,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2017-05-17
+Spurs,Man Utd,2,1,Spurs,Man Utd,"White Hart Lane, London",1,2016/17,2017-05-14
+Arsenal,Man Utd,2,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2016/17,2017-05-07
+Man Utd,Swansea,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-30
+Man City,Man Utd,0,0,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2017-04-27
+Burnley,Man Utd,0,2,Man Utd,Burnley,"Turf Moor, Burnley",1,2016/17,2017-04-23
+Man Utd,Chelsea,2,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2016/17,2017-04-16
+Sunderland,Man Utd,0,3,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-04-09
+Man Utd,Everton,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-04
+Man Utd,West Brom,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-01
+Middlesbrough,Man Utd,1,3,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2017-03-19
+Man Utd,Bournemouth,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-03-04
+Man Utd,Watford,2,0,Man Utd,Watford,"Old Trafford, Manchester",1,2016/17,2017-02-11
+Leicester,Man Utd,0,3,Man Utd,Leicester,"King Power Stadium, Leicester",1,2016/17,2017-02-05
+Man Utd,Hull,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-02-01
+Stoke,Man Utd,1,1,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2017-01-21
+Man Utd,Liverpool,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-01-15
+West Ham,Man Utd,0,2,Man Utd,West Ham,"London Stadium, London",1,2016/17,2017-01-02
+Man Utd,Middlesbrough,2,1,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2016/17,2016-12-31
+Man Utd,Sunderland,3,1,Man Utd,Sunderland,"Old Trafford, Manchester",1,2016/17,2016-12-26
+West Brom,Man Utd,0,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2016-12-17
+Crystal Palace,Man Utd,1,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-12-14
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2016/17,2016-12-11
+Everton,Man Utd,1,1,draw,draw,"Goodison Park, Liverpool",1,2016/17,2016-12-04
+Man Utd,West Ham,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-11-27
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-11-19
+Swansea,Man Utd,1,3,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-11-06
+Man Utd,Burnley,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-10-29
+Chelsea,Man Utd,4,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2016/17,2016-10-23
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2016/17,2016-10-17
+Man Utd,Stoke,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-10-02
+Man Utd,Leicester,4,1,Man Utd,Leicester,"Old Trafford, Manchester",1,2016/17,2016-09-24
+Watford,Man Utd,3,1,Watford,Man Utd,"Vicarage Road, Watford",1,2016/17,2016-09-18
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2016/17,2016-09-10
+Hull,Man Utd,0,1,Man Utd,Hull,"MKM Stadium, Hull",1,2016/17,2016-08-27
+Man Utd,Southampton,2,0,Man Utd,Southampton,"Old Trafford, Manchester",1,2016/17,2016-08-19
+Bournemouth,Man Utd,1,3,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2016-08-14
+Man Utd,Bournemouth,3,1,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2015/16,2016-05-17
+West Ham,Man Utd,3,2,West Ham,Man Utd,"Boleyn Ground, London",1,2015/16,2016-05-10
+Norwich,Man Utd,0,1,Man Utd,Norwich,"Carrow Road, Norwich",1,2015/16,2016-05-07
+Man Utd,Leicester,1,1,draw,draw,"Old Trafford, Manchester",1,2015/16,2016-05-01
+Man Utd,Crystal Palace,2,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2015/16,2016-04-20
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2015/16,2016-04-16
+Spurs,Man Utd,3,0,Spurs,Man Utd,"White Hart Lane, London",1,2015/16,2016-04-10
+Man Utd,Everton,1,0,Man Utd,Everton,"Old Trafford, Manchester",1,2015/16,2016-04-03
+Man City,Man Utd,0,1,Man Utd,Man City,"Etihad Stadium, Manchester",1,2015/16,2016-03-20
+West Brom,Man Utd,1,0,West Brom,Man Utd,"The Hawthorns, West Bromwich",1,2015/16,2016-03-06
+Man Utd,Watford,1,0,Man Utd,Watford,"Old Trafford, Manchester",1,2015/16,2016-03-02
+Man Utd,Arsenal,3,2,Man Utd,Arsenal,"Old Trafford, Manchester",1,2015/16,2016-02-28
+Sunderland,Man Utd,2,1,Sunderland,Man Utd,"Stadium of Light, Sunderland",1,2015/16,2016-02-13
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,2015/16,2016-02-07
+Man Utd,Stoke,3,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2015/16,2016-02-02
+Man Utd,Southampton,0,1,Southampton,Man Utd,"Old Trafford, Manchester",1,2015/16,2016-01-23
+Liverpool,Man Utd,0,1,Man Utd,Liverpool,"Anfield, Liverpool",1,2015/16,2016-01-17
+Newcastle,Man Utd,3,3,draw,draw,"St. James' Park, Newcastle",1,2015/16,2016-01-12
+Man Utd,Swansea,2,1,Man Utd,Swansea,"Old Trafford, Manchester",1,2015/16,2016-01-02
+Man Utd,Chelsea,0,0,draw,draw,"Old Trafford, Manchester",1,2015/16,2015-12-28
+Stoke,Man Utd,2,0,Stoke,Man Utd,"bet365 Stadium, Stoke",1,2015/16,2015-12-26
+Man Utd,Norwich,1,2,Norwich,Man Utd,"Old Trafford, Manchester",1,2015/16,2015-12-19
+Bournemouth,Man Utd,2,1,Bournemouth,Man Utd,"Goldsands Stadium, Bournemouth",1,2015/16,2015-12-12
+Man Utd,West Ham,0,0,draw,draw,"Old Trafford, Manchester",1,2015/16,2015-12-05
+Leicester,Man Utd,1,1,draw,draw,"King Power Stadium, Leicester",1,2015/16,2015-11-28
+Watford,Man Utd,1,2,Man Utd,Watford,"Vicarage Road, Watford",1,2015/16,2015-11-21
+Man Utd,West Brom,2,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2015/16,2015-11-07
+Crystal Palace,Man Utd,0,0,draw,draw,"Selhurst Park, London",1,2015/16,2015-10-31
+Man Utd,Man City,0,0,draw,draw,"Old Trafford, Manchester",1,2015/16,2015-10-25
+Everton,Man Utd,0,3,Man Utd,Everton,"Goodison Park, Liverpool",1,2015/16,2015-10-17
+Arsenal,Man Utd,3,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2015/16,2015-10-04
+Man Utd,Sunderland,3,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2015/16,2015-09-26
+Southampton,Man Utd,2,3,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2015/16,2015-09-20
+Man Utd,Liverpool,3,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2015/16,2015-09-12
+Swansea,Man Utd,2,1,Swansea,Man Utd,"Liberty Stadium, Swansea",1,2015/16,2015-08-30
+Man Utd,Newcastle,0,0,draw,draw,"Old Trafford, Manchester",1,2015/16,2015-08-22
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-08-14
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2015/16,2015-08-08
+Hull,Man Utd,0,0,draw,draw,"KCOM Stadium, Hull",1,2014/15,2015-05-24
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,2014/15,2015-05-17
+Crystal Palace,Man Utd,1,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,2014/15,2015-05-09
+Man Utd,West Brom,0,1,West Brom,Man Utd,"Old Trafford, Manchester",1,2014/15,2015-05-02
+Everton,Man Utd,3,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2014/15,2015-04-26
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2014/15,2015-04-18
+Man Utd,Man City,4,2,Man Utd,Man City,"Old Trafford, Manchester",1,2014/15,2015-04-12
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2014/15,2015-04-04
+Liverpool,Man Utd,1,2,Man Utd,Liverpool,"Anfield, Liverpool",1,2014/15,2015-03-22
+Man Utd,Spurs,3,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2014/15,2015-03-15
+Newcastle,Man Utd,0,1,Man Utd,Newcastle,"St. James' Park, Newcastle",1,2014/15,2015-03-04
+Man Utd,Sunderland,2,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2014/15,2015-02-28
+Swansea,Man Utd,2,1,Swansea,Man Utd,"Liberty Stadium, Swansea",1,2014/15,2015-02-21
+Man Utd,Burnley,3,1,Man Utd,Burnley,"Old Trafford, Manchester",1,2014/15,2015-02-11
+West Ham,Man Utd,1,1,draw,draw,"Boleyn Ground, London",1,2014/15,2015-02-08
+Man Utd,Leicester,3,1,Man Utd,Leicester,"Old Trafford, Manchester",1,2014/15,2015-01-31
+QPR,Man Utd,0,2,Man Utd,QPR,"Loftus Road, London",1,2014/15,2015-01-17
+Man Utd,Southampton,0,1,Southampton,Man Utd,"Old Trafford, Manchester",1,2014/15,2015-01-11
+Stoke,Man Utd,1,1,draw,draw,"bet365 Stadium, Stoke",1,2014/15,2015-01-01
+Spurs,Man Utd,0,0,draw,draw,"White Hart Lane, London",1,2014/15,2014-12-28
+Man Utd,Newcastle,3,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2014/15,2014-12-26
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2014/15,2014-12-20
+Man Utd,Liverpool,3,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,2014/15,2014-12-14
+Southampton,Man Utd,1,2,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2014/15,2014-12-08
+Man Utd,Stoke,2,1,Man Utd,Stoke,"Old Trafford, Manchester",1,2014/15,2014-12-02
+Man Utd,Hull,3,0,Man Utd,Hull,"Old Trafford, Manchester",1,2014/15,2014-11-29
+Arsenal,Man Utd,1,2,Man Utd,Arsenal,"Emirates Stadium, London",1,2014/15,2014-11-22
+Man Utd,Crystal Palace,1,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2014/15,2014-11-08
+Man City,Man Utd,1,0,Man City,Man Utd,"Etihad Stadium, Manchester",1,2014/15,2014-11-02
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,2014/15,2014-10-26
+West Brom,Man Utd,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2014/15,2014-10-20
+Man Utd,Everton,2,1,Man Utd,Everton,"Old Trafford, Manchester",1,2014/15,2014-10-05
+Man Utd,West Ham,2,1,Man Utd,West Ham,"Old Trafford, Manchester",1,2014/15,2014-09-27
+Leicester,Man Utd,5,3,Leicester,Man Utd,"King Power Stadium, Leicester",1,2014/15,2014-09-21
+Man Utd,QPR,4,0,Man Utd,QPR,"Old Trafford, Manchester",1,2014/15,2014-09-14
+Burnley,Man Utd,0,0,draw,draw,"Turf Moor, Burnley",1,2014/15,2014-08-30
+Sunderland,Man Utd,1,1,draw,draw,"Stadium of Light, Sunderland",1,2014/15,2014-08-24
+Man Utd,Swansea,1,2,Swansea,Man Utd,"Old Trafford, Manchester",1,2014/15,2014-08-16
+Southampton,Man Utd,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2013/14,2014-05-11
+Man Utd,Hull,3,1,Man Utd,Hull,"Old Trafford, Manchester",1,2013/14,2014-05-06
+Man Utd,Sunderland,0,1,Sunderland,Man Utd,"Old Trafford, Manchester",1,2013/14,2014-05-03
+Man Utd,Norwich,4,0,Man Utd,Norwich,"Old Trafford, Manchester",1,2013/14,2014-04-26
+Everton,Man Utd,2,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2013/14,2014-04-20
+Newcastle,Man Utd,0,4,Man Utd,Newcastle,"St. James' Park, Newcastle",1,2013/14,2014-04-05
+Man Utd,Aston Villa,4,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2013/14,2014-03-29
+Man Utd,Man City,0,3,Man City,Man Utd,"Old Trafford, Manchester",1,2013/14,2014-03-25
+West Ham,Man Utd,0,2,Man Utd,West Ham,"Boleyn Ground, London",1,2013/14,2014-03-22
+Man Utd,Liverpool,0,3,Liverpool,Man Utd,"Old Trafford, Manchester",1,2013/14,2014-03-16
+West Brom,Man Utd,0,3,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2013/14,2014-03-08
+Crystal Palace,Man Utd,0,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,2013/14,2014-02-22
+Arsenal,Man Utd,0,0,draw,draw,"Emirates Stadium, London",1,2013/14,2014-02-12
+Man Utd,Fulham,2,2,draw,draw,"Old Trafford, Manchester",1,2013/14,2014-02-09
+Stoke,Man Utd,2,1,Stoke,Man Utd,"Britannia Stadium, Stoke",1,2013/14,2014-02-01
+Man Utd,Cardiff,2,0,Man Utd,Cardiff,"Old Trafford, Manchester",1,2013/14,2014-01-28
+Chelsea,Man Utd,3,1,Chelsea,Man Utd,"Stamford Bridge, London",1,2013/14,2014-01-19
+Man Utd,Swansea,2,0,Man Utd,Swansea,"Old Trafford, Manchester",1,2013/14,2014-01-11
+Man Utd,Spurs,1,2,Spurs,Man Utd,"Old Trafford, Manchester",1,2013/14,2014-01-01
+Norwich,Man Utd,0,1,Man Utd,Norwich,"Carrow Road, Norwich",1,2013/14,2013-12-28
+Hull,Man Utd,2,3,Man Utd,Hull,"MKM Stadium, Hull",1,2013/14,2013-12-26
+Man Utd,West Ham,3,1,Man Utd,West Ham,"Old Trafford, Manchester",1,2013/14,2013-12-21
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-12-15
+Man Utd,Newcastle,0,1,Newcastle,Man Utd,"Old Trafford, Manchester",1,2013/14,2013-12-07
+Man Utd,Everton,0,1,Everton,Man Utd,"Old Trafford, Manchester",1,2013/14,2013-12-04
+Spurs,Man Utd,2,2,draw,draw,"White Hart Lane, London",1,2013/14,2013-12-01
+Cardiff,Man Utd,2,2,draw,draw,"Cardiff City Stadium, Cardiff",1,2013/14,2013-11-24
+Man Utd,Arsenal,1,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,2013/14,2013-11-10
+Fulham,Man Utd,1,3,Man Utd,Fulham,"Craven Cottage, London",1,2013/14,2013-11-02
+Man Utd,Stoke,3,2,Man Utd,Stoke,"Old Trafford, Manchester",1,2013/14,2013-10-26
+Man Utd,Southampton,1,1,draw,draw,"Old Trafford, Manchester",1,2013/14,2013-10-19
+Sunderland,Man Utd,1,2,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2013/14,2013-10-05
+Man Utd,West Brom,1,2,West Brom,Man Utd,"Old Trafford, Manchester",1,2013/14,2013-09-28
+Man City,Man Utd,4,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2013/14,2013-09-22
+Man Utd,Crystal Palace,2,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2013/14,2013-09-14
+Liverpool,Man Utd,1,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2013/14,2013-09-01
+Man Utd,Chelsea,0,0,draw,draw,"Old Trafford, Manchester",1,2013/14,2013-08-26
+Swansea,Man Utd,1,4,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2013/14,2013-08-17
+West Brom,Man Utd,5,5,draw,draw,"The Hawthorns, West Bromwich",1,2012/13,2013-05-19
+Man Utd,Swansea,2,1,Man Utd,Swansea,"Old Trafford, Manchester",1,2012/13,2013-05-12
+Man Utd,Chelsea,0,1,Chelsea,Man Utd,"Old Trafford, Manchester",1,2012/13,2013-05-05
+Arsenal,Man Utd,1,1,draw,draw,"Emirates Stadium, London",1,2012/13,2013-04-28
+Man Utd,Aston Villa,3,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2012/13,2013-04-22
+West Ham,Man Utd,2,2,draw,draw,"Boleyn Ground, London",1,2012/13,2013-04-17
+Stoke,Man Utd,0,2,Man Utd,Stoke,"Britannia Stadium, Stoke",1,2012/13,2013-04-14
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2012/13,2013-04-08
+Sunderland,Man Utd,0,1,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2012/13,2013-03-30
+Man Utd,Reading,1,0,Man Utd,Reading,"Old Trafford, Manchester",1,2012/13,2013-03-16
+Man Utd,Norwich,4,0,Man Utd,Norwich,"Old Trafford, Manchester",1,2012/13,2013-03-02
+QPR,Man Utd,0,2,Man Utd,QPR,"Kiyan Prince Foundation Stadium, London",1,2012/13,2013-02-23
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,2012/13,2013-02-10
+Fulham,Man Utd,0,1,Man Utd,Fulham,"Craven Cottage, London",1,2012/13,2013-02-02
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,2012/13,2013-01-30
+Spurs,Man Utd,1,1,draw,draw,"White Hart Lane, London",1,2012/13,2013-01-20
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2012/13,2013-01-13
+Wigan,Man Utd,0,4,Man Utd,Wigan,"DW Stadium, Wigan",1,2012/13,2013-01-01
+Man Utd,West Brom,2,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2012/13,2012-12-29
+Man Utd,Newcastle,4,3,Man Utd,Newcastle,"Old Trafford, Manchester",1,2012/13,2012-12-26
+Swansea,Man Utd,1,1,draw,draw,"Swansea.com Stadium, Swansea",1,2012/13,2012-12-23
+Man Utd,Sunderland,3,1,Man Utd,Sunderland,"Old Trafford, Manchester",1,2012/13,2012-12-15
+Man City,Man Utd,2,3,Man Utd,Man City,"Etihad Stadium, Manchester",1,2012/13,2012-12-09
+Reading,Man Utd,3,4,Man Utd,Reading,"Madejski Stadium, Reading",1,2012/13,2012-12-01
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2012/13,2012-11-28
+Man Utd,QPR,3,1,Man Utd,QPR,"Old Trafford, Manchester",1,2012/13,2012-11-24
+Norwich,Man Utd,1,0,Norwich,Man Utd,"Carrow Road, Norwich",1,2012/13,2012-11-17
+Aston Villa,Man Utd,2,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2012/13,2012-11-10
+Man Utd,Arsenal,2,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2012/13,2012-11-03
+Chelsea,Man Utd,2,3,Man Utd,Chelsea,"Stamford Bridge, London",1,2012/13,2012-10-28
+Man Utd,Stoke,4,2,Man Utd,Stoke,"Old Trafford, Manchester",1,2012/13,2012-10-20
+Newcastle,Man Utd,0,3,Man Utd,Newcastle,"St James' Park, Newcastle",1,2012/13,2012-10-07
+Man Utd,Spurs,2,3,Spurs,Man Utd,"Old Trafford, Manchester",1,2012/13,2012-09-29
+Liverpool,Man Utd,1,2,Man Utd,Liverpool,"Anfield, Liverpool",1,2012/13,2012-09-23
+Man Utd,Wigan,4,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2012/13,2012-09-15
+Southampton,Man Utd,2,3,Man Utd,Southampton,"The Friends Provident St Mary's Stadium, Southampton",1,2012/13,2012-09-02
+Man Utd,Fulham,3,2,Man Utd,Fulham,"Old Trafford, Manchester",1,2012/13,2012-08-25
+Everton,Man Utd,1,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2012/13,2012-08-20
+Sunderland,Man Utd,0,1,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2011/12,2012-05-13
+Man Utd,Swansea,2,0,Man Utd,Swansea,"Old Trafford, Manchester",1,2011/12,2012-05-06
+Man City,Man Utd,1,0,Man City,Man Utd,"Etihad Stadium, Manchester",1,2011/12,2012-04-30
+Man Utd,Everton,4,4,draw,draw,"Old Trafford, Manchester",1,2011/12,2012-04-22
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2011/12,2012-04-15
+Wigan,Man Utd,1,0,Wigan,Man Utd,"DW Stadium, Wigan",1,2011/12,2012-04-11
+Man Utd,QPR,2,0,Man Utd,QPR,"Old Trafford, Manchester",1,2011/12,2012-04-08
+Blackburn,Man Utd,0,2,Man Utd,Blackburn,"Ewood Park, Blackburn",1,2011/12,2012-04-02
+Man Utd,Fulham,1,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2011/12,2012-03-26
+Wolves,Man Utd,0,5,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2011/12,2012-03-18
+Man Utd,West Brom,2,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2011/12,2012-03-11
+Spurs,Man Utd,1,3,Man Utd,Spurs,"White Hart Lane, London",1,2011/12,2012-03-04
+Norwich,Man Utd,1,2,Man Utd,Norwich,"Carrow Road, Norwich",1,2011/12,2012-02-26
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2011/12,2012-02-11
+Chelsea,Man Utd,3,3,draw,draw,"Stamford Bridge, London",1,2011/12,2012-02-05
+Man Utd,Stoke,2,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2011/12,2012-01-31
+Arsenal,Man Utd,1,2,Man Utd,Arsenal,"Emirates Stadium, London",1,2011/12,2012-01-22
+Man Utd,Bolton,3,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2011/12,2012-01-14
+Newcastle,Man Utd,3,0,Newcastle,Man Utd,"St James' Park, Newcastle",1,2011/12,2012-01-04
+Man Utd,Blackburn,2,3,Blackburn,Man Utd,"Old Trafford, Manchester",1,2011/12,2011-12-31
+Man Utd,Wigan,5,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2011/12,2011-12-26
+Fulham,Man Utd,0,5,Man Utd,Fulham,"Craven Cottage, London",1,2011/12,2011-12-21
+QPR,Man Utd,0,2,Man Utd,QPR,"Kiyan Prince Foundation Stadium, London",1,2011/12,2011-12-18
+Man Utd,Wolves,4,1,Man Utd,Wolves,"Old Trafford, Manchester",1,2011/12,2011-12-10
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2011/12,2011-12-03
+Man Utd,Newcastle,1,1,draw,draw,"Old Trafford, Manchester",1,2011/12,2011-11-26
+Swansea,Man Utd,0,1,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2011/12,2011-11-19
+Man Utd,Sunderland,1,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2011/12,2011-11-05
+Everton,Man Utd,0,1,Man Utd,Everton,"Goodison Park, Liverpool",1,2011/12,2011-10-29
+Man Utd,Man City,1,6,Man City,Man Utd,"Old Trafford, Manchester",1,2011/12,2011-10-23
+Liverpool,Man Utd,1,1,draw,draw,"Anfield, Liverpool",1,2011/12,2011-10-15
+Man Utd,Norwich,2,0,Man Utd,Norwich,"Old Trafford, Manchester",1,2011/12,2011-10-01
+Stoke,Man Utd,1,1,draw,draw,"bet365 Stadium, Stoke",1,2011/12,2011-09-24
+Man Utd,Chelsea,3,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2011/12,2011-09-18
+Bolton,Man Utd,0,5,Man Utd,Bolton,"Toughsheet Community Stadium, Bolton",1,2011/12,2011-09-10
+Man Utd,Arsenal,8,2,Man Utd,Arsenal,"Old Trafford, Manchester",1,2011/12,2011-08-28
+Man Utd,Spurs,3,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2011/12,2011-08-22
+West Brom,Man Utd,1,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2011/12,2011-08-14
+Man Utd,Blackpool,4,2,Man Utd,Blackpool,"Old Trafford, Manchester",1,2010/11,2011-05-22
+Blackburn,Man Utd,1,1,draw,draw,"Ewood Park, Blackburn",1,2010/11,2011-05-14
+Man Utd,Chelsea,2,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2010/11,2011-05-08
+Arsenal,Man Utd,1,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2010/11,2011-05-01
+Man Utd,Everton,1,0,Man Utd,Everton,"Old Trafford, Manchester",1,2010/11,2011-04-23
+Newcastle,Man Utd,0,0,draw,draw,"Sports Direct Arena, Newcastle",1,2010/11,2011-04-19
+Man Utd,Fulham,2,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2010/11,2011-04-09
+West Ham,Man Utd,2,4,Man Utd,West Ham,"Boleyn Ground, London",1,2010/11,2011-04-02
+Man Utd,Bolton,1,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2010/11,2011-03-19
+Liverpool,Man Utd,3,1,Liverpool,Man Utd,"Anfield, Liverpool",1,2010/11,2011-03-06
+Chelsea,Man Utd,2,1,Chelsea,Man Utd,"Stamford Bridge, London",1,2010/11,2011-03-01
+Wigan,Man Utd,0,4,Man Utd,Wigan,"DW Stadium, Wigan",1,2010/11,2011-02-26
+Man Utd,Man City,2,1,Man Utd,Man City,"Old Trafford, Manchester",1,2010/11,2011-02-12
+Wolves,Man Utd,2,1,Wolves,Man Utd,"Molineux Stadium, Wolverhampton",1,2010/11,2011-02-05
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2010/11,2011-02-01
+Blackpool,Man Utd,2,3,Man Utd,Blackpool,"Bloomfield Road, Blackpool",1,2010/11,2011-01-25
+Man Utd,Birmingham,5,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2010/11,2011-01-22
+Spurs,Man Utd,0,0,draw,draw,"White Hart Lane, London",1,2010/11,2011-01-16
+Man Utd,Stoke,2,1,Man Utd,Stoke,"Old Trafford, Manchester",1,2010/11,2011-01-04
+West Brom,Man Utd,1,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2010/11,2011-01-01
+Birmingham,Man Utd,1,1,draw,draw,"St Andrews, Birmingham",1,2010/11,2010-12-28
+Man Utd,Sunderland,2,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2010/11,2010-12-26
+Man Utd,Arsenal,1,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,2010/11,2010-12-13
+Man Utd,Blackburn,7,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2010/11,2010-11-27
+Man Utd,Wigan,2,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2010/11,2010-11-20
+Aston Villa,Man Utd,2,2,draw,draw,"Villa Park, Birmingham",1,2010/11,2010-11-13
+Man City,Man Utd,0,0,draw,draw,"Etihad Stadium, Manchester",1,2010/11,2010-11-10
+Man Utd,Wolves,2,1,Man Utd,Wolves,"Old Trafford, Manchester",1,2010/11,2010-11-06
+Man Utd,Spurs,2,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2010/11,2010-10-30
+Stoke,Man Utd,1,2,Man Utd,Stoke,"Britannia Stadium, Stoke",1,2010/11,2010-10-24
+Man Utd,West Brom,2,2,draw,draw,"Old Trafford, Manchester",1,2010/11,2010-10-16
+Sunderland,Man Utd,0,0,draw,draw,"Stadium of Light, Sunderland",1,2010/11,2010-10-02
+Bolton,Man Utd,2,2,draw,draw,"Macron Stadium, Bolton",1,2010/11,2010-09-26
+Man Utd,Liverpool,3,2,Man Utd,Liverpool,"Old Trafford, Manchester",1,2010/11,2010-09-19
+Everton,Man Utd,3,3,draw,draw,"Goodison Park, Liverpool",1,2010/11,2010-09-11
+Man Utd,West Ham,3,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2010/11,2010-08-28
+Fulham,Man Utd,2,2,draw,draw,"Craven Cottage, London",1,2010/11,2010-08-22
+Man Utd,Newcastle,3,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,2010/11,2010-08-16
+Man Utd,Stoke,4,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2009/10,2010-05-09
+Sunderland,Man Utd,0,1,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2009/10,2010-05-02
+Man Utd,Spurs,3,1,Man Utd,Spurs,"Old Trafford, Manchester",1,2009/10,2010-04-24
+Man City,Man Utd,0,1,Man Utd,Man City,"Etihad Stadium, Manchester",1,2009/10,2010-04-17
+Blackburn,Man Utd,0,0,draw,draw,"Ewood Park, Blackburn",1,2009/10,2010-04-11
+Man Utd,Chelsea,1,2,Chelsea,Man Utd,"Old Trafford, Manchester",1,2009/10,2010-04-03
+Bolton,Man Utd,0,4,Man Utd,Bolton,"Macron Stadium, Bolton",1,2009/10,2010-03-27
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2009/10,2010-03-21
+Man Utd,Fulham,3,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2009/10,2010-03-14
+Wolves,Man Utd,0,1,Man Utd,Wolves,"Molineux Stadium, Wolverhampton",1,2009/10,2010-03-06
+Man Utd,West Ham,3,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2009/10,2010-02-23
+Everton,Man Utd,3,1,Everton,Man Utd,"Goodison Park, Liverpool",1,2009/10,2010-02-20
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-02-10
+Man Utd,Portsmouth,5,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2009/10,2010-02-06
+Arsenal,Man Utd,1,3,Man Utd,Arsenal,"Emirates Stadium, London",1,2009/10,2010-01-31
+Man Utd,Hull,4,0,Man Utd,Hull,"Old Trafford, Manchester",1,2009/10,2010-01-23
+Man Utd,Burnley,3,0,Man Utd,Burnley,"Old Trafford, Manchester",1,2009/10,2010-01-16
+Birmingham,Man Utd,1,1,draw,draw,"St Andrews, Birmingham",1,2009/10,2010-01-09
+Man Utd,Wigan,5,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2009/10,2009-12-30
+Hull,Man Utd,1,3,Man Utd,Hull,"KCOM Stadium, Hull",1,2009/10,2009-12-27
+Fulham,Man Utd,3,0,Fulham,Man Utd,"Craven Cottage, London",1,2009/10,2009-12-19
+Man Utd,Wolves,3,0,Man Utd,Wolves,"Old Trafford, Manchester",1,2009/10,2009-12-15
+Man Utd,Aston Villa,0,1,Aston Villa,Man Utd,"Old Trafford, Manchester",1,2009/10,2009-12-12
+West Ham,Man Utd,0,4,Man Utd,West Ham,"Boleyn Ground, London",1,2009/10,2009-12-05
+Portsmouth,Man Utd,1,4,Man Utd,Portsmouth,"Fratton Park, Portsmouth",1,2009/10,2009-11-28
+Man Utd,Everton,3,0,Man Utd,Everton,"Old Trafford, Manchester",1,2009/10,2009-11-21
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2009/10,2009-11-08
+Man Utd,Blackburn,2,0,Man Utd,Blackburn,"Old Trafford, Manchester",1,2009/10,2009-10-31
+Liverpool,Man Utd,2,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2009/10,2009-10-25
+Man Utd,Bolton,2,1,Man Utd,Bolton,"Old Trafford, Manchester",1,2009/10,2009-10-17
+Man Utd,Sunderland,2,2,draw,draw,"Old Trafford, Manchester",1,2009/10,2009-10-03
+Stoke,Man Utd,0,2,Man Utd,Stoke,"Britannia Stadium, Stoke",1,2009/10,2009-09-26
+Man Utd,Man City,4,3,Man Utd,Man City,"Old Trafford, Manchester",1,2009/10,2009-09-20
+Spurs,Man Utd,1,3,Man Utd,Spurs,"White Hart Lane, London",1,2009/10,2009-09-12
+Man Utd,Arsenal,2,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2009/10,2009-08-29
+Wigan,Man Utd,0,5,Man Utd,Wigan,"DW Stadium, Wigan",1,2009/10,2009-08-22
+Burnley,Man Utd,1,0,Burnley,Man Utd,"Turf Moor, Burnley",1,2009/10,2009-08-19
+Man Utd,Birmingham,1,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2009/10,2009-08-16
+Hull,Man Utd,0,1,Man Utd,Hull,"KCOM Stadium, Hull",1,2008/09,2009-05-24
+Man Utd,Arsenal,0,0,draw,draw,"Old Trafford, Manchester",1,2008/09,2009-05-16
+Wigan,Man Utd,1,2,Man Utd,Wigan,"DW Stadium, Wigan",1,2008/09,2009-05-13
+Man Utd,Man City,2,0,Man Utd,Man City,"Old Trafford, Manchester",1,2008/09,2009-05-10
+Middlesbrough,Man Utd,0,2,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2008/09,2009-05-02
+Man Utd,Spurs,5,2,Man Utd,Spurs,"Old Trafford, Manchester",1,2008/09,2009-04-25
+Man Utd,Portsmouth,2,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2008/09,2009-04-22
+Sunderland,Man Utd,1,2,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2008/09,2009-04-11
+Man Utd,Aston Villa,3,2,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2008/09,2009-04-05
+Fulham,Man Utd,2,0,Fulham,Man Utd,"Craven Cottage, London",1,2008/09,2009-03-21
+Man Utd,Liverpool,1,4,Liverpool,Man Utd,"Old Trafford, Manchester",1,2008/09,2009-03-14
+Newcastle,Man Utd,1,2,Man Utd,Newcastle,"Sports Direct Arena, Newcastle",1,2008/09,2009-03-04
+Man Utd,Blackburn,2,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2008/09,2009-02-21
+Man Utd,Fulham,3,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2008/09,2009-02-18
+West Ham,Man Utd,0,1,Man Utd,West Ham,"Boleyn Ground, London",1,2008/09,2009-02-08
+Man Utd,Everton,1,0,Man Utd,Everton,"Old Trafford, Manchester",1,2008/09,2009-01-31
+West Brom,Man Utd,0,5,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2008/09,2009-01-27
+Bolton,Man Utd,0,1,Man Utd,Bolton,"Toughsheet Community Stadium, Bolton",1,2008/09,2009-01-17
+Man Utd,Wigan,1,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2008/09,2009-01-14
+Man Utd,Chelsea,3,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2008/09,2009-01-11
+Man Utd,Middlesbrough,1,0,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2008/09,2008-12-29
+Stoke,Man Utd,0,1,Man Utd,Stoke,"bet365 Stadium, Stoke",1,2008/09,2008-12-26
+Spurs,Man Utd,0,0,draw,draw,"White Hart Lane, London",1,2008/09,2008-12-13
+Man Utd,Sunderland,1,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2008/09,2008-12-06
+Man City,Man Utd,0,1,Man Utd,Man City,"Etihad Stadium, Manchester",1,2008/09,2008-11-30
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-11-22
+Man Utd,Stoke,5,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2008/09,2008-11-15
+Arsenal,Man Utd,2,1,Arsenal,Man Utd,"Emirates Stadium, London",1,2008/09,2008-11-08
+Man Utd,Hull,4,3,Man Utd,Hull,"Old Trafford, Manchester",1,2008/09,2008-11-01
+Man Utd,West Ham,2,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2008/09,2008-10-29
+Everton,Man Utd,1,1,draw,draw,"Goodison Park, Liverpool",1,2008/09,2008-10-25
+Man Utd,West Brom,4,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2008/09,2008-10-18
+Blackburn,Man Utd,0,2,Man Utd,Blackburn,"Ewood Park, Blackburn",1,2008/09,2008-10-04
+Man Utd,Bolton,2,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2008/09,2008-09-27
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,2008/09,2008-09-21
+Liverpool,Man Utd,2,1,Liverpool,Man Utd,"Anfield, Liverpool",1,2008/09,2008-09-13
+Portsmouth,Man Utd,0,1,Man Utd,Portsmouth,"Fratton Park, Portsmouth",1,2008/09,2008-08-25
+Man Utd,Newcastle,1,1,draw,draw,"Old Trafford, Manchester",1,2008/09,2008-08-17
+Wigan,Man Utd,0,2,Man Utd,Wigan,"DW Stadium, Wigan",1,2007/08,2008-05-11
+Man Utd,West Ham,4,1,Man Utd,West Ham,"Old Trafford, Manchester",1,2007/08,2008-05-03
+Chelsea,Man Utd,2,1,Chelsea,Man Utd,"Stamford Bridge, London",1,2007/08,2008-04-26
+Blackburn,Man Utd,1,1,draw,draw,"Ewood Park, Blackburn",1,2007/08,2008-04-19
+Man Utd,Arsenal,2,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2007/08,2008-04-13
+Middlesbrough,Man Utd,2,2,draw,draw,"Riverside Stadium, Middlesbrough",1,2007/08,2008-04-06
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2007/08,2008-03-29
+Man Utd,Liverpool,3,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,2007/08,2008-03-23
+Man Utd,Bolton,2,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2007/08,2008-03-19
+Derby,Man Utd,0,1,Man Utd,Derby,"Pride Park Stadium, Derby",1,2007/08,2008-03-15
+Fulham,Man Utd,0,3,Man Utd,Fulham,"Craven Cottage, London",1,2007/08,2008-03-01
+Newcastle,Man Utd,1,5,Man Utd,Newcastle,"Sports Direct Arena, Newcastle",1,2007/08,2008-02-23
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2007/08,2008-02-10
+Spurs,Man Utd,1,1,draw,draw,"White Hart Lane, London",1,2007/08,2008-02-02
+Man Utd,Portsmouth,2,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2007/08,2008-01-30
+Reading,Man Utd,0,2,Man Utd,Reading,"Madejski Stadium, Reading",1,2007/08,2008-01-19
+Man Utd,Newcastle,6,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,2007/08,2008-01-12
+Man Utd,Birmingham,1,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2007/08,2008-01-01
+West Ham,Man Utd,2,1,West Ham,Man Utd,"Boleyn Ground, London",1,2007/08,2007-12-29
+Sunderland,Man Utd,0,4,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2007/08,2007-12-26
+Man Utd,Everton,2,1,Man Utd,Everton,"Old Trafford, Manchester",1,2007/08,2007-12-23
+Liverpool,Man Utd,0,1,Man Utd,Liverpool,"Anfield, Liverpool",1,2007/08,2007-12-16
+Man Utd,Derby,4,1,Man Utd,Derby,"Old Trafford, Manchester",1,2007/08,2007-12-08
+Man Utd,Fulham,2,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2007/08,2007-12-03
+Bolton,Man Utd,1,0,Bolton,Man Utd,"Toughsheet Community Stadium, Bolton",1,2007/08,2007-11-24
+Man Utd,Blackburn,2,0,Man Utd,Blackburn,"Old Trafford, Manchester",1,2007/08,2007-11-11
+Arsenal,Man Utd,2,2,draw,draw,"Emirates Stadium, London",1,2007/08,2007-11-03
+Man Utd,Middlesbrough,4,1,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2007/08,2007-10-27
+Aston Villa,Man Utd,1,4,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2007/08,2007-10-20
+Man Utd,Wigan,4,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2007/08,2007-10-06
+Birmingham,Man Utd,0,1,Man Utd,Birmingham,"St. Andrew's Trillion Trophy Stadium, Birmingham",1,2007/08,2007-09-29
+Man Utd,Chelsea,2,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2007/08,2007-09-23
+Everton,Man Utd,0,1,Man Utd,Everton,"Goodison Park, Liverpool",1,2007/08,2007-09-15
+Man Utd,Sunderland,1,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2007/08,2007-09-01
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2007/08,2007-08-26
+Man City,Man Utd,1,0,Man City,Man Utd,"Etihad Stadium, Manchester",1,2007/08,2007-08-19
+Portsmouth,Man Utd,1,1,draw,draw,"Fratton Park, Portsmouth",1,2007/08,2007-08-15
+Man Utd,Reading,0,0,draw,draw,"Old Trafford, Manchester",1,2007/08,2007-08-12
+Man Utd,West Ham,0,1,West Ham,Man Utd,"Old Trafford, Manchester",1,2006/07,2007-05-13
+Chelsea,Man Utd,0,0,draw,draw,"Stamford Bridge, London",1,2006/07,2007-05-09
+Man City,Man Utd,0,1,Man Utd,Man City,"Etihad Stadium, Manchester",1,2006/07,2007-05-05
+Everton,Man Utd,2,4,Man Utd,Everton,"Goodison Park, Liverpool",1,2006/07,2007-04-28
+Man Utd,Middlesbrough,1,1,draw,draw,"Old Trafford, Manchester",1,2006/07,2007-04-21
+Man Utd,Sheffield Utd,2,0,Man Utd,Sheffield Utd,"Old Trafford, Manchester",1,2006/07,2007-04-17
+Portsmouth,Man Utd,2,1,Portsmouth,Man Utd,"Fratton Park, Portsmouth",1,2006/07,2007-04-07
+Man Utd,Blackburn,4,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2006/07,2007-03-31
+Man Utd,Bolton,4,1,Man Utd,Bolton,"Old Trafford, Manchester",1,2006/07,2007-03-17
+Liverpool,Man Utd,0,1,Man Utd,Liverpool,"Anfield, Liverpool",1,2006/07,2007-03-03
+Fulham,Man Utd,1,2,Man Utd,Fulham,"Craven Cottage, London",1,2006/07,2007-02-24
+Man Utd,Charlton,2,0,Man Utd,Charlton,"Old Trafford, Manchester",1,2006/07,2007-02-10
+Spurs,Man Utd,0,4,Man Utd,Spurs,"White Hart Lane, London",1,2006/07,2007-02-04
+Man Utd,Watford,4,0,Man Utd,Watford,"Old Trafford, Manchester",1,2006/07,2007-01-31
+Arsenal,Man Utd,2,1,Arsenal,Man Utd,"Emirates Stadium, London",1,2006/07,2007-01-21
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2006/07,2007-01-13
+Newcastle,Man Utd,2,2,draw,draw,"Sports Direct Arena, Newcastle",1,2006/07,2007-01-01
+Man Utd,Reading,3,2,Man Utd,Reading,"Old Trafford, Manchester",1,2006/07,2006-12-30
+Man Utd,Wigan,3,1,Man Utd,Wigan,"Old Trafford, Manchester",1,2006/07,2006-12-26
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2006/07,2006-12-23
+West Ham,Man Utd,1,0,West Ham,Man Utd,"Boleyn Ground, London",1,2006/07,2006-12-17
+Man Utd,Man City,3,1,Man Utd,Man City,"Old Trafford, Manchester",1,2006/07,2006-12-09
+Middlesbrough,Man Utd,1,2,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2006/07,2006-12-02
+Man Utd,Everton,3,0,Man Utd,Everton,"Old Trafford, Manchester",1,2006/07,2006-11-29
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,2006/07,2006-11-26
+Sheffield Utd,Man Utd,1,2,Man Utd,Sheffield Utd,"Bramall Lane, Sheffield",1,2006/07,2006-11-18
+Blackburn,Man Utd,0,1,Man Utd,Blackburn,"Ewood Park, Blackburn",1,2006/07,2006-11-11
+Man Utd,Portsmouth,3,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2006/07,2006-11-04
+Bolton,Man Utd,0,4,Man Utd,Bolton,"Toughsheet Community Stadium, Bolton",1,2006/07,2006-10-28
+Man Utd,Liverpool,2,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,2006/07,2006-10-22
+Wigan,Man Utd,1,3,Man Utd,Wigan,"DW Stadium, Wigan",1,2006/07,2006-10-14
+Man Utd,Newcastle,2,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,2006/07,2006-10-01
+Reading,Man Utd,1,1,draw,draw,"Madejski Stadium, Reading",1,2006/07,2006-09-23
+Man Utd,Arsenal,0,1,Arsenal,Man Utd,"Old Trafford, Manchester",1,2006/07,2006-09-17
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2006/07,2006-09-09
+Watford,Man Utd,1,2,Man Utd,Watford,"Vicarage Road, Watford",1,2006/07,2006-08-26
+Charlton,Man Utd,0,3,Man Utd,Charlton,"The Valley, London",1,2006/07,2006-08-23
+Man Utd,Fulham,5,1,Man Utd,Fulham,"Old Trafford, Manchester",1,2006/07,2006-08-20
+Man Utd,Charlton,4,0,Man Utd,Charlton,"Old Trafford, Manchester",1,2005/06,2006-05-07
+Man Utd,Middlesbrough,0,0,draw,draw,"Old Trafford, Manchester",1,2005/06,2006-05-01
+Chelsea,Man Utd,3,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2005/06,2006-04-29
+Spurs,Man Utd,1,2,Man Utd,Spurs,"White Hart Lane, London",1,2005/06,2006-04-17
+Man Utd,Sunderland,0,0,draw,draw,"Old Trafford, Manchester",1,2005/06,2006-04-14
+Man Utd,Arsenal,2,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,2005/06,2006-04-09
+Bolton,Man Utd,1,2,Man Utd,Bolton,"Macron Stadium, Bolton",1,2005/06,2006-04-01
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2005/06,2006-03-29
+Man Utd,Birmingham,3,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2005/06,2006-03-26
+West Brom,Man Utd,1,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2005/06,2006-03-18
+Man Utd,Newcastle,2,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,2005/06,2006-03-12
+Wigan,Man Utd,1,2,Man Utd,Wigan,"DW Stadium, Wigan",1,2005/06,2006-03-06
+Portsmouth,Man Utd,1,3,Man Utd,Portsmouth,"Fratton Park, Portsmouth",1,2005/06,2006-02-11
+Man Utd,Fulham,4,2,Man Utd,Fulham,"Old Trafford, Manchester",1,2005/06,2006-02-04
+Blackburn,Man Utd,4,3,Blackburn,Man Utd,"Ewood Park, Blackburn",1,2005/06,2006-02-01
+Man Utd,Liverpool,1,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,2005/06,2006-01-22
+Man City,Man Utd,3,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2005/06,2006-01-14
+Arsenal,Man Utd,0,0,draw,draw,"Highbury, London",1,2005/06,2006-01-03
+Man Utd,Bolton,4,1,Man Utd,Bolton,"Old Trafford, Manchester",1,2005/06,2005-12-31
+Birmingham,Man Utd,2,2,draw,draw,"St Andrews, Birmingham",1,2005/06,2005-12-28
+Man Utd,West Brom,3,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2005/06,2005-12-26
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2005/06,2005-12-17
+Man Utd,Wigan,4,0,Man Utd,Wigan,"Old Trafford, Manchester",1,2005/06,2005-12-14
+Man Utd,Everton,1,1,draw,draw,"Old Trafford, Manchester",1,2005/06,2005-12-11
+Man Utd,Portsmouth,3,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2005/06,2005-12-03
+West Ham,Man Utd,1,2,Man Utd,West Ham,"Boleyn Ground, London",1,2005/06,2005-11-27
+Charlton,Man Utd,1,3,Man Utd,Charlton,"The Valley, London",1,2005/06,2005-11-19
+Man Utd,Chelsea,1,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2005/06,2005-11-06
+Middlesbrough,Man Utd,4,1,Middlesbrough,Man Utd,"Riverside Stadium, Middlesbrough",1,2005/06,2005-10-29
+Man Utd,Spurs,1,1,draw,draw,"Old Trafford, Manchester",1,2005/06,2005-10-22
+Sunderland,Man Utd,1,3,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2005/06,2005-10-15
+Fulham,Man Utd,2,3,Man Utd,Fulham,"Craven Cottage, London",1,2005/06,2005-10-01
+Man Utd,Blackburn,1,2,Blackburn,Man Utd,"Old Trafford, Manchester",1,2005/06,2005-09-24
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2005/06,2005-09-18
+Man Utd,Man City,1,1,draw,draw,"Old Trafford, Manchester",1,2005/06,2005-09-10
+Newcastle,Man Utd,0,2,Man Utd,Newcastle,"Sports Direct Arena, Newcastle",1,2005/06,2005-08-28
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2005/06,2005-08-20
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2005/06,2005-08-13
+Southampton,Man Utd,1,2,Man Utd,Southampton,"The Friends Provident St Mary's Stadium, Southampton",1,2004/05,2005-05-15
+Man Utd,Chelsea,1,3,Chelsea,Man Utd,"Old Trafford, Manchester",1,2004/05,2005-05-10
+Man Utd,West Brom,1,1,draw,draw,"Old Trafford, Manchester",1,2004/05,2005-05-07
+Charlton,Man Utd,0,4,Man Utd,Charlton,"The Valley, London",1,2004/05,2005-05-01
+Man Utd,Newcastle,2,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2004/05,2005-04-24
+Everton,Man Utd,1,0,Everton,Man Utd,"Goodison Park, Liverpool",1,2004/05,2005-04-20
+Norwich,Man Utd,2,0,Norwich,Man Utd,"Carrow Road, Norwich",1,2004/05,2005-04-09
+Man Utd,Blackburn,0,0,draw,draw,"Old Trafford, Manchester",1,2004/05,2005-04-02
+Man Utd,Fulham,1,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2004/05,2005-03-19
+Crystal Palace,Man Utd,0,0,draw,draw,"Selhurst Park, London",1,2004/05,2005-03-05
+Man Utd,Portsmouth,2,1,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2004/05,2005-02-26
+Man City,Man Utd,0,2,Man Utd,Man City,"Etihad Stadium, Manchester",1,2004/05,2005-02-13
+Man Utd,Birmingham,2,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2004/05,2005-02-05
+Arsenal,Man Utd,2,4,Man Utd,Arsenal,"Highbury, London",1,2004/05,2005-02-01
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2004/05,2005-01-22
+Liverpool,Man Utd,0,1,Man Utd,Liverpool,"Anfield, Liverpool",1,2004/05,2005-01-15
+Man Utd,Spurs,0,0,draw,draw,"Old Trafford, Manchester",1,2004/05,2005-01-04
+Middlesbrough,Man Utd,0,2,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2004/05,2005-01-01
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2004/05,2004-12-28
+Man Utd,Bolton,2,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2004/05,2004-12-26
+Man Utd,Crystal Palace,5,2,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2004/05,2004-12-18
+Fulham,Man Utd,1,1,draw,draw,"Craven Cottage, London",1,2004/05,2004-12-13
+Man Utd,Southampton,3,0,Man Utd,Southampton,"Old Trafford, Manchester",1,2004/05,2004-12-04
+West Brom,Man Utd,0,3,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2004/05,2004-11-27
+Man Utd,Charlton,2,0,Man Utd,Charlton,"Old Trafford, Manchester",1,2004/05,2004-11-20
+Newcastle,Man Utd,1,3,Man Utd,Newcastle,"Sports Direct Arena, Newcastle",1,2004/05,2004-11-14
+Man Utd,Man City,0,0,draw,draw,"Old Trafford, Manchester",1,2004/05,2004-11-07
+Portsmouth,Man Utd,2,0,Portsmouth,Man Utd,"Fratton Park, Portsmouth",1,2004/05,2004-10-30
+Man Utd,Arsenal,2,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,2004/05,2004-10-24
+Birmingham,Man Utd,0,0,draw,draw,"St Andrews, Birmingham",1,2004/05,2004-10-16
+Man Utd,Middlesbrough,1,1,draw,draw,"Old Trafford, Manchester",1,2004/05,2004-10-03
+Spurs,Man Utd,0,1,Man Utd,Spurs,"White Hart Lane, London",1,2004/05,2004-09-25
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2004/05,2004-09-20
+Bolton,Man Utd,2,2,draw,draw,"Macron Stadium, Bolton",1,2004/05,2004-09-11
+Man Utd,Everton,0,0,draw,draw,"Old Trafford, Manchester",1,2004/05,2004-08-30
+Blackburn,Man Utd,1,1,draw,draw,"Ewood Park, Blackburn",1,2004/05,2004-08-28
+Man Utd,Norwich,2,1,Man Utd,Norwich,"Old Trafford, Manchester",1,2004/05,2004-08-21
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2004/05,2004-08-15
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2003/04,2004-05-15
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,2003/04,2004-05-08
+Blackburn,Man Utd,1,0,Blackburn,Man Utd,"Ewood Park, Blackburn",1,2003/04,2004-05-01
+Man Utd,Liverpool,0,1,Liverpool,Man Utd,"Old Trafford, Manchester",1,2003/04,2004-04-24
+Man Utd,Charlton,2,0,Man Utd,Charlton,"Old Trafford, Manchester",1,2003/04,2004-04-20
+Portsmouth,Man Utd,1,0,Portsmouth,Man Utd,"Fratton Park, Portsmouth",1,2003/04,2004-04-17
+Man Utd,Leicester,1,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2003/04,2004-04-13
+Birmingham,Man Utd,1,2,Man Utd,Birmingham,"St Andrews, Birmingham",1,2003/04,2004-04-10
+Arsenal,Man Utd,1,1,draw,draw,"Highbury, London",1,2003/04,2004-03-28
+Man Utd,Spurs,3,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2003/04,2004-03-20
+Man City,Man Utd,4,1,Man City,Man Utd,"Etihad Stadium, Manchester",1,2003/04,2004-03-14
+Fulham,Man Utd,1,1,draw,draw,"Loftus Road, London",1,2003/04,2004-02-28
+Man Utd,Leeds,1,1,draw,draw,"Old Trafford, Manchester",1,2003/04,2004-02-21
+Man Utd,Middlesbrough,2,3,Middlesbrough,Man Utd,"Old Trafford, Manchester",1,2003/04,2004-02-11
+Everton,Man Utd,3,4,Man Utd,Everton,"Goodison Park, Liverpool",1,2003/04,2004-02-07
+Man Utd,Southampton,3,2,Man Utd,Southampton,"Old Trafford, Manchester",1,2003/04,2004-01-31
+Wolves,Man Utd,1,0,Wolves,Man Utd,"Molineux, Wolverhampton",1,2003/04,2004-01-17
+Man Utd,Newcastle,0,0,draw,draw,"Old Trafford, Manchester",1,2003/04,2004-01-11
+Bolton,Man Utd,1,2,Man Utd,Bolton,"Macron Stadium, Bolton",1,2003/04,2004-01-07
+Middlesbrough,Man Utd,0,1,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2003/04,2003-12-28
+Man Utd,Everton,3,2,Man Utd,Everton,"Old Trafford, Manchester",1,2003/04,2003-12-26
+Spurs,Man Utd,1,2,Man Utd,Spurs,"White Hart Lane, London",1,2003/04,2003-12-21
+Man Utd,Man City,3,1,Man Utd,Man City,"Old Trafford, Manchester",1,2003/04,2003-12-13
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2003/04,2003-12-06
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2003/04,2003-11-30
+Man Utd,Blackburn,2,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2003/04,2003-11-22
+Liverpool,Man Utd,1,2,Man Utd,Liverpool,"Anfield, Liverpool",1,2003/04,2003-11-09
+Man Utd,Portsmouth,3,0,Man Utd,Portsmouth,"Old Trafford, Manchester",1,2003/04,2003-11-01
+Man Utd,Fulham,1,3,Fulham,Man Utd,"Old Trafford, Manchester",1,2003/04,2003-10-25
+Leeds,Man Utd,0,1,Man Utd,Leeds,"Elland Road, Leeds",1,2003/04,2003-10-18
+Man Utd,Birmingham,3,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2003/04,2003-10-04
+Leicester,Man Utd,1,4,Man Utd,Leicester,"King Power Stadium, Leicester",1,2003/04,2003-09-27
+Man Utd,Arsenal,0,0,draw,draw,"Old Trafford, Manchester",1,2003/04,2003-09-21
+Charlton,Man Utd,0,2,Man Utd,Charlton,"The Valley, London",1,2003/04,2003-09-13
+Southampton,Man Utd,1,0,Southampton,Man Utd,"The Friends Provident St Mary's Stadium, Southampton",1,2003/04,2003-08-31
+Man Utd,Wolves,1,0,Man Utd,Wolves,"Old Trafford, Manchester",1,2003/04,2003-08-27
+Newcastle,Man Utd,1,2,Man Utd,Newcastle,"Sports Direct Arena, Newcastle",1,2003/04,2003-08-23
+Man Utd,Bolton,4,0,Man Utd,Bolton,"Old Trafford, Manchester",1,2003/04,2003-08-16
+Everton,Man Utd,1,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2002/03,2003-05-11
+Man Utd,Charlton,4,1,Man Utd,Charlton,"Old Trafford, Manchester",1,2002/03,2003-05-03
+Spurs,Man Utd,0,2,Man Utd,Spurs,"White Hart Lane, London",1,2002/03,2003-04-27
+Man Utd,Blackburn,3,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2002/03,2003-04-19
+Arsenal,Man Utd,2,2,draw,draw,"Highbury, London",1,2002/03,2003-04-16
+Newcastle,Man Utd,2,6,Man Utd,Newcastle,"St. James' Park, Newcastle",1,2002/03,2003-04-12
+Man Utd,Liverpool,4,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,2002/03,2003-04-05
+Man Utd,Fulham,3,0,Man Utd,Fulham,"Old Trafford, Manchester",1,2002/03,2003-03-22
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2002/03,2003-03-15
+Man Utd,Leeds,2,1,Man Utd,Leeds,"Old Trafford, Manchester",1,2002/03,2003-03-05
+Bolton,Man Utd,1,1,draw,draw,"Macron Stadium, Bolton",1,2002/03,2003-02-22
+Man Utd,Man City,1,1,draw,draw,"Old Trafford, Manchester",1,2002/03,2003-02-09
+Birmingham,Man Utd,0,1,Man Utd,Birmingham,"St. Andrew's Stadium, Birmingham",1,2002/03,2003-02-04
+Southampton,Man Utd,0,2,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2002/03,2003-02-01
+Man Utd,Chelsea,2,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2002/03,2003-01-18
+West Brom,Man Utd,1,3,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2002/03,2003-01-11
+Man Utd,Sunderland,2,1,Man Utd,Sunderland,"Old Trafford, Manchester",1,2002/03,2003-01-01
+Man Utd,Birmingham,2,0,Man Utd,Birmingham,"Old Trafford, Manchester",1,2002/03,2002-12-28
+Middlesbrough,Man Utd,3,1,Middlesbrough,Man Utd,"Riverside Stadium, Middlesbrough",1,2002/03,2002-12-26
+Blackburn,Man Utd,1,0,Blackburn,Man Utd,"Ewood Park, Blackburn",1,2002/03,2002-12-22
+Man Utd,West Ham,3,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2002/03,2002-12-14
+Man Utd,Arsenal,2,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,2002/03,2002-12-07
+Liverpool,Man Utd,1,2,Man Utd,Liverpool,"Anfield, Liverpool",1,2002/03,2002-12-01
+Man Utd,Newcastle,5,3,Man Utd,Newcastle,"Old Trafford, Manchester",1,2002/03,2002-11-23
+West Ham,Man Utd,1,1,draw,draw,"Boleyn Ground, London",1,2002/03,2002-11-17
+Man City,Man Utd,3,1,Man City,Man Utd,"Maine Road, Manchester",1,2002/03,2002-11-09
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,2002/03,2002-11-02
+Man Utd,Aston Villa,1,1,draw,draw,"Old Trafford, Manchester",1,2002/03,2002-10-26
+Fulham,Man Utd,1,1,draw,draw,"Loftus Road, London",1,2002/03,2002-10-19
+Man Utd,Everton,3,0,Man Utd,Everton,"Old Trafford, Manchester",1,2002/03,2002-10-07
+Charlton,Man Utd,1,3,Man Utd,Charlton,"The Valley, London",1,2002/03,2002-09-28
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2002/03,2002-09-21
+Leeds,Man Utd,1,0,Leeds,Man Utd,"Elland Road, Leeds",1,2002/03,2002-09-14
+Man Utd,Bolton,0,1,Bolton,Man Utd,"Old Trafford, Manchester",1,2002/03,2002-09-11
+Man Utd,Middlesbrough,1,0,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2002/03,2002-09-03
+Sunderland,Man Utd,1,1,draw,draw,"Stadium of Light, Sunderland",1,2002/03,2002-08-31
+Chelsea,Man Utd,2,2,draw,draw,"Stamford Bridge, London",1,2002/03,2002-08-23
+Man Utd,West Brom,1,0,Man Utd,West Brom,"Old Trafford, Manchester",1,2002/03,2002-08-17
+Man Utd,Charlton,0,0,draw,draw,"Old Trafford, Manchester",1,2001/02,2002-05-11
+Man Utd,Arsenal,0,1,Arsenal,Man Utd,"Old Trafford, Manchester",1,2001/02,2002-05-08
+Ipswich,Man Utd,0,1,Man Utd,Ipswich,"Portman Road, Ipswich",1,2001/02,2002-04-27
+Chelsea,Man Utd,0,3,Man Utd,Chelsea,"Stamford Bridge, London",1,2001/02,2002-04-20
+Leicester,Man Utd,0,1,Man Utd,Leicester,"Filbert Street, Leicester",1,2001/02,2002-04-06
+Leeds,Man Utd,3,4,Man Utd,Leeds,"Elland Road, Leeds",1,2001/02,2002-03-30
+Man Utd,Middlesbrough,0,1,Middlesbrough,Man Utd,"Old Trafford, Manchester",1,2001/02,2002-03-23
+West Ham,Man Utd,3,5,Man Utd,West Ham,"Boleyn Ground, London",1,2001/02,2002-03-16
+Man Utd,Spurs,4,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2001/02,2002-03-06
+Derby,Man Utd,2,2,draw,draw,"Pride Park, Derby",1,2001/02,2002-03-03
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2001/02,2002-02-23
+Charlton,Man Utd,0,2,Man Utd,Charlton,"The Valley, London",1,2001/02,2002-02-10
+Man Utd,Sunderland,4,1,Man Utd,Sunderland,"Old Trafford, Manchester",1,2001/02,2002-02-02
+Bolton,Man Utd,0,4,Man Utd,Bolton,"Macron Stadium, Bolton",1,2001/02,2002-01-29
+Man Utd,Liverpool,0,1,Liverpool,Man Utd,"Old Trafford, Manchester",1,2001/02,2002-01-22
+Man Utd,Blackburn,2,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,2001/02,2002-01-19
+Southampton,Man Utd,1,3,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2001/02,2002-01-13
+Man Utd,Newcastle,3,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2001/02,2002-01-02
+Fulham,Man Utd,2,3,Man Utd,Fulham,"Craven Cottage, London",1,2001/02,2001-12-30
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2001/02,2001-12-26
+Man Utd,Southampton,6,1,Man Utd,Southampton,"Old Trafford, Manchester",1,2001/02,2001-12-22
+Middlesbrough,Man Utd,0,1,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2001/02,2001-12-15
+Man Utd,Derby,5,0,Man Utd,Derby,"Old Trafford, Manchester",1,2001/02,2001-12-12
+Man Utd,West Ham,0,1,West Ham,Man Utd,"Old Trafford, Manchester",1,2001/02,2001-12-08
+Man Utd,Chelsea,0,3,Chelsea,Man Utd,"Old Trafford, Manchester",1,2001/02,2001-12-01
+Arsenal,Man Utd,3,1,Arsenal,Man Utd,"Highbury, London",1,2001/02,2001-11-25
+Man Utd,Leicester,2,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2001/02,2001-11-17
+Liverpool,Man Utd,3,1,Liverpool,Man Utd,"Anfield, Liverpool",1,2001/02,2001-11-04
+Man Utd,Leeds,1,1,draw,draw,"Old Trafford, Manchester",1,2001/02,2001-10-27
+Man Utd,Bolton,1,2,Bolton,Man Utd,"Old Trafford, Manchester",1,2001/02,2001-10-20
+Sunderland,Man Utd,1,3,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2001/02,2001-10-13
+Spurs,Man Utd,3,5,Man Utd,Spurs,"White Hart Lane, London",1,2001/02,2001-09-29
+Man Utd,Ipswich,4,0,Man Utd,Ipswich,"Old Trafford, Manchester",1,2001/02,2001-09-22
+Newcastle,Man Utd,4,3,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2001/02,2001-09-15
+Man Utd,Everton,4,1,Man Utd,Everton,"Old Trafford, Manchester",1,2001/02,2001-09-08
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2001/02,2001-08-26
+Blackburn,Man Utd,2,2,draw,draw,"Ewood Park, Blackburn",1,2001/02,2001-08-22
+Man Utd,Fulham,3,2,Man Utd,Fulham,"Old Trafford, Manchester",1,2001/02,2001-08-19
+Spurs,Man Utd,3,1,Spurs,Man Utd,"White Hart Lane, London",1,2000/01,2001-05-19
+Southampton,Man Utd,2,1,Southampton,Man Utd,"The Dell, Southampton",1,2000/01,2001-05-13
+Man Utd,Derby,0,1,Derby,Man Utd,"Old Trafford, Manchester",1,2000/01,2001-05-05
+Middlesbrough,Man Utd,0,2,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2000/01,2001-04-28
+Man Utd,Man City,1,1,draw,draw,"Old Trafford, Manchester",1,2000/01,2001-04-21
+Man Utd,Coventry,4,2,Man Utd,Coventry,"Old Trafford, Manchester",1,2000/01,2001-04-14
+Man Utd,Charlton,2,1,Man Utd,Charlton,"Old Trafford, Manchester",1,2000/01,2001-04-10
+Liverpool,Man Utd,2,0,Liverpool,Man Utd,"Anfield, Liverpool",1,2000/01,2001-03-31
+Man Utd,Leicester,2,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2000/01,2001-03-17
+Leeds,Man Utd,1,1,draw,draw,"Elland Road, Leeds",1,2000/01,2001-03-03
+Man Utd,Arsenal,6,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2000/01,2001-02-25
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,2000/01,2001-02-10
+Man Utd,Everton,1,0,Man Utd,Everton,"Old Trafford, Manchester",1,2000/01,2001-02-03
+Sunderland,Man Utd,0,1,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2000/01,2001-01-31
+Man Utd,Aston Villa,2,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2000/01,2001-01-20
+Bradford,Man Utd,0,3,Man Utd,Bradford,"Valley Parade, Bradford",1,2000/01,2001-01-13
+Man Utd,West Ham,3,1,Man Utd,West Ham,"Old Trafford, Manchester",1,2000/01,2001-01-01
+Newcastle,Man Utd,1,1,draw,draw,"St. James' Park, Newcastle",1,2000/01,2000-12-30
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2000/01,2000-12-26
+Man Utd,Ipswich,2,0,Man Utd,Ipswich,"Old Trafford, Manchester",1,2000/01,2000-12-23
+Man Utd,Liverpool,0,1,Liverpool,Man Utd,"Old Trafford, Manchester",1,2000/01,2000-12-17
+Charlton,Man Utd,3,3,draw,draw,"The Valley, London",1,2000/01,2000-12-09
+Man Utd,Spurs,2,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2000/01,2000-12-02
+Derby,Man Utd,0,3,Man Utd,Derby,"Pride Park, Derby",1,2000/01,2000-11-25
+Man City,Man Utd,0,1,Man Utd,Man City,"Maine Road, Manchester",1,2000/01,2000-11-18
+Man Utd,Middlesbrough,2,1,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2000/01,2000-11-11
+Coventry,Man Utd,1,2,Man Utd,Coventry,"Highfield Road, Coventry",1,2000/01,2000-11-04
+Man Utd,Southampton,5,0,Man Utd,Southampton,"Old Trafford, Manchester",1,2000/01,2000-10-28
+Man Utd,Leeds,3,0,Man Utd,Leeds,"Old Trafford, Manchester",1,2000/01,2000-10-21
+Leicester,Man Utd,0,3,Man Utd,Leicester,"Filbert Street, Leicester",1,2000/01,2000-10-14
+Arsenal,Man Utd,1,0,Arsenal,Man Utd,"Highbury, London",1,2000/01,2000-10-01
+Man Utd,Chelsea,3,3,draw,draw,"Old Trafford, Manchester",1,2000/01,2000-09-23
+Everton,Man Utd,1,3,Man Utd,Everton,"Goodison Park, Liverpool",1,2000/01,2000-09-16
+Man Utd,Sunderland,3,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,2000/01,2000-09-09
+Man Utd,Bradford,6,0,Man Utd,Bradford,"Old Trafford, Manchester",1,2000/01,2000-09-05
+West Ham,Man Utd,2,2,draw,draw,"Boleyn Ground, London",1,2000/01,2000-08-26
+Ipswich,Man Utd,1,1,draw,draw,"Portman Road, Ipswich",1,2000/01,2000-08-22
+Man Utd,Newcastle,2,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,2000/01,2000-08-20
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1999/00,2000-05-14
+Man Utd,Spurs,3,1,Man Utd,Spurs,"Old Trafford, Manchester",1,1999/00,2000-05-06
+Watford,Man Utd,2,3,Man Utd,Watford,"Vicarage Road, Watford",1,1999/00,2000-04-29
+Man Utd,Chelsea,3,2,Man Utd,Chelsea,"Old Trafford, Manchester",1,1999/00,2000-04-24
+Southampton,Man Utd,1,3,Man Utd,Southampton,"The Dell, Southampton",1,1999/00,2000-04-22
+Man Utd,Sunderland,4,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,1999/00,2000-04-15
+Middlesbrough,Man Utd,3,4,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,1999/00,2000-04-10
+Man Utd,West Ham,7,1,Man Utd,West Ham,"Old Trafford, Manchester",1,1999/00,2000-04-01
+Bradford,Man Utd,0,4,Man Utd,Bradford,"Valley Parade, Bradford",1,1999/00,2000-03-25
+Leicester,Man Utd,0,2,Man Utd,Leicester,"Filbert Street, Leicester",1,1999/00,2000-03-18
+Man Utd,Derby,3,1,Man Utd,Derby,"Old Trafford, Manchester",1,1999/00,2000-03-11
+Man Utd,Liverpool,1,1,draw,draw,"Old Trafford, Manchester",1,1999/00,2000-03-04
+Wimbledon,Man Utd,2,2,draw,draw,"Selhurst Park, London",1,1999/00,2000-02-26
+Leeds,Man Utd,0,1,Man Utd,Leeds,"Elland Road, Leeds",1,1999/00,2000-02-20
+Newcastle,Man Utd,3,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,1999/00,2000-02-12
+Man Utd,Coventry,3,2,Man Utd,Coventry,"Old Trafford, Manchester",1,1999/00,2000-02-05
+Sheffield Wed,Man Utd,0,1,Man Utd,Sheffield Wed,"Hillsborough, Sheffield",1,1999/00,2000-02-02
+Man Utd,Middlesbrough,1,0,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,1999/00,2000-01-29
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,1999/00,2000-01-24
+Sunderland,Man Utd,2,2,draw,draw,"Stadium of Light, Sunderland",1,1999/00,1999-12-28
+Man Utd,Bradford,4,0,Man Utd,Bradford,"Old Trafford, Manchester",1,1999/00,1999-12-26
+West Ham,Man Utd,2,4,Man Utd,West Ham,"Boleyn Ground, London",1,1999/00,1999-12-18
+Man Utd,Everton,5,1,Man Utd,Everton,"Old Trafford, Manchester",1,1999/00,1999-12-04
+Derby,Man Utd,1,2,Man Utd,Derby,"Pride Park, Derby",1,1999/00,1999-11-20
+Man Utd,Leicester,2,0,Man Utd,Leicester,"Old Trafford, Manchester",1,1999/00,1999-11-06
+Man Utd,Aston Villa,3,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1999/00,1999-10-30
+Spurs,Man Utd,3,1,Spurs,Man Utd,"White Hart Lane, London",1,1999/00,1999-10-23
+Man Utd,Watford,4,1,Man Utd,Watford,"Old Trafford, Manchester",1,1999/00,1999-10-16
+Chelsea,Man Utd,5,0,Chelsea,Man Utd,"Stamford Bridge, London",1,1999/00,1999-10-03
+Man Utd,Southampton,3,3,draw,draw,"Old Trafford, Manchester",1,1999/00,1999-09-25
+Man Utd,Wimbledon,1,1,draw,draw,"Old Trafford, Manchester",1,1999/00,1999-09-18
+Liverpool,Man Utd,2,3,Man Utd,Liverpool,"Anfield, Liverpool",1,1999/00,1999-09-11
+Man Utd,Newcastle,5,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,1999/00,1999-08-30
+Coventry,Man Utd,1,2,Man Utd,Coventry,"Highfield Road, Coventry",1,1999/00,1999-08-25
+Arsenal,Man Utd,1,2,Man Utd,Arsenal,"Highbury, London",1,1999/00,1999-08-22
+Man Utd,Leeds,2,0,Man Utd,Leeds,"Old Trafford, Manchester",1,1999/00,1999-08-14
+Man Utd,Sheffield Wed,4,0,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1999/00,1999-08-11
+Everton,Man Utd,1,1,draw,draw,"Goodison Park, Liverpool",1,1999/00,1999-08-08
+Man Utd,Spurs,2,1,Man Utd,Spurs,"Old Trafford, Manchester",1,1998/99,1999-05-16
+Blackburn,Man Utd,0,0,draw,draw,"Ewood Park, Blackburn",1,1998/99,1999-05-12
+Middlesbrough,Man Utd,0,1,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,1998/99,1999-05-09
+Liverpool,Man Utd,2,2,draw,draw,"Anfield, Liverpool",1,1998/99,1999-05-05
+Man Utd,Aston Villa,2,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1998/99,1999-05-01
+Leeds,Man Utd,1,1,draw,draw,"Elland Road, Leeds",1,1998/99,1999-04-25
+Man Utd,Sheffield Wed,3,0,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1998/99,1999-04-17
+Wimbledon,Man Utd,1,1,draw,draw,"Selhurst Park, London",1,1998/99,1999-04-03
+Man Utd,Everton,3,1,Man Utd,Everton,"Old Trafford, Manchester",1,1998/99,1999-03-21
+Newcastle,Man Utd,1,2,Man Utd,Newcastle,"St. James' Park, Newcastle",1,1998/99,1999-03-13
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,1998/99,1999-02-27
+Coventry,Man Utd,0,1,Man Utd,Coventry,"Highfield Road, Coventry",1,1998/99,1999-02-20
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,1998/99,1999-02-17
+Nott'm Forest,Man Utd,1,8,Man Utd,Nott'm Forest,"City Ground, Nottingham",1,1998/99,1999-02-06
+Man Utd,Derby,1,0,Man Utd,Derby,"Old Trafford, Manchester",1,1998/99,1999-02-03
+Charlton,Man Utd,0,1,Man Utd,Charlton,"The Valley, London",1,1998/99,1999-01-31
+Leicester,Man Utd,2,6,Man Utd,Leicester,"Filbert Street, Leicester",1,1998/99,1999-01-16
+Man Utd,West Ham,4,1,Man Utd,West Ham,"Old Trafford, Manchester",1,1998/99,1999-01-10
+Chelsea,Man Utd,0,0,draw,draw,"Stamford Bridge, London",1,1998/99,1998-12-29
+Man Utd,Nott'm Forest,3,0,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,1998/99,1998-12-26
+Man Utd,Middlesbrough,2,3,Middlesbrough,Man Utd,"Old Trafford, Manchester",1,1998/99,1998-12-19
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,1998/99,1998-12-16
+Spurs,Man Utd,2,2,draw,draw,"White Hart Lane, London",1,1998/99,1998-12-12
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,1998/99,1998-12-05
+Man Utd,Leeds,3,2,Man Utd,Leeds,"Old Trafford, Manchester",1,1998/99,1998-11-29
+Sheffield Wed,Man Utd,3,1,Sheffield Wed,Man Utd,"Hillsborough, Sheffield",1,1998/99,1998-11-21
+Man Utd,Blackburn,3,2,Man Utd,Blackburn,"Old Trafford, Manchester",1,1998/99,1998-11-14
+Man Utd,Newcastle,0,0,draw,draw,"Old Trafford, Manchester",1,1998/99,1998-11-08
+Everton,Man Utd,1,4,Man Utd,Everton,"Goodison Park, Liverpool",1,1998/99,1998-10-31
+Derby,Man Utd,1,1,draw,draw,"Pride Park, Derby",1,1998/99,1998-10-24
+Man Utd,Wimbledon,5,1,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1998/99,1998-10-17
+Southampton,Man Utd,0,3,Man Utd,Southampton,"The Dell, Southampton",1,1998/99,1998-10-03
+Man Utd,Liverpool,2,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,1998/99,1998-09-24
+Arsenal,Man Utd,3,0,Arsenal,Man Utd,"Highbury, London",1,1998/99,1998-09-20
+Man Utd,Coventry,2,0,Man Utd,Coventry,"Old Trafford, Manchester",1,1998/99,1998-09-12
+Man Utd,Charlton,4,1,Man Utd,Charlton,"Old Trafford, Manchester",1,1998/99,1998-09-09
+West Ham,Man Utd,0,0,draw,draw,"Boleyn Ground, London",1,1998/99,1998-08-22
+Man Utd,Leicester,2,2,draw,draw,"Old Trafford, Manchester",1,1998/99,1998-08-15
+Barnsley,Man Utd,0,2,Man Utd,Barnsley,"Oakwell, Barnsley",1,1997/98,1998-05-10
+Man Utd,Leeds,3,0,Man Utd,Leeds,"Old Trafford, Manchester",1,1997/98,1998-05-04
+Crystal Palace,Man Utd,0,3,Man Utd,Crystal Palace,"Selhurst Park, London",1,1997/98,1998-04-27
+Man Utd,Newcastle,1,1,draw,draw,"Old Trafford, Manchester",1,1997/98,1998-04-18
+Man Utd,Liverpool,1,1,draw,draw,"Old Trafford, Manchester",1,1997/98,1998-04-10
+Blackburn,Man Utd,1,3,Man Utd,Blackburn,"Ewood Park, Blackburn",1,1997/98,1998-04-06
+Man Utd,Wimbledon,2,0,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1997/98,1998-03-28
+Man Utd,Arsenal,0,1,Arsenal,Man Utd,"Old Trafford, Manchester",1,1997/98,1998-03-14
+West Ham,Man Utd,1,1,draw,draw,"Boleyn Ground, London",1,1997/98,1998-03-11
+Sheffield Wed,Man Utd,2,0,Sheffield Wed,Man Utd,"Hillsborough, Sheffield",1,1997/98,1998-03-07
+Chelsea,Man Utd,0,1,Man Utd,Chelsea,"Stamford Bridge, London",1,1997/98,1998-02-28
+Man Utd,Derby,2,0,Man Utd,Derby,"Old Trafford, Manchester",1,1997/98,1998-02-21
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1997/98,1998-02-18
+Man Utd,Bolton,1,1,draw,draw,"Old Trafford, Manchester",1,1997/98,1998-02-07
+Man Utd,Leicester,0,1,Leicester,Man Utd,"Old Trafford, Manchester",1,1997/98,1998-01-31
+Southampton,Man Utd,1,0,Southampton,Man Utd,"The Dell, Southampton",1,1997/98,1998-01-19
+Man Utd,Spurs,2,0,Man Utd,Spurs,"Old Trafford, Manchester",1,1997/98,1998-01-10
+Coventry,Man Utd,3,2,Coventry,Man Utd,"Highfield Road, Coventry",1,1997/98,1997-12-28
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,1997/98,1997-12-26
+Newcastle,Man Utd,0,1,Man Utd,Newcastle,"St. James' Park, Newcastle",1,1997/98,1997-12-21
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1997/98,1997-12-15
+Liverpool,Man Utd,1,3,Man Utd,Liverpool,"Anfield, Liverpool",1,1997/98,1997-12-06
+Man Utd,Blackburn,4,0,Man Utd,Blackburn,"Old Trafford, Manchester",1,1997/98,1997-11-30
+Wimbledon,Man Utd,2,5,Man Utd,Wimbledon,"Selhurst Park, London",1,1997/98,1997-11-22
+Arsenal,Man Utd,3,2,Arsenal,Man Utd,"Highbury, London",1,1997/98,1997-11-09
+Man Utd,Sheffield Wed,6,1,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1997/98,1997-11-01
+Man Utd,Barnsley,7,0,Man Utd,Barnsley,"Old Trafford, Manchester",1,1997/98,1997-10-25
+Derby,Man Utd,2,2,draw,draw,"Pride Park, Derby",1,1997/98,1997-10-18
+Man Utd,Crystal Palace,2,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,1997/98,1997-10-04
+Leeds,Man Utd,1,0,Leeds,Man Utd,"Elland Road, Leeds",1,1997/98,1997-09-27
+Man Utd,Chelsea,2,2,draw,draw,"Old Trafford, Manchester",1,1997/98,1997-09-24
+Bolton,Man Utd,0,0,draw,draw,"Macron Stadium, Bolton",1,1997/98,1997-09-20
+Man Utd,West Ham,2,1,Man Utd,West Ham,"Old Trafford, Manchester",1,1997/98,1997-09-13
+Man Utd,Coventry,3,0,Man Utd,Coventry,"Old Trafford, Manchester",1,1997/98,1997-08-30
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,1997/98,1997-08-27
+Leicester,Man Utd,0,0,draw,draw,"Filbert Street, Leicester",1,1997/98,1997-08-23
+Man Utd,Southampton,1,0,Man Utd,Southampton,"Old Trafford, Manchester",1,1997/98,1997-08-13
+Spurs,Man Utd,0,2,Man Utd,Spurs,"White Hart Lane, London",1,1997/98,1997-08-10
+Man Utd,West Ham,2,0,Man Utd,West Ham,"Old Trafford, Manchester",1,1996/97,1997-05-11
+Man Utd,Newcastle,0,0,draw,draw,"Old Trafford, Manchester",1,1996/97,1997-05-08
+Man Utd,Middlesbrough,3,3,draw,draw,"Old Trafford, Manchester",1,1996/97,1997-05-05
+Leicester,Man Utd,2,2,draw,draw,"Filbert Street, Leicester",1,1996/97,1997-05-03
+Liverpool,Man Utd,1,3,Man Utd,Liverpool,"Anfield, Liverpool",1,1996/97,1997-04-19
+Blackburn,Man Utd,2,3,Man Utd,Blackburn,"Ewood Park, Blackburn",1,1996/97,1997-04-12
+Man Utd,Derby,2,3,Derby,Man Utd,"Old Trafford, Manchester",1,1996/97,1997-04-05
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,1996/97,1997-03-22
+Man Utd,Sheffield Wed,2,0,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1996/97,1997-03-15
+Sunderland,Man Utd,2,1,Sunderland,Man Utd,"Roker Park, Sunderland",1,1996/97,1997-03-08
+Man Utd,Coventry,3,1,Man Utd,Coventry,"Old Trafford, Manchester",1,1996/97,1997-03-01
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,1996/97,1997-02-22
+Arsenal,Man Utd,1,2,Man Utd,Arsenal,"Highbury, London",1,1996/97,1997-02-19
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,1996/97,1997-02-01
+Man Utd,Wimbledon,2,1,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1996/97,1997-01-29
+Coventry,Man Utd,0,2,Man Utd,Coventry,"Highfield Road, Coventry",1,1996/97,1997-01-18
+Spurs,Man Utd,1,2,Man Utd,Spurs,"White Hart Lane, London",1,1996/97,1997-01-12
+Man Utd,Aston Villa,0,0,draw,draw,"Old Trafford, Manchester",1,1996/97,1997-01-01
+Man Utd,Leeds,1,0,Man Utd,Leeds,"Old Trafford, Manchester",1,1996/97,1996-12-28
+Nott'm Forest,Man Utd,0,4,Man Utd,Nott'm Forest,"City Ground, Nottingham",1,1996/97,1996-12-26
+Man Utd,Sunderland,5,0,Man Utd,Sunderland,"Old Trafford, Manchester",1,1996/97,1996-12-21
+Sheffield Wed,Man Utd,1,1,draw,draw,"Hillsborough, Sheffield",1,1996/97,1996-12-18
+West Ham,Man Utd,2,2,draw,draw,"Boleyn Ground, London",1,1996/97,1996-12-08
+Man Utd,Leicester,3,1,Man Utd,Leicester,"Old Trafford, Manchester",1,1996/97,1996-11-30
+Middlesbrough,Man Utd,2,2,draw,draw,"Riverside Stadium, Middlesbrough",1,1996/97,1996-11-23
+Man Utd,Arsenal,1,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,1996/97,1996-11-16
+Man Utd,Chelsea,1,2,Chelsea,Man Utd,"Old Trafford, Manchester",1,1996/97,1996-11-02
+Southampton,Man Utd,6,3,Southampton,Man Utd,"The Dell, Southampton",1,1996/97,1996-10-26
+Newcastle,Man Utd,5,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,1996/97,1996-10-20
+Man Utd,Liverpool,1,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,1996/97,1996-10-12
+Man Utd,Spurs,2,0,Man Utd,Spurs,"Old Trafford, Manchester",1,1996/97,1996-09-29
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,1996/97,1996-09-21
+Man Utd,Nott'm Forest,4,1,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,1996/97,1996-09-14
+Leeds,Man Utd,0,4,Man Utd,Leeds,"Elland Road, Leeds",1,1996/97,1996-09-07
+Derby,Man Utd,1,1,draw,draw,"Baseball Ground, Derby",1,1996/97,1996-09-04
+Man Utd,Blackburn,2,2,draw,draw,"Old Trafford, Manchester",1,1996/97,1996-08-25
+Man Utd,Everton,2,2,draw,draw,"Old Trafford, Manchester",1,1996/97,1996-08-21
+Wimbledon,Man Utd,0,3,Man Utd,Wimbledon,"Selhurst Park, London",1,1996/97,1996-08-17
+Middlesbrough,Man Utd,0,3,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,1995/96,1996-05-05
+Man Utd,Nott'm Forest,5,0,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,1995/96,1996-04-28
+Man Utd,Leeds,1,0,Man Utd,Leeds,"Old Trafford, Manchester",1,1995/96,1996-04-17
+Southampton,Man Utd,3,1,Southampton,Man Utd,"The Dell, Southampton",1,1995/96,1996-04-13
+Man Utd,Coventry,1,0,Man Utd,Coventry,"Old Trafford, Manchester",1,1995/96,1996-04-08
+Man City,Man Utd,2,3,Man Utd,Man City,"Maine Road, Manchester",1,1995/96,1996-04-06
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,1995/96,1996-03-24
+Man Utd,Arsenal,1,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,1995/96,1996-03-20
+QPR,Man Utd,1,1,draw,draw,"Loftus Road, London",1,1995/96,1996-03-16
+Newcastle,Man Utd,0,1,Man Utd,Newcastle,"St. James' Park, Newcastle",1,1995/96,1996-03-04
+Bolton,Man Utd,0,6,Man Utd,Bolton,"Burnden Park, Bolton",1,1995/96,1996-02-25
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,1995/96,1996-02-21
+Man Utd,Blackburn,1,0,Man Utd,Blackburn,"Old Trafford, Manchester",1,1995/96,1996-02-10
+Wimbledon,Man Utd,2,4,Man Utd,Wimbledon,"Selhurst Park, London",1,1995/96,1996-02-03
+West Ham,Man Utd,0,1,Man Utd,West Ham,"Boleyn Ground, London",1,1995/96,1996-01-22
+Man Utd,Aston Villa,0,0,draw,draw,"Old Trafford, Manchester",1,1995/96,1996-01-13
+Spurs,Man Utd,4,1,Spurs,Man Utd,"White Hart Lane, London",1,1995/96,1996-01-01
+Man Utd,QPR,2,1,Man Utd,QPR,"Old Trafford, Manchester",1,1995/96,1995-12-30
+Man Utd,Newcastle,2,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,1995/96,1995-12-27
+Leeds,Man Utd,3,1,Leeds,Man Utd,"Elland Road, Leeds",1,1995/96,1995-12-24
+Liverpool,Man Utd,2,0,Liverpool,Man Utd,"Anfield, Liverpool",1,1995/96,1995-12-17
+Man Utd,Sheffield Wed,2,2,draw,draw,"Old Trafford, Manchester",1,1995/96,1995-12-09
+Man Utd,Chelsea,1,1,draw,draw,"Old Trafford, Manchester",1,1995/96,1995-12-02
+Nott'm Forest,Man Utd,1,1,draw,draw,"City Ground, Nottingham",1,1995/96,1995-11-27
+Coventry,Man Utd,0,4,Man Utd,Coventry,"Highfield Road, Coventry",1,1995/96,1995-11-22
+Man Utd,Southampton,4,1,Man Utd,Southampton,"Old Trafford, Manchester",1,1995/96,1995-11-18
+Arsenal,Man Utd,1,0,Arsenal,Man Utd,"Highbury, London",1,1995/96,1995-11-04
+Man Utd,Middlesbrough,2,0,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,1995/96,1995-10-28
+Chelsea,Man Utd,1,4,Man Utd,Chelsea,"Stamford Bridge, London",1,1995/96,1995-10-21
+Man Utd,Man City,1,0,Man Utd,Man City,"Old Trafford, Manchester",1,1995/96,1995-10-14
+Man Utd,Liverpool,2,2,draw,draw,"Old Trafford, Manchester",1,1995/96,1995-10-01
+Sheffield Wed,Man Utd,0,0,draw,draw,"Hillsborough, Sheffield",1,1995/96,1995-09-23
+Man Utd,Bolton,3,0,Man Utd,Bolton,"Old Trafford, Manchester",1,1995/96,1995-09-16
+Everton,Man Utd,2,3,Man Utd,Everton,"Goodison Park, Liverpool",1,1995/96,1995-09-09
+Blackburn,Man Utd,1,2,Man Utd,Blackburn,"Ewood Park, Blackburn",1,1995/96,1995-08-28
+Man Utd,Wimbledon,3,1,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1995/96,1995-08-26
+Man Utd,West Ham,2,1,Man Utd,West Ham,"Old Trafford, Manchester",1,1995/96,1995-08-23
+Aston Villa,Man Utd,3,1,Aston Villa,Man Utd,"Villa Park, Birmingham",1,1995/96,1995-08-19
+West Ham,Man Utd,1,1,draw,draw,"Boleyn Ground, London",1,1994/95,1995-05-14
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,1994/95,1995-05-10
+Man Utd,Sheffield Wed,1,0,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1994/95,1995-05-07
+Coventry,Man Utd,2,3,Man Utd,Coventry,"Highfield Road, Coventry",1,1994/95,1995-05-01
+Man Utd,Chelsea,0,0,draw,draw,"Old Trafford, Manchester",1,1994/95,1995-04-17
+Leicester,Man Utd,0,4,Man Utd,Leicester,"Filbert Street, Leicester",1,1994/95,1995-04-15
+Man Utd,Leeds,0,0,draw,draw,"Old Trafford, Manchester",1,1994/95,1995-04-02
+Man Utd,Arsenal,3,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,1994/95,1995-03-22
+Liverpool,Man Utd,2,0,Liverpool,Man Utd,"Anfield, Liverpool",1,1994/95,1995-03-19
+Man Utd,Spurs,0,0,draw,draw,"Old Trafford, Manchester",1,1994/95,1995-03-15
+Wimbledon,Man Utd,0,1,Man Utd,Wimbledon,"Selhurst Park, London",1,1994/95,1995-03-07
+Man Utd,Ipswich,9,0,Man Utd,Ipswich,"Old Trafford, Manchester",1,1994/95,1995-03-04
+Everton,Man Utd,1,0,Everton,Man Utd,"Goodison Park, Liverpool",1,1994/95,1995-02-25
+Norwich,Man Utd,0,2,Man Utd,Norwich,"Carrow Road, Norwich",1,1994/95,1995-02-22
+Man City,Man Utd,0,3,Man Utd,Man City,"Maine Road, Manchester",1,1994/95,1995-02-11
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1994/95,1995-02-04
+Crystal Palace,Man Utd,1,1,draw,draw,"Selhurst Park, London",1,1994/95,1995-01-25
+Man Utd,Blackburn,1,0,Man Utd,Blackburn,"Old Trafford, Manchester",1,1994/95,1995-01-22
+Newcastle,Man Utd,1,1,draw,draw,"St. James' Park, Newcastle",1,1994/95,1995-01-15
+Man Utd,Coventry,2,0,Man Utd,Coventry,"Old Trafford, Manchester",1,1994/95,1995-01-03
+Southampton,Man Utd,2,2,draw,draw,"The Dell, Southampton",1,1994/95,1994-12-31
+Man Utd,Leicester,1,1,draw,draw,"Old Trafford, Manchester",1,1994/95,1994-12-28
+Chelsea,Man Utd,2,3,Man Utd,Chelsea,"Stamford Bridge, London",1,1994/95,1994-12-26
+Man Utd,Nott'm Forest,1,2,Nott'm Forest,Man Utd,"Old Trafford, Manchester",1,1994/95,1994-12-17
+QPR,Man Utd,2,3,Man Utd,QPR,"Loftus Road, London",1,1994/95,1994-12-10
+Man Utd,Norwich,1,0,Man Utd,Norwich,"Old Trafford, Manchester",1,1994/95,1994-12-03
+Arsenal,Man Utd,0,0,draw,draw,"Highbury, London",1,1994/95,1994-11-26
+Man Utd,Crystal Palace,3,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,1994/95,1994-11-19
+Man Utd,Man City,5,0,Man Utd,Man City,"Old Trafford, Manchester",1,1994/95,1994-11-10
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1994/95,1994-11-06
+Man Utd,Newcastle,2,0,Man Utd,Newcastle,"Old Trafford, Manchester",1,1994/95,1994-10-29
+Blackburn,Man Utd,2,4,Man Utd,Blackburn,"Ewood Park, Blackburn",1,1994/95,1994-10-23
+Man Utd,West Ham,1,0,Man Utd,West Ham,"Old Trafford, Manchester",1,1994/95,1994-10-15
+Sheffield Wed,Man Utd,1,0,Sheffield Wed,Man Utd,"Hillsborough, Sheffield",1,1994/95,1994-10-08
+Man Utd,Everton,2,0,Man Utd,Everton,"Old Trafford, Manchester",1,1994/95,1994-10-01
+Ipswich,Man Utd,3,2,Ipswich,Man Utd,"Portman Road, Ipswich",1,1994/95,1994-09-24
+Man Utd,Liverpool,2,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,1994/95,1994-09-17
+Leeds,Man Utd,2,1,Leeds,Man Utd,"Elland Road, Leeds",1,1994/95,1994-09-11
+Man Utd,Wimbledon,3,0,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1994/95,1994-08-31
+Spurs,Man Utd,0,1,Man Utd,Spurs,"White Hart Lane, London",1,1994/95,1994-08-27
+Nott'm Forest,Man Utd,1,1,draw,draw,"City Ground, Nottingham",1,1994/95,1994-08-22
+Man Utd,QPR,2,0,Man Utd,QPR,"Old Trafford, Manchester",1,1994/95,1994-08-20
+Man Utd,Coventry,0,0,draw,draw,"Old Trafford, Manchester",1,1993/94,1994-05-08
+Man Utd,Southampton,2,0,Man Utd,Southampton,"Old Trafford, Manchester",1,1993/94,1994-05-04
+Ipswich,Man Utd,1,2,Man Utd,Ipswich,"Portman Road, Ipswich",1,1993/94,1994-05-01
+Leeds,Man Utd,0,2,Man Utd,Leeds,"Elland Road, Leeds",1,1993/94,1994-04-27
+Man Utd,Man City,2,0,Man Utd,Man City,"Old Trafford, Manchester",1,1993/94,1994-04-23
+Wimbledon,Man Utd,1,0,Wimbledon,Man Utd,"Selhurst Park, London",1,1993/94,1994-04-16
+Man Utd,Oldham,3,2,Man Utd,Oldham,"Old Trafford, Manchester",1,1993/94,1994-04-04
+Blackburn,Man Utd,2,0,Blackburn,Man Utd,"Ewood Park, Blackburn",1,1993/94,1994-04-02
+Man Utd,Liverpool,1,0,Man Utd,Liverpool,"Old Trafford, Manchester",1,1993/94,1994-03-30
+Arsenal,Man Utd,2,2,draw,draw,"Highbury, London",1,1993/94,1994-03-22
+Swindon,Man Utd,2,2,draw,draw,"County Ground, Swindon",1,1993/94,1994-03-19
+Man Utd,Sheffield Wed,5,0,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1993/94,1994-03-16
+Man Utd,Chelsea,0,1,Chelsea,Man Utd,"Old Trafford, Manchester",1,1993/94,1994-03-05
+West Ham,Man Utd,2,2,draw,draw,"Boleyn Ground, London",1,1993/94,1994-02-26
+QPR,Man Utd,2,3,Man Utd,QPR,"Loftus Road, London",1,1993/94,1994-02-05
+Man Utd,Everton,1,0,Man Utd,Everton,"Old Trafford, Manchester",1,1993/94,1994-01-22
+Spurs,Man Utd,0,1,Man Utd,Spurs,"White Hart Lane, London",1,1993/94,1994-01-15
+Liverpool,Man Utd,3,3,draw,draw,"Anfield, Liverpool",1,1993/94,1994-01-04
+Man Utd,Leeds,0,0,draw,draw,"Old Trafford, Manchester",1,1993/94,1994-01-01
+Oldham,Man Utd,2,5,Man Utd,Oldham,"Boundary Park, Oldham",1,1993/94,1993-12-29
+Man Utd,Blackburn,1,1,draw,draw,"Old Trafford, Manchester",1,1993/94,1993-12-26
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1993/94,1993-12-19
+Newcastle,Man Utd,1,1,draw,draw,"St. James' Park, Newcastle",1,1993/94,1993-12-11
+Sheffield Utd,Man Utd,0,3,Man Utd,Sheffield Utd,"Bramall Lane, Sheffield",1,1993/94,1993-12-07
+Man Utd,Norwich,2,2,draw,draw,"Old Trafford, Manchester",1,1993/94,1993-12-04
+Coventry,Man Utd,0,1,Man Utd,Coventry,"Highfield Road, Coventry",1,1993/94,1993-11-27
+Man Utd,Ipswich,0,0,draw,draw,"Old Trafford, Manchester",1,1993/94,1993-11-24
+Man Utd,Wimbledon,3,1,Man Utd,Wimbledon,"Old Trafford, Manchester",1,1993/94,1993-11-20
+Man City,Man Utd,2,3,Man Utd,Man City,"Maine Road, Manchester",1,1993/94,1993-11-07
+Man Utd,QPR,2,1,Man Utd,QPR,"Old Trafford, Manchester",1,1993/94,1993-10-30
+Everton,Man Utd,0,1,Man Utd,Everton,"Goodison Park, Liverpool",1,1993/94,1993-10-23
+Man Utd,Spurs,2,1,Man Utd,Spurs,"Old Trafford, Manchester",1,1993/94,1993-10-16
+Sheffield Wed,Man Utd,2,3,Man Utd,Sheffield Wed,"Hillsborough, Sheffield",1,1993/94,1993-10-02
+Man Utd,Swindon,4,2,Man Utd,Swindon,"Old Trafford, Manchester",1,1993/94,1993-09-25
+Man Utd,Arsenal,1,0,Man Utd,Arsenal,"Old Trafford, Manchester",1,1993/94,1993-09-19
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,1993/94,1993-09-11
+Man Utd,West Ham,3,0,Man Utd,West Ham,"Old Trafford, Manchester",1,1993/94,1993-09-01
+Southampton,Man Utd,1,3,Man Utd,Southampton,"The Dell, Southampton",1,1993/94,1993-08-28
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1993/94,1993-08-23
+Man Utd,Newcastle,1,1,draw,draw,"Old Trafford, Manchester",1,1993/94,1993-08-21
+Man Utd,Sheffield Utd,3,0,Man Utd,Sheffield Utd,"Old Trafford, Manchester",1,1993/94,1993-08-18
+Norwich,Man Utd,0,2,Man Utd,Norwich,"Carrow Road, Norwich",1,1993/94,1993-08-15
+Wimbledon,Man Utd,1,2,Man Utd,Wimbledon,"Selhurst Park, London",1,1992/93,1993-05-09
+Man Utd,Blackburn,3,1,Man Utd,Blackburn,"Old Trafford, Manchester",1,1992/93,1993-05-03
+Crystal Palace,Man Utd,0,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,1992/93,1993-04-21
+Man Utd,Chelsea,3,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,1992/93,1993-04-17
+Coventry,Man Utd,0,1,Man Utd,Coventry,"Highfield Road, Coventry",1,1992/93,1993-04-12
+Man Utd,Sheffield Wed,2,1,Man Utd,Sheffield Wed,"Old Trafford, Manchester",1,1992/93,1993-04-10
+Norwich,Man Utd,1,3,Man Utd,Norwich,"Carrow Road, Norwich",1,1992/93,1993-04-05
+Man Utd,Arsenal,0,0,draw,draw,"Old Trafford, Manchester",1,1992/93,1993-03-24
+Man City,Man Utd,1,1,draw,draw,"Maine Road, Manchester",1,1992/93,1993-03-20
+Man Utd,Aston Villa,1,1,draw,draw,"Old Trafford, Manchester",1,1992/93,1993-03-14
+Oldham,Man Utd,1,0,Oldham,Man Utd,"Boundary Park, Oldham",1,1992/93,1993-03-09
+Liverpool,Man Utd,1,2,Man Utd,Liverpool,"Anfield, Liverpool",1,1992/93,1993-03-06
+Man Utd,Middlesbrough,3,0,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,1992/93,1993-02-27
+Man Utd,Southampton,2,1,Man Utd,Southampton,"Old Trafford, Manchester",1,1992/93,1993-02-20
+Leeds,Man Utd,0,0,draw,draw,"Elland Road, Leeds",1,1992/93,1993-02-08
+Man Utd,Sheffield Utd,2,1,Man Utd,Sheffield Utd,"Old Trafford, Manchester",1,1992/93,1993-02-06
+Ipswich,Man Utd,2,1,Ipswich,Man Utd,"Portman Road, Ipswich",1,1992/93,1993-01-30
+Man Utd,Nott'm Forest,2,0,Man Utd,Nott'm Forest,"Old Trafford, Manchester",1,1992/93,1993-01-27
+QPR,Man Utd,1,3,Man Utd,QPR,"Loftus Road, London",1,1992/93,1993-01-18
+Man Utd,Spurs,4,1,Man Utd,Spurs,"Old Trafford, Manchester",1,1992/93,1993-01-09
+Man Utd,Coventry,5,0,Man Utd,Coventry,"Old Trafford, Manchester",1,1992/93,1992-12-28
+Sheffield Wed,Man Utd,3,3,draw,draw,"Hillsborough, Sheffield",1,1992/93,1992-12-26
+Chelsea,Man Utd,1,1,draw,draw,"Stamford Bridge, London",1,1992/93,1992-12-19
+Man Utd,Norwich,1,0,Man Utd,Norwich,"Old Trafford, Manchester",1,1992/93,1992-12-12
+Man Utd,Man City,2,1,Man Utd,Man City,"Old Trafford, Manchester",1,1992/93,1992-12-06
+Arsenal,Man Utd,0,1,Man Utd,Arsenal,"Highbury, London",1,1992/93,1992-11-28
+Man Utd,Oldham,3,0,Man Utd,Oldham,"Old Trafford, Manchester",1,1992/93,1992-11-21
+Aston Villa,Man Utd,1,0,Aston Villa,Man Utd,"Villa Park, Birmingham",1,1992/93,1992-11-07
+Man Utd,Wimbledon,0,1,Wimbledon,Man Utd,"Old Trafford, Manchester",1,1992/93,1992-10-31
+Blackburn,Man Utd,0,0,draw,draw,"Ewood Park, Blackburn",1,1992/93,1992-10-24
+Man Utd,Liverpool,2,2,draw,draw,"Old Trafford, Manchester",1,1992/93,1992-10-18
+Middlesbrough,Man Utd,1,1,draw,draw,"Ayresome Park, Middlesbrough",1,1992/93,1992-10-03
+Man Utd,QPR,0,0,draw,draw,"Old Trafford, Manchester",1,1992/93,1992-09-26
+Spurs,Man Utd,1,1,draw,draw,"White Hart Lane, London",1,1992/93,1992-09-19
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,1992/93,1992-09-12
+Man Utd,Leeds,2,0,Man Utd,Leeds,"Old Trafford, Manchester",1,1992/93,1992-09-06
+Man Utd,Crystal Palace,1,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,1992/93,1992-09-02
+Nott'm Forest,Man Utd,0,2,Man Utd,Nott'm Forest,"City Ground, Nottingham",1,1992/93,1992-08-29
+Southampton,Man Utd,0,1,Man Utd,Southampton,"The Dell, Southampton",1,1992/93,1992-08-24
+Man Utd,Ipswich,1,1,draw,draw,"Old Trafford, Manchester",1,1992/93,1992-08-22
+Man Utd,Everton,0,3,Everton,Man Utd,"Old Trafford, Manchester",1,1992/93,1992-08-19
+Sheffield Utd,Man Utd,2,1,Sheffield Utd,Man Utd,"Bramall Lane, Sheffield",1,1992/93,1992-08-15
