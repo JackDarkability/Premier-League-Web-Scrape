@@ -61,9 +61,10 @@ def get_matches_data(full_link, competition, year):
             home_team = match.get("data-home")
             away_team = match.get("data-away")
             venue = match.get("data-venue")
-            score_div = match.find("span", class_="match-fixture__score")
-            score = score_div.text.strip()
+            score_span = match.find("span", class_="match-fixture__score")
+            score = score_span.text.strip()
             home_team_goals, away_team_goals = score.split("-")
+
             if home_team_goals > away_team_goals:
                 winner = home_team
                 loser = away_team
