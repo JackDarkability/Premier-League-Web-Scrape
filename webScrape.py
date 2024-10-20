@@ -62,26 +62,11 @@ def get_matches_data(full_link, league, year):
     driver.get(full_link)
 
     results_of_matches = []
-    html = driver.find_element(By.TAG_NAME, "html")
-    html.send_keys(Keys.PAGE_DOWN)
-    time.sleep(10)
 
-    # Scroll down page until all matches are loaded
-    while True:
-        html.send_keys(Keys.PAGE_DOWN)
-        time.sleep(4)
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        # If loader present then matches have not finished loading
-        loader = soup.findAll(
-            lambda tag: tag.name == "div"
-            and "loader" in tag.get("class", [])
-            and "u-hide" not in tag.get("class", [])
-        )
-        if not loader:
-            logging.debug("No loader")
-            break
+    # Scroll until all matches are loaded
+    soup = load_entire_page(driver)
 
-    # Get all the matches
+    # Get all the divs that contain all matches for a given day
     all_match_days = soup.find_all("div", class_="fixtures__date-container")
 
     for match_day in all_match_days:
@@ -93,7 +78,7 @@ def get_matches_data(full_link, league, year):
             away_team = match.get("data-away")
             venue = match.get("data-venue")
             score_div = match.find("span", class_="match-fixture__score")
-            score = (score_div.get_text()).strip()
+            score = (score_div.text).strip()
             home_team_goals, away_team_goals = score.split("-")
             if home_team_goals > away_team_goals:
                 winner = home_team
@@ -122,6 +107,31 @@ def get_matches_data(full_link, league, year):
     driver.quit()
 
     return results_of_matches
+
+
+def load_entire_page(driver):
+    """Scroll down the page to load all matches"""
+
+    html = driver.find_element(By.TAG_NAME, "html")
+    html.send_keys(Keys.PAGE_DOWN)
+    time.sleep(10)
+
+    # Scroll down page until all matches are loaded
+    while True:
+        html.send_keys(Keys.PAGE_DOWN)
+        time.sleep(4)
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        # If loader present then matches have not finished loading
+        loader = soup.findAll(
+            lambda tag: tag.name == "div"
+            and "loader" in tag.get("class", [])
+            and "u-hide" not in tag.get("class", [])
+        )
+        if not loader:
+            logging.debug("No loader")
+            break
+
+    return soup
 
 
 def main():
