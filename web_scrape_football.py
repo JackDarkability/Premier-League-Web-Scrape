@@ -72,12 +72,11 @@ def scrape_football_data(
     # Save to CSV
     all_matches_df.to_csv(output_file, index=False)
 
-    calculate_elo_and_save_to_file("football_matches.csv", "home_team", "away_team")
-
-
 if __name__ == "__main__":
     # Set up logging
     logging_level = logging.INFO
     logging_format = "[%(levelname)s] %(message)s"
     logging.basicConfig(level=logging_level, format=logging_format)
     scrape_football_data(clubs=["12"], output_file="manchester_united_matches.csv")
+    calculate_elo_and_save_to_file("football_matches.csv", "home_team", "away_team")
+
