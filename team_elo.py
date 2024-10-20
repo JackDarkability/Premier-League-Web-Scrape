@@ -89,12 +89,14 @@ def calculate_elo(
     matches.to_csv(output_file_name_with_elos_next_to_matches, index=False)
     teams_peak_elo = sorted(elo_peak_ratings.items(), key=lambda x: x[1], reverse=True)
 
-    teams_peak_elos_df = pd.DataFrame(teams_peak_elo, columns=["Team", "Elo Rating"])
+    teams_peak_elos_df = pd.DataFrame(
+        teams_peak_elo, columns=["Person", "Elo Rating"]
+    )
     teams_peak_elos_df.to_csv(output_file_name_peak_elo, index=False)
 
     teams_current_elo = sorted(elo_ratings.items(), key=lambda x: x[1], reverse=True)
     teams_current_elos_df = pd.DataFrame(
-        teams_current_elo, columns=["Team", "Elo Rating"]
+        teams_current_elo, columns=["Person", "Elo Rating"]
     )
     teams_current_elos_df.to_csv(output_file_name_current_elo, index=False)
 
