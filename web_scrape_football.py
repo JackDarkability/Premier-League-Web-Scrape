@@ -22,6 +22,7 @@ import pandas as pd
 
 from helper_functions import get_full_link
 from data_collectors import get_all_season_data, get_matches_data
+from elo_calculator import calculate_elo_and_save_to_file
 
 
 def scrape_football_data(
@@ -64,10 +65,14 @@ def scrape_football_data(
     # Convert all matches to a DataFrame
     all_matches_df = pd.DataFrame(results_of_matches)
 
-    all_matches_df['date'] = pd.to_datetime(all_matches_df['date'], format="%A %d %B %Y")
-    
+    all_matches_df["date"] = pd.to_datetime(
+        all_matches_df["date"], format="%A %d %B %Y"
+    )
+
     # Save to CSV
     all_matches_df.to_csv(output_file, index=False)
+
+    calculate_elo_and_save_to_file("football_matches.csv", "home_team", "away_team")
 
 
 if __name__ == "__main__":
