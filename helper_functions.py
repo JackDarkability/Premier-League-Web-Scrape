@@ -18,6 +18,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
+
 def setup_driver():
     """Set up the web driver"""
 
@@ -27,14 +28,16 @@ def setup_driver():
     driver = webdriver.Chrome(options=options)
     return driver
 
+
 def get_full_link(base_url, competition, season, club="-1"):
-    """Create full URL from the the details given along with a base URL 
+    """Create full URL from the the details given along with a base URL
     which is contiguous for all URLs to scrape
     """
 
     full_url = f"{base_url}{competition}&se={season['number']}&cl={club}"
     logging.debug(full_url)
     return full_url
+
 
 def load_entire_page(driver):
     """Scroll down the page to load all matches"""

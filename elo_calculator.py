@@ -4,7 +4,7 @@ This script calculates Elo ratings for each match in the CSV file
 and saves the updated Elo ratings to the given files. Only works with 1 vs 1 matches.
 
 """
-
+import logging
 import pandas as pd
 
 
@@ -56,11 +56,10 @@ def calculate_new_elo(winner_elo, loser_elo, k_factor):
     return round(new_winner_elo, 2), round(new_loser_elo, 2)
 
 
-# Function to calculate Elo ratings for all matches
 def calculate_all_elos(
     data_frame, person_1_column_name, person_2_column_name, initial_elo, k_factor
 ):
-    """Go through data frame and calculate Elo ratings for each match"""
+    """Go through data frame and calculate Elo ratings for all matches"""
     # Sort with the most recent at the bottom
     matches = matches.sort_index(ascending=False)
 
@@ -115,7 +114,7 @@ def calculate_all_elos(
                 person_1_elo_start, person_2_elo_start, k_factor / 2
             )
         else:  # Something went wrong, ignore
-            print("Error on index: ", index)
+            logging.error("Error on index: ", index)
             new_person_1_elo, new_person_2_elo = person_1_elo_start, person_2_elo_start
 
         # Record updated Elo ratings
@@ -146,11 +145,15 @@ def save_elos_to_file(
     """Save the updated Elo ratings to a CSV file along with the peaks and currents"""
 
     data_frame.to_csv(output_file_name_with_elos_next_to_matches, index=False)
-    teams_peak_elo = sorted(peak_elos.items(), key=lambda x: x[1], reverse=True)
 
-    teams_peak_elos_df = pd.DataFrame(teams_peak_elo, columns=["Person", "Elo Rating"])
+    # Save Peak elo of all teams to csv
+    teams_peak_elo = sorted(peak_elos.items(), key=lambda x: x[1], reverse=True)
+    teams_peak_elos_df = pd.DataFrame(
+        teams_peak_elo, columns=["Person", "Elo Rating"]
+    )
     teams_peak_elos_df.to_csv(output_file_name_peak_elo, index=False)
 
+    # Save current elo of all teams to csv
     teams_current_elo = sorted(elos.items(), key=lambda x: x[1], reverse=True)
     teams_current_elos_df = pd.DataFrame(
         teams_current_elo, columns=["Person", "Elo Rating"]

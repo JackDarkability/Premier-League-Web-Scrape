@@ -12,8 +12,11 @@ from bs4 import BeautifulSoup
 
 from helper_functions import setup_driver, load_entire_page
 
+
 def get_all_season_data(base_url, competition):
     """Getting all the ids and years for the seasons"""
+
+    logging.info(f"Getting all seasons for competition {competition}")
     link = f"{base_url}{competition}"
     # Set up the web driver
     driver = setup_driver()
@@ -43,6 +46,9 @@ def get_all_season_data(base_url, competition):
 def get_matches_data(full_link, competition, year):
     """Get all the matches from a premier league link"""
 
+    logging.info(
+        f"Getting all matches for competition {competition} and season {year['year']}"
+    )
     driver = setup_driver()
     driver.get(full_link)
     # Scroll until all matches are loaded
@@ -55,7 +61,10 @@ def get_matches_data(full_link, competition, year):
 
     for match_day in all_match_days:
         date = match_day.find("time", class_="fixtures__date fixtures__date--long").text
-        matches = match_day.find_all("li", class_="match-fixture") # List of matches for a given day
+        matches = match_day.find_all(
+            "li", class_="match-fixture"
+        )  # List of matches for a given day
+
         for match in matches:
             # Get the data for the individual match
             home_team = match.get("data-home")
@@ -65,6 +74,7 @@ def get_matches_data(full_link, competition, year):
             score = score_span.text.strip()
             home_team_goals, away_team_goals = score.split("-")
 
+            # Decide winner and loser
             if home_team_goals > away_team_goals:
                 winner = home_team
                 loser = away_team
@@ -89,6 +99,10 @@ def get_matches_data(full_link, competition, year):
                     "date": date,
                 }
             )
+
     driver.quit()
+    logging.info(
+        f"Finished getting all matches for competition {competition} and season {year['year']}"
+    )
 
     return results_of_matches
