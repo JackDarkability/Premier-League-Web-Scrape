@@ -29,12 +29,12 @@ def setup_driver():
     return driver
 
 
-def get_full_link(base_url, competition, season, club="-1"):
+def get_full_link(base_url, season, club="-1"):
     """Create full URL from the the details given along with a base URL
     which is contiguous for all URLs to scrape
     """
 
-    full_url = f"{base_url}{competition}&se={season['number']}&cl={club}"
+    full_url = f"{base_url}{season['competition']}&se={season['number']}&cl={club}"
     logging.debug(full_url)
     return full_url
 
@@ -62,3 +62,16 @@ def load_entire_page(driver):
             break
 
     return soup
+
+def initialise_dictionary(match):
+    """
+    """
+
+    stats = ["possession_%", "shots_on_target", "shots", "touches", "passes","tackles", "clearances", "corners", "offsides", "yellow_cards", "red_cards", "fouls_conceded"]
+
+    for stat in stats:
+        match[stat + "_home"] = 0
+        match[stat + "_away"] = 0
+    
+    return match
+

@@ -4,6 +4,7 @@ This script calculates Elo ratings for each match in the CSV file
 and saves the updated Elo ratings to the given files. Only works with 1 vs 1 matches.
 
 """
+
 import logging
 import pandas as pd
 
@@ -61,7 +62,7 @@ def calculate_all_elos(
 ):
     """Go through data frame and calculate Elo ratings for all matches"""
     # Sort with the most recent at the bottom
-    matches = matches.sort_index(ascending=False)
+    data_frame = data_frame.sort_index(ascending=False)
 
     # Initialize Elo ratings
     elo_ratings_data_frame = {}
@@ -148,9 +149,7 @@ def save_elos_to_file(
 
     # Save Peak elo of all teams to csv
     teams_peak_elo = sorted(peak_elos.items(), key=lambda x: x[1], reverse=True)
-    teams_peak_elos_df = pd.DataFrame(
-        teams_peak_elo, columns=["Person", "Elo Rating"]
-    )
+    teams_peak_elos_df = pd.DataFrame(teams_peak_elo, columns=["Person", "Elo Rating"])
     teams_peak_elos_df.to_csv(output_file_name_peak_elo, index=False)
 
     # Save current elo of all teams to csv

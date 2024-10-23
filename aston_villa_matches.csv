@@ -1,0 +1,1883 @@
+home_team,away_team,home_team_goals,away_team_goals,winner,loser,venue,league,year,date
+Fulham,Aston Villa,1,3,Aston Villa,Fulham,"Craven Cottage, London",1,2024/25,2024-10-19
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,2024/25,2024-10-06
+Ipswich,Aston Villa,2,2,draw,draw,"Portman Road, Ipswich",1,2024/25,2024-09-29
+Aston Villa,Wolves,3,1,Aston Villa,Wolves,"Villa Park, Birmingham",1,2024/25,2024-09-21
+Aston Villa,Everton,3,2,Aston Villa,Everton,"Villa Park, Birmingham",1,2024/25,2024-09-14
+Leicester,Aston Villa,1,2,Aston Villa,Leicester,"King Power Stadium, Leicester",1,2024/25,2024-08-31
+Aston Villa,Arsenal,0,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2024/25,2024-08-24
+West Ham,Aston Villa,1,2,Aston Villa,West Ham,"London Stadium, London",1,2024/25,2024-08-17
+Crystal Palace,Aston Villa,5,0,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2023/24,2024-05-19
+Aston Villa,Liverpool,3,3,draw,draw,"Villa Park, Birmingham",1,2023/24,2024-05-13
+Brighton,Aston Villa,1,0,Brighton,Aston Villa,"American Express Stadium, Falmer",1,2023/24,2024-05-05
+Aston Villa,Chelsea,2,2,draw,draw,"Villa Park, Birmingham",1,2023/24,2024-04-27
+Aston Villa,Bournemouth,3,1,Aston Villa,Bournemouth,"Villa Park, Birmingham",1,2023/24,2024-04-21
+Arsenal,Aston Villa,0,2,Aston Villa,Arsenal,"Emirates Stadium, London",1,2023/24,2024-04-14
+Aston Villa,Brentford,3,3,draw,draw,"Villa Park, Birmingham",1,2023/24,2024-04-06
+Man City,Aston Villa,4,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2023/24,2024-04-03
+Aston Villa,Wolves,2,0,Aston Villa,Wolves,"Villa Park, Birmingham",1,2023/24,2024-03-30
+West Ham,Aston Villa,1,1,draw,draw,"London Stadium, London",1,2023/24,2024-03-17
+Aston Villa,Spurs,0,4,Spurs,Aston Villa,"Villa Park, Birmingham",1,2023/24,2024-03-10
+Luton,Aston Villa,2,3,Aston Villa,Luton,"Kenilworth Road, Luton",1,2023/24,2024-03-02
+Aston Villa,Nott'm Forest,4,2,Aston Villa,Nott'm Forest,"Villa Park, Birmingham",1,2023/24,2024-02-24
+Fulham,Aston Villa,1,2,Aston Villa,Fulham,"Craven Cottage, London",1,2023/24,2024-02-17
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2023/24,2024-02-11
+Sheffield Utd,Aston Villa,0,5,Aston Villa,Sheffield Utd,"Bramall Lane, Sheffield",1,2023/24,2024-02-03
+Aston Villa,Newcastle,1,3,Newcastle,Aston Villa,"Villa Park, Birmingham",1,2023/24,2024-01-30
+Everton,Aston Villa,0,0,draw,draw,"Goodison Park, Liverpool",1,2023/24,2024-01-14
+Aston Villa,Burnley,3,2,Aston Villa,Burnley,"Villa Park, Birmingham",1,2023/24,2023-12-30
+Man Utd,Aston Villa,3,2,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2023/24,2023-12-26
+Aston Villa,Sheffield Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2023/24,2023-12-22
+Brentford,Aston Villa,1,2,Aston Villa,Brentford,"Gtech Community Stadium, Brentford",1,2023/24,2023-12-17
+Aston Villa,Arsenal,1,0,Aston Villa,Arsenal,"Villa Park, Birmingham",1,2023/24,2023-12-09
+Aston Villa,Man City,1,0,Aston Villa,Man City,"Villa Park, Birmingham",1,2023/24,2023-12-06
+Bournemouth,Aston Villa,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2023/24,2023-12-03
+Spurs,Aston Villa,1,2,Aston Villa,Spurs,"Tottenham Hotspur Stadium, London",1,2023/24,2023-11-26
+Aston Villa,Fulham,3,1,Aston Villa,Fulham,"Villa Park, Birmingham",1,2023/24,2023-11-12
+Nott'm Forest,Aston Villa,2,0,Nott'm Forest,Aston Villa,"The City Ground, Nottingham",1,2023/24,2023-11-05
+Aston Villa,Luton,3,1,Aston Villa,Luton,"Villa Park, Birmingham",1,2023/24,2023-10-29
+Aston Villa,West Ham,4,1,Aston Villa,West Ham,"Villa Park, Birmingham",1,2023/24,2023-10-22
+Wolves,Aston Villa,1,1,draw,draw,"Molineux Stadium, Wolverhampton",1,2023/24,2023-10-08
+Aston Villa,Brighton,6,1,Aston Villa,Brighton,"Villa Park, Birmingham",1,2023/24,2023-09-30
+Chelsea,Aston Villa,0,1,Aston Villa,Chelsea,"Stamford Bridge, London",1,2023/24,2023-09-24
+Aston Villa,Crystal Palace,3,1,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,2023/24,2023-09-16
+Liverpool,Aston Villa,3,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2023/24,2023-09-03
+Burnley,Aston Villa,1,3,Aston Villa,Burnley,"Turf Moor, Burnley",1,2023/24,2023-08-27
+Aston Villa,Everton,4,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2023/24,2023-08-20
+Newcastle,Aston Villa,5,1,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2023/24,2023-08-12
+Aston Villa,Brighton,2,1,Aston Villa,Brighton,"Villa Park, Birmingham",1,2022/23,2023-05-28
+Liverpool,Aston Villa,1,1,draw,draw,"Anfield, Liverpool",1,2022/23,2023-05-20
+Aston Villa,Spurs,2,1,Aston Villa,Spurs,"Villa Park, Birmingham",1,2022/23,2023-05-13
+Wolves,Aston Villa,1,0,Wolves,Aston Villa,"Molineux Stadium, Wolverhampton",1,2022/23,2023-05-06
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2022/23,2023-04-30
+Aston Villa,Fulham,1,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2022/23,2023-04-25
+Brentford,Aston Villa,1,1,draw,draw,"Gtech Community Stadium, Brentford",1,2022/23,2023-04-22
+Aston Villa,Newcastle,3,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2022/23,2023-04-15
+Aston Villa,Nott'm Forest,2,0,Aston Villa,Nott'm Forest,"Villa Park, Birmingham",1,2022/23,2023-04-08
+Leicester,Aston Villa,1,2,Aston Villa,Leicester,"King Power Stadium, Leicester",1,2022/23,2023-04-04
+Chelsea,Aston Villa,0,2,Aston Villa,Chelsea,"Stamford Bridge, London",1,2022/23,2023-04-01
+Aston Villa,Bournemouth,3,0,Aston Villa,Bournemouth,"Villa Park, Birmingham",1,2022/23,2023-03-18
+West Ham,Aston Villa,1,1,draw,draw,"London Stadium, London",1,2022/23,2023-03-12
+Aston Villa,Crystal Palace,1,0,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,2022/23,2023-03-04
+Everton,Aston Villa,0,2,Aston Villa,Everton,"Goodison Park, Liverpool",1,2022/23,2023-02-25
+Aston Villa,Arsenal,2,4,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2022/23,2023-02-18
+Man City,Aston Villa,3,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2022/23,2023-02-12
+Aston Villa,Leicester,2,4,Leicester,Aston Villa,"Villa Park, Birmingham",1,2022/23,2023-02-04
+Southampton,Aston Villa,0,1,Aston Villa,Southampton,"St. Mary's Stadium, Southampton",1,2022/23,2023-01-21
+Aston Villa,Leeds,2,1,Aston Villa,Leeds,"Villa Park, Birmingham",1,2022/23,2023-01-13
+Aston Villa,Wolves,1,1,draw,draw,"Villa Park, Birmingham",1,2022/23,2023-01-04
+Spurs,Aston Villa,0,2,Aston Villa,Spurs,"Tottenham Hotspur Stadium, London",1,2022/23,2023-01-01
+Aston Villa,Liverpool,1,3,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2022/23,2022-12-26
+Brighton,Aston Villa,1,2,Aston Villa,Brighton,"American Express Stadium, Falmer",1,2022/23,2022-11-13
+Aston Villa,Man Utd,3,1,Aston Villa,Man Utd,"Villa Park, Birmingham",1,2022/23,2022-11-06
+Newcastle,Aston Villa,4,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2022/23,2022-10-29
+Aston Villa,Brentford,4,0,Aston Villa,Brentford,"Villa Park, Birmingham",1,2022/23,2022-10-23
+Fulham,Aston Villa,3,0,Fulham,Aston Villa,"Craven Cottage, London",1,2022/23,2022-10-20
+Aston Villa,Chelsea,0,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2022/23,2022-10-16
+Nott'm Forest,Aston Villa,1,1,draw,draw,"The City Ground, Nottingham",1,2022/23,2022-10-10
+Leeds,Aston Villa,0,0,draw,draw,"Elland Road, Leeds",1,2022/23,2022-10-02
+Aston Villa,Southampton,1,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,2022/23,2022-09-16
+Aston Villa,Man City,1,1,draw,draw,"Villa Park, Birmingham",1,2022/23,2022-09-03
+Arsenal,Aston Villa,2,1,Arsenal,Aston Villa,"Emirates Stadium, London",1,2022/23,2022-08-31
+Aston Villa,West Ham,0,1,West Ham,Aston Villa,"Villa Park, Birmingham",1,2022/23,2022-08-28
+Crystal Palace,Aston Villa,3,1,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2022/23,2022-08-20
+Aston Villa,Everton,2,1,Aston Villa,Everton,"Villa Park, Birmingham",1,2022/23,2022-08-13
+Bournemouth,Aston Villa,2,0,Bournemouth,Aston Villa,"Vitality Stadium, Bournemouth",1,2022/23,2022-08-06
+Man City,Aston Villa,3,2,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2021/22,2022-05-22
+Aston Villa,Burnley,1,1,draw,draw,"Villa Park, Birmingham",1,2021/22,2022-05-19
+Aston Villa,Crystal Palace,1,1,draw,draw,"Villa Park, Birmingham",1,2021/22,2022-05-15
+Aston Villa,Liverpool,1,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2021/22,2022-05-10
+Burnley,Aston Villa,1,3,Aston Villa,Burnley,"Turf Moor, Burnley",1,2021/22,2022-05-07
+Aston Villa,Norwich,2,0,Aston Villa,Norwich,"Villa Park, Birmingham",1,2021/22,2022-04-30
+Leicester,Aston Villa,0,0,draw,draw,"King Power Stadium, Leicester",1,2021/22,2022-04-23
+Aston Villa,Spurs,0,4,Spurs,Aston Villa,"Villa Park, Birmingham",1,2021/22,2022-04-09
+Wolves,Aston Villa,2,1,Wolves,Aston Villa,"Molineux Stadium, Wolverhampton",1,2021/22,2022-04-02
+Aston Villa,Arsenal,0,1,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2021/22,2022-03-19
+West Ham,Aston Villa,2,1,West Ham,Aston Villa,"London Stadium, London",1,2021/22,2022-03-13
+Leeds,Aston Villa,0,3,Aston Villa,Leeds,"Elland Road, Leeds",1,2021/22,2022-03-10
+Aston Villa,Southampton,4,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,2021/22,2022-03-05
+Brighton,Aston Villa,0,2,Aston Villa,Brighton,"Amex Stadium, Falmer",1,2021/22,2022-02-26
+Aston Villa,Watford,0,1,Watford,Aston Villa,"Villa Park, Birmingham",1,2021/22,2022-02-19
+Newcastle,Aston Villa,1,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2021/22,2022-02-13
+Aston Villa,Leeds,3,3,draw,draw,"Villa Park, Birmingham",1,2021/22,2022-02-09
+Everton,Aston Villa,0,1,Aston Villa,Everton,"Goodison Park, Liverpool",1,2021/22,2022-01-22
+Aston Villa,Man Utd,2,2,draw,draw,"Villa Park, Birmingham",1,2021/22,2022-01-15
+Brentford,Aston Villa,2,1,Brentford,Aston Villa,"Gtech Community Stadium, Brentford",1,2021/22,2022-01-02
+Aston Villa,Chelsea,1,3,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2021/22,2021-12-26
+Norwich,Aston Villa,0,2,Aston Villa,Norwich,"Carrow Road, Norwich",1,2021/22,2021-12-14
+Liverpool,Aston Villa,1,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2021/22,2021-12-11
+Aston Villa,Leicester,2,1,Aston Villa,Leicester,"Villa Park, Birmingham",1,2021/22,2021-12-05
+Aston Villa,Man City,1,2,Man City,Aston Villa,"Villa Park, Birmingham",1,2021/22,2021-12-01
+Crystal Palace,Aston Villa,1,2,Aston Villa,Crystal Palace,"Selhurst Park, London",1,2021/22,2021-11-27
+Aston Villa,Brighton,2,0,Aston Villa,Brighton,"Villa Park, Birmingham",1,2021/22,2021-11-20
+Southampton,Aston Villa,1,0,Southampton,Aston Villa,"St. Mary's Stadium, Southampton",1,2021/22,2021-11-05
+Aston Villa,West Ham,1,4,West Ham,Aston Villa,"Villa Park, Birmingham",1,2021/22,2021-10-31
+Arsenal,Aston Villa,3,1,Arsenal,Aston Villa,"Emirates Stadium, London",1,2021/22,2021-10-22
+Aston Villa,Wolves,2,3,Wolves,Aston Villa,"Villa Park, Birmingham",1,2021/22,2021-10-16
+Spurs,Aston Villa,2,1,Spurs,Aston Villa,"Tottenham Hotspur Stadium, London",1,2021/22,2021-10-03
+Man Utd,Aston Villa,0,1,Aston Villa,Man Utd,"Old Trafford, Manchester",1,2021/22,2021-09-25
+Aston Villa,Everton,3,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2021/22,2021-09-18
+Chelsea,Aston Villa,3,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2021/22,2021-09-11
+Aston Villa,Brentford,1,1,draw,draw,"Villa Park, Birmingham",1,2021/22,2021-08-28
+Aston Villa,Newcastle,2,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2021/22,2021-08-21
+Watford,Aston Villa,3,2,Watford,Aston Villa,"Vicarage Road, Watford",1,2021/22,2021-08-14
+Aston Villa,Chelsea,2,1,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2020/21,2021-05-23
+Spurs,Aston Villa,1,2,Aston Villa,Spurs,"Tottenham Hotspur Stadium, London",1,2020/21,2021-05-19
+Crystal Palace,Aston Villa,3,2,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2020/21,2021-05-16
+Aston Villa,Everton,0,0,draw,draw,"Villa Park, Birmingham",1,2020/21,2021-05-13
+Aston Villa,Man Utd,1,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-05-09
+Everton,Aston Villa,1,2,Aston Villa,Everton,"Goodison Park, Liverpool",1,2020/21,2021-05-01
+Aston Villa,West Brom,2,2,draw,draw,"Villa Park, Birmingham",1,2020/21,2021-04-25
+Aston Villa,Man City,1,2,Man City,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-04-21
+Liverpool,Aston Villa,2,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,2020/21,2021-04-10
+Aston Villa,Fulham,3,1,Aston Villa,Fulham,"Villa Park, Birmingham",1,2020/21,2021-04-04
+Aston Villa,Spurs,0,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-03-21
+Newcastle,Aston Villa,1,1,draw,draw,"St. James' Park, Newcastle",1,2020/21,2021-03-12
+Aston Villa,Wolves,0,0,draw,draw,"Villa Park, Birmingham",1,2020/21,2021-03-06
+Sheffield Utd,Aston Villa,1,0,Sheffield Utd,Aston Villa,"Bramall Lane, Sheffield",1,2020/21,2021-03-03
+Leeds,Aston Villa,0,1,Aston Villa,Leeds,"Elland Road, Leeds",1,2020/21,2021-02-27
+Aston Villa,Leicester,1,2,Leicester,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-02-21
+Brighton,Aston Villa,0,0,draw,draw,"American Express Stadium, Falmer",1,2020/21,2021-02-13
+Aston Villa,Arsenal,1,0,Aston Villa,Arsenal,"Villa Park, Birmingham",1,2020/21,2021-02-06
+Aston Villa,West Ham,1,3,West Ham,Aston Villa,"Villa Park, Birmingham",1,2020/21,2021-02-03
+Southampton,Aston Villa,0,1,Aston Villa,Southampton,"St. Mary's Stadium, Southampton",1,2020/21,2021-01-30
+Burnley,Aston Villa,3,2,Burnley,Aston Villa,"Turf Moor, Burnley",1,2020/21,2021-01-27
+Aston Villa,Newcastle,2,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2020/21,2021-01-23
+Man City,Aston Villa,2,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2020/21,2021-01-20
+Man Utd,Aston Villa,2,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2020/21,2021-01-01
+Chelsea,Aston Villa,1,1,draw,draw,"Stamford Bridge, London",1,2020/21,2020-12-28
+Aston Villa,Crystal Palace,3,0,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,2020/21,2020-12-26
+West Brom,Aston Villa,0,3,Aston Villa,West Brom,"The Hawthorns, West Bromwich",1,2020/21,2020-12-20
+Aston Villa,Burnley,0,0,draw,draw,"Villa Park, Birmingham",1,2020/21,2020-12-17
+Wolves,Aston Villa,0,1,Aston Villa,Wolves,"Molineux Stadium, Wolverhampton",1,2020/21,2020-12-12
+West Ham,Aston Villa,2,1,West Ham,Aston Villa,"London Stadium, London",1,2020/21,2020-11-30
+Aston Villa,Brighton,1,2,Brighton,Aston Villa,"Villa Park, Birmingham",1,2020/21,2020-11-21
+Arsenal,Aston Villa,0,3,Aston Villa,Arsenal,"Emirates Stadium, London",1,2020/21,2020-11-08
+Aston Villa,Southampton,3,4,Southampton,Aston Villa,"Villa Park, Birmingham",1,2020/21,2020-11-01
+Aston Villa,Leeds,0,3,Leeds,Aston Villa,"Villa Park, Birmingham",1,2020/21,2020-10-23
+Leicester,Aston Villa,0,1,Aston Villa,Leicester,"King Power Stadium, Leicester",1,2020/21,2020-10-18
+Aston Villa,Liverpool,7,2,Aston Villa,Liverpool,"Villa Park, Birmingham",1,2020/21,2020-10-04
+Fulham,Aston Villa,0,3,Aston Villa,Fulham,"Craven Cottage, London",1,2020/21,2020-09-28
+Aston Villa,Sheffield Utd,1,0,Aston Villa,Sheffield Utd,"Villa Park, Birmingham",1,2020/21,2020-09-21
+West Ham,Aston Villa,1,1,draw,draw,"London Stadium, London",1,2019/20,2020-07-26
+Aston Villa,Arsenal,1,0,Aston Villa,Arsenal,"Villa Park, Birmingham",1,2019/20,2020-07-21
+Everton,Aston Villa,1,1,draw,draw,"Goodison Park, Liverpool",1,2019/20,2020-07-16
+Aston Villa,Crystal Palace,2,0,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,2019/20,2020-07-12
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-07-09
+Liverpool,Aston Villa,2,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2019/20,2020-07-05
+Aston Villa,Wolves,0,1,Wolves,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-06-27
+Newcastle,Aston Villa,1,1,draw,draw,"St. James' Park, Newcastle",1,2019/20,2020-06-24
+Aston Villa,Chelsea,1,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-06-21
+Aston Villa,Sheffield Utd,0,0,draw,draw,"Villa Park, Birmingham",1,2019/20,2020-06-17
+Leicester,Aston Villa,4,0,Leicester,Aston Villa,"King Power Stadium, Leicester",1,2019/20,2020-03-09
+Southampton,Aston Villa,2,0,Southampton,Aston Villa,"St. Mary's Stadium, Southampton",1,2019/20,2020-02-22
+Aston Villa,Spurs,2,3,Spurs,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-02-16
+Bournemouth,Aston Villa,2,1,Bournemouth,Aston Villa,"Vitality Stadium, Bournemouth",1,2019/20,2020-02-01
+Aston Villa,Watford,2,1,Aston Villa,Watford,"Villa Park, Birmingham",1,2019/20,2020-01-21
+Brighton,Aston Villa,1,1,draw,draw,"American Express Stadium, Falmer",1,2019/20,2020-01-18
+Aston Villa,Man City,1,6,Man City,Aston Villa,"Villa Park, Birmingham",1,2019/20,2020-01-12
+Burnley,Aston Villa,1,2,Aston Villa,Burnley,"Turf Moor, Burnley",1,2019/20,2020-01-01
+Watford,Aston Villa,3,0,Watford,Aston Villa,"Vicarage Road, Watford",1,2019/20,2019-12-28
+Aston Villa,Norwich,1,0,Aston Villa,Norwich,"Villa Park, Birmingham",1,2019/20,2019-12-26
+Aston Villa,Southampton,1,3,Southampton,Aston Villa,"Villa Park, Birmingham",1,2019/20,2019-12-21
+Sheffield Utd,Aston Villa,2,0,Sheffield Utd,Aston Villa,"Bramall Lane, Sheffield",1,2019/20,2019-12-14
+Aston Villa,Leicester,1,4,Leicester,Aston Villa,"Villa Park, Birmingham",1,2019/20,2019-12-08
+Chelsea,Aston Villa,2,1,Chelsea,Aston Villa,"Stamford Bridge, London",1,2019/20,2019-12-04
+Man Utd,Aston Villa,2,2,draw,draw,"Old Trafford, Manchester",1,2019/20,2019-12-01
+Aston Villa,Newcastle,2,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2019/20,2019-11-25
+Wolves,Aston Villa,2,1,Wolves,Aston Villa,"Molineux Stadium, Wolverhampton",1,2019/20,2019-11-10
+Aston Villa,Liverpool,1,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2019/20,2019-11-02
+Man City,Aston Villa,3,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2019/20,2019-10-26
+Aston Villa,Brighton,2,1,Aston Villa,Brighton,"Villa Park, Birmingham",1,2019/20,2019-10-19
+Norwich,Aston Villa,1,5,Aston Villa,Norwich,"Carrow Road, Norwich",1,2019/20,2019-10-05
+Aston Villa,Burnley,2,2,draw,draw,"Villa Park, Birmingham",1,2019/20,2019-09-28
+Arsenal,Aston Villa,3,2,Arsenal,Aston Villa,"Emirates Stadium, London",1,2019/20,2019-09-22
+Aston Villa,West Ham,0,0,draw,draw,"Villa Park, Birmingham",1,2019/20,2019-09-16
+Crystal Palace,Aston Villa,1,0,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2019/20,2019-08-31
+Aston Villa,Everton,2,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2019/20,2019-08-23
+Aston Villa,Bournemouth,1,2,Bournemouth,Aston Villa,"Villa Park, Birmingham",1,2019/20,2019-08-17
+Spurs,Aston Villa,3,1,Spurs,Aston Villa,"Tottenham Hotspur Stadium, London",1,2019/20,2019-08-10
+Burnley,Bournemouth,1,2,Bournemouth,Burnley,"Turf Moor, Burnley",1,2017/18,2018-05-13
+Crystal Palace,West Brom,2,0,Crystal Palace,West Brom,"Selhurst Park, London",1,2017/18,2018-05-13
+Huddersfield,Arsenal,0,1,Arsenal,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2018-05-13
+Liverpool,Brighton,4,0,Liverpool,Brighton,"Anfield, Liverpool",1,2017/18,2018-05-13
+Man Utd,Watford,1,0,Man Utd,Watford,"Old Trafford, Manchester",1,2017/18,2018-05-13
+Newcastle,Chelsea,3,0,Newcastle,Chelsea,"St. James' Park, Newcastle",1,2017/18,2018-05-13
+Southampton,Man City,0,1,Man City,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2018-05-13
+Swansea,Stoke,1,2,Stoke,Swansea,"Liberty Stadium, Swansea",1,2017/18,2018-05-13
+Spurs,Leicester,5,4,Spurs,Leicester,"Wembley Stadium, London",1,2017/18,2018-05-13
+West Ham,Everton,3,1,West Ham,Everton,"London Stadium, London",1,2017/18,2018-05-13
+West Ham,Man Utd,0,0,draw,draw,"London Stadium, London",1,2017/18,2018-05-10
+Chelsea,Huddersfield,1,1,draw,draw,"Stamford Bridge, London",1,2017/18,2018-05-09
+Leicester,Arsenal,3,1,Leicester,Arsenal,"King Power Stadium, Leicester",1,2017/18,2018-05-09
+Man City,Brighton,3,1,Man City,Brighton,"Etihad Stadium, Manchester",1,2017/18,2018-05-09
+Spurs,Newcastle,1,0,Spurs,Newcastle,"Wembley Stadium, London",1,2017/18,2018-05-09
+Swansea,Southampton,0,1,Southampton,Swansea,"Liberty Stadium, Swansea",1,2017/18,2018-05-08
+Man City,Huddersfield,0,0,draw,draw,"Etihad Stadium, Manchester",1,2017/18,2018-05-06
+Arsenal,Burnley,5,0,Arsenal,Burnley,"Emirates Stadium, London",1,2017/18,2018-05-06
+Chelsea,Liverpool,1,0,Chelsea,Liverpool,"Stamford Bridge, London",1,2017/18,2018-05-06
+Everton,Southampton,1,1,draw,draw,"Goodison Park, Liverpool",1,2017/18,2018-05-05
+Stoke,Crystal Palace,1,2,Crystal Palace,Stoke,"bet365 Stadium, Stoke",1,2017/18,2018-05-05
+Bournemouth,Swansea,1,0,Bournemouth,Swansea,"Vitality Stadium, Bournemouth",1,2017/18,2018-05-05
+Leicester,West Ham,0,2,West Ham,Leicester,"King Power Stadium, Leicester",1,2017/18,2018-05-05
+Watford,Newcastle,2,1,Watford,Newcastle,"Vicarage Road, Watford",1,2017/18,2018-05-05
+West Brom,Spurs,1,0,West Brom,Spurs,"The Hawthorns, West Bromwich",1,2017/18,2018-05-05
+Brighton,Man Utd,1,0,Brighton,Man Utd,"Amex Stadium, Falmer",1,2017/18,2018-05-04
+Spurs,Watford,2,0,Spurs,Watford,"Wembley Stadium, London",1,2017/18,2018-04-30
+West Ham,Man City,1,4,Man City,West Ham,"London Stadium, London",1,2017/18,2018-04-29
+Man Utd,Arsenal,2,1,Man Utd,Arsenal,"Old Trafford, Manchester",1,2017/18,2018-04-29
+Liverpool,Stoke,0,0,draw,draw,"Anfield, Liverpool",1,2017/18,2018-04-28
+Burnley,Brighton,0,0,draw,draw,"Turf Moor, Burnley",1,2017/18,2018-04-28
+Crystal Palace,Leicester,5,0,Crystal Palace,Leicester,"Selhurst Park, London",1,2017/18,2018-04-28
+Huddersfield,Everton,0,2,Everton,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2018-04-28
+Newcastle,West Brom,0,1,West Brom,Newcastle,"St. James' Park, Newcastle",1,2017/18,2018-04-28
+Southampton,Bournemouth,2,1,Southampton,Bournemouth,"St. Mary's Stadium, Southampton",1,2017/18,2018-04-28
+Swansea,Chelsea,0,1,Chelsea,Swansea,"Liberty Stadium, Swansea",1,2017/18,2018-04-28
+Everton,Newcastle,1,0,Everton,Newcastle,"Goodison Park, Liverpool",1,2017/18,2018-04-23
+Arsenal,West Ham,4,1,Arsenal,West Ham,"Emirates Stadium, London",1,2017/18,2018-04-22
+Stoke,Burnley,1,1,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2018-04-22
+Man City,Swansea,5,0,Man City,Swansea,"Etihad Stadium, Manchester",1,2017/18,2018-04-22
+West Brom,Liverpool,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2018-04-21
+Watford,Crystal Palace,0,0,draw,draw,"Vicarage Road, Watford",1,2017/18,2018-04-21
+Burnley,Chelsea,1,2,Chelsea,Burnley,"Turf Moor, Burnley",1,2017/18,2018-04-19
+Leicester,Southampton,0,0,draw,draw,"King Power Stadium, Leicester",1,2017/18,2018-04-19
+Bournemouth,Man Utd,0,2,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2018-04-18
+Brighton,Spurs,1,1,draw,draw,"Amex Stadium, Falmer",1,2017/18,2018-04-17
+West Ham,Stoke,1,1,draw,draw,"London Stadium, London",1,2017/18,2018-04-16
+Newcastle,Arsenal,2,1,Newcastle,Arsenal,"St. James' Park, Newcastle",1,2017/18,2018-04-15
+Man Utd,West Brom,0,1,West Brom,Man Utd,"Old Trafford, Manchester",1,2017/18,2018-04-15
+Southampton,Chelsea,2,3,Chelsea,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2018-04-14
+Burnley,Leicester,2,1,Burnley,Leicester,"Turf Moor, Burnley",1,2017/18,2018-04-14
+Crystal Palace,Brighton,3,2,Crystal Palace,Brighton,"Selhurst Park, London",1,2017/18,2018-04-14
+Huddersfield,Watford,1,0,Huddersfield,Watford,"John Smith's Stadium, Huddersfield",1,2017/18,2018-04-14
+Swansea,Everton,1,1,draw,draw,"Liberty Stadium, Swansea",1,2017/18,2018-04-14
+Liverpool,Bournemouth,3,0,Liverpool,Bournemouth,"Anfield, Liverpool",1,2017/18,2018-04-14
+Spurs,Man City,1,3,Man City,Spurs,"Wembley Stadium, London",1,2017/18,2018-04-14
+Arsenal,Southampton,3,2,Arsenal,Southampton,"Emirates Stadium, London",1,2017/18,2018-04-08
+Chelsea,West Ham,1,1,draw,draw,"Stamford Bridge, London",1,2017/18,2018-04-08
+Bournemouth,Crystal Palace,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2017/18,2018-04-07
+Man City,Man Utd,2,3,Man Utd,Man City,"Etihad Stadium, Manchester",1,2017/18,2018-04-07
+Everton,Liverpool,0,0,draw,draw,"Goodison Park, Liverpool",1,2017/18,2018-04-07
+Brighton,Huddersfield,1,1,draw,draw,"Amex Stadium, Falmer",1,2017/18,2018-04-07
+Leicester,Newcastle,1,2,Newcastle,Leicester,"King Power Stadium, Leicester",1,2017/18,2018-04-07
+Stoke,Spurs,1,2,Spurs,Stoke,"bet365 Stadium, Stoke",1,2017/18,2018-04-07
+Watford,Burnley,1,2,Burnley,Watford,"Vicarage Road, Watford",1,2017/18,2018-04-07
+West Brom,Swansea,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2018-04-07
+Arsenal,Stoke,3,0,Arsenal,Stoke,"Emirates Stadium, London",1,2017/18,2018-04-01
+Chelsea,Spurs,1,3,Spurs,Chelsea,"Stamford Bridge, London",1,2017/18,2018-04-01
+Crystal Palace,Liverpool,1,2,Liverpool,Crystal Palace,"Selhurst Park, London",1,2017/18,2018-03-31
+Brighton,Leicester,0,2,Leicester,Brighton,"Amex Stadium, Falmer",1,2017/18,2018-03-31
+Man Utd,Swansea,2,0,Man Utd,Swansea,"Old Trafford, Manchester",1,2017/18,2018-03-31
+Newcastle,Huddersfield,1,0,Newcastle,Huddersfield,"St. James' Park, Newcastle",1,2017/18,2018-03-31
+Watford,Bournemouth,2,2,draw,draw,"Vicarage Road, Watford",1,2017/18,2018-03-31
+West Brom,Burnley,1,2,Burnley,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2018-03-31
+West Ham,Southampton,3,0,West Ham,Southampton,"London Stadium, London",1,2017/18,2018-03-31
+Everton,Man City,1,3,Man City,Everton,"Goodison Park, Liverpool",1,2017/18,2018-03-31
+Bournemouth,West Brom,2,1,Bournemouth,West Brom,"Vitality Stadium, Bournemouth",1,2017/18,2018-03-17
+Huddersfield,Crystal Palace,0,2,Crystal Palace,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2018-03-17
+Stoke,Everton,1,2,Everton,Stoke,"bet365 Stadium, Stoke",1,2017/18,2018-03-17
+Liverpool,Watford,5,0,Liverpool,Watford,"Anfield, Liverpool",1,2017/18,2018-03-17
+Stoke,Man City,0,2,Man City,Stoke,"bet365 Stadium, Stoke",1,2017/18,2018-03-12
+Arsenal,Watford,3,0,Arsenal,Watford,"Emirates Stadium, London",1,2017/18,2018-03-11
+Bournemouth,Spurs,1,4,Spurs,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2018-03-11
+Man Utd,Liverpool,2,1,Man Utd,Liverpool,"Old Trafford, Manchester",1,2017/18,2018-03-10
+Everton,Brighton,2,0,Everton,Brighton,"Goodison Park, Liverpool",1,2017/18,2018-03-10
+Huddersfield,Swansea,0,0,draw,draw,"John Smith's Stadium, Huddersfield",1,2017/18,2018-03-10
+Newcastle,Southampton,3,0,Newcastle,Southampton,"St. James' Park, Newcastle",1,2017/18,2018-03-10
+West Brom,Leicester,1,4,Leicester,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2018-03-10
+West Ham,Burnley,0,3,Burnley,West Ham,"London Stadium, London",1,2017/18,2018-03-10
+Chelsea,Crystal Palace,2,1,Chelsea,Crystal Palace,"Stamford Bridge, London",1,2017/18,2018-03-10
+Crystal Palace,Man Utd,2,3,Man Utd,Crystal Palace,"Selhurst Park, London",1,2017/18,2018-03-05
+Brighton,Arsenal,2,1,Brighton,Arsenal,"Amex Stadium, Falmer",1,2017/18,2018-03-04
+Man City,Chelsea,1,0,Man City,Chelsea,"Etihad Stadium, Manchester",1,2017/18,2018-03-04
+Burnley,Everton,2,1,Burnley,Everton,"Turf Moor, Burnley",1,2017/18,2018-03-03
+Leicester,Bournemouth,1,1,draw,draw,"King Power Stadium, Leicester",1,2017/18,2018-03-03
+Southampton,Stoke,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2018-03-03
+Swansea,West Ham,4,1,Swansea,West Ham,"Liberty Stadium, Swansea",1,2017/18,2018-03-03
+Spurs,Huddersfield,2,0,Spurs,Huddersfield,"Wembley Stadium, London",1,2017/18,2018-03-03
+Watford,West Brom,1,0,Watford,West Brom,"Vicarage Road, Watford",1,2017/18,2018-03-03
+Liverpool,Newcastle,2,0,Liverpool,Newcastle,"Anfield, Liverpool",1,2017/18,2018-03-03
+Arsenal,Man City,0,3,Man City,Arsenal,"Emirates Stadium, London",1,2017/18,2018-03-01
+Crystal Palace,Spurs,0,1,Spurs,Crystal Palace,"Selhurst Park, London",1,2017/18,2018-02-25
+Man Utd,Chelsea,2,1,Man Utd,Chelsea,"Old Trafford, Manchester",1,2017/18,2018-02-25
+Leicester,Stoke,1,1,draw,draw,"King Power Stadium, Leicester",1,2017/18,2018-02-24
+Bournemouth,Newcastle,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2017/18,2018-02-24
+Brighton,Swansea,4,1,Brighton,Swansea,"Amex Stadium, Falmer",1,2017/18,2018-02-24
+Burnley,Southampton,1,1,draw,draw,"Turf Moor, Burnley",1,2017/18,2018-02-24
+Liverpool,West Ham,4,1,Liverpool,West Ham,"Anfield, Liverpool",1,2017/18,2018-02-24
+West Brom,Huddersfield,1,2,Huddersfield,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2018-02-24
+Watford,Everton,1,0,Watford,Everton,"Vicarage Road, Watford",1,2017/18,2018-02-24
+Chelsea,West Brom,3,0,Chelsea,West Brom,"Stamford Bridge, London",1,2017/18,2018-02-12
+Huddersfield,Bournemouth,4,1,Huddersfield,Bournemouth,"John Smith's Stadium, Huddersfield",1,2017/18,2018-02-11
+Newcastle,Man Utd,1,0,Newcastle,Man Utd,"St. James' Park, Newcastle",1,2017/18,2018-02-11
+Southampton,Liverpool,0,2,Liverpool,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2018-02-11
+Spurs,Arsenal,1,0,Spurs,Arsenal,"Wembley Stadium, London",1,2017/18,2018-02-10
+Everton,Crystal Palace,3,1,Everton,Crystal Palace,"Goodison Park, Liverpool",1,2017/18,2018-02-10
+Stoke,Brighton,1,1,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2018-02-10
+Swansea,Burnley,1,0,Swansea,Burnley,"Liberty Stadium, Swansea",1,2017/18,2018-02-10
+West Ham,Watford,2,0,West Ham,Watford,"London Stadium, London",1,2017/18,2018-02-10
+Man City,Leicester,5,1,Man City,Leicester,"Etihad Stadium, Manchester",1,2017/18,2018-02-10
+Watford,Chelsea,4,1,Watford,Chelsea,"Vicarage Road, Watford",1,2017/18,2018-02-05
+Crystal Palace,Newcastle,1,1,draw,draw,"Selhurst Park, London",1,2017/18,2018-02-04
+Liverpool,Spurs,2,2,draw,draw,"Anfield, Liverpool",1,2017/18,2018-02-04
+Burnley,Man City,1,1,draw,draw,"Turf Moor, Burnley",1,2017/18,2018-02-03
+Bournemouth,Stoke,2,1,Bournemouth,Stoke,"Vitality Stadium, Bournemouth",1,2017/18,2018-02-03
+Brighton,West Ham,3,1,Brighton,West Ham,"Amex Stadium, Falmer",1,2017/18,2018-02-03
+Leicester,Swansea,1,1,draw,draw,"King Power Stadium, Leicester",1,2017/18,2018-02-03
+Man Utd,Huddersfield,2,0,Man Utd,Huddersfield,"Old Trafford, Manchester",1,2017/18,2018-02-03
+West Brom,Southampton,2,3,Southampton,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2018-02-03
+Arsenal,Everton,5,1,Arsenal,Everton,"Emirates Stadium, London",1,2017/18,2018-02-03
+Chelsea,Bournemouth,0,3,Bournemouth,Chelsea,"Stamford Bridge, London",1,2017/18,2018-01-31
+Everton,Leicester,2,1,Everton,Leicester,"Goodison Park, Liverpool",1,2017/18,2018-01-31
+Newcastle,Burnley,1,1,draw,draw,"St. James' Park, Newcastle",1,2017/18,2018-01-31
+Southampton,Brighton,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2018-01-31
+Man City,West Brom,3,0,Man City,West Brom,"Etihad Stadium, Manchester",1,2017/18,2018-01-31
+Stoke,Watford,0,0,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2018-01-31
+Spurs,Man Utd,2,0,Spurs,Man Utd,"Wembley Stadium, London",1,2017/18,2018-01-31
+Swansea,Arsenal,3,1,Swansea,Arsenal,"Liberty Stadium, Swansea",1,2017/18,2018-01-30
+West Ham,Crystal Palace,1,1,draw,draw,"London Stadium, London",1,2017/18,2018-01-30
+Huddersfield,Liverpool,0,3,Liverpool,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2018-01-30
+Swansea,Liverpool,1,0,Swansea,Liverpool,"Liberty Stadium, Swansea",1,2017/18,2018-01-22
+Southampton,Spurs,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2018-01-21
+Brighton,Chelsea,0,4,Chelsea,Brighton,"Amex Stadium, Falmer",1,2017/18,2018-01-20
+Arsenal,Crystal Palace,4,1,Arsenal,Crystal Palace,"Emirates Stadium, London",1,2017/18,2018-01-20
+Burnley,Man Utd,0,1,Man Utd,Burnley,"Turf Moor, Burnley",1,2017/18,2018-01-20
+Everton,West Brom,1,1,draw,draw,"Goodison Park, Liverpool",1,2017/18,2018-01-20
+Leicester,Watford,2,0,Leicester,Watford,"King Power Stadium, Leicester",1,2017/18,2018-01-20
+Stoke,Huddersfield,2,0,Stoke,Huddersfield,"bet365 Stadium, Stoke",1,2017/18,2018-01-20
+West Ham,Bournemouth,1,1,draw,draw,"London Stadium, London",1,2017/18,2018-01-20
+Man City,Newcastle,3,1,Man City,Newcastle,"Etihad Stadium, Manchester",1,2017/18,2018-01-20
+Man Utd,Stoke,3,0,Man Utd,Stoke,"Old Trafford, Manchester",1,2017/18,2018-01-15
+Bournemouth,Arsenal,2,1,Bournemouth,Arsenal,"Vitality Stadium, Bournemouth",1,2017/18,2018-01-14
+Liverpool,Man City,4,3,Liverpool,Man City,"Anfield, Liverpool",1,2017/18,2018-01-14
+Chelsea,Leicester,0,0,draw,draw,"Stamford Bridge, London",1,2017/18,2018-01-13
+Crystal Palace,Burnley,1,0,Crystal Palace,Burnley,"Selhurst Park, London",1,2017/18,2018-01-13
+Huddersfield,West Ham,1,4,West Ham,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2018-01-13
+Newcastle,Swansea,1,1,draw,draw,"St. James' Park, Newcastle",1,2017/18,2018-01-13
+Watford,Southampton,2,2,draw,draw,"Vicarage Road, Watford",1,2017/18,2018-01-13
+West Brom,Brighton,2,0,West Brom,Brighton,"The Hawthorns, West Bromwich",1,2017/18,2018-01-13
+Spurs,Everton,4,0,Spurs,Everton,"Wembley Stadium, London",1,2017/18,2018-01-13
+Spurs,West Ham,1,1,draw,draw,"Wembley Stadium, London",1,2017/18,2018-01-04
+Arsenal,Chelsea,2,2,draw,draw,"Emirates Stadium, London",1,2017/18,2018-01-03
+Southampton,Crystal Palace,1,2,Crystal Palace,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2018-01-02
+Swansea,Spurs,0,2,Spurs,Swansea,"Liberty Stadium, Swansea",1,2017/18,2018-01-02
+West Ham,West Brom,2,1,West Ham,West Brom,"London Stadium, London",1,2017/18,2018-01-02
+Man City,Watford,3,1,Man City,Watford,"Etihad Stadium, Manchester",1,2017/18,2018-01-02
+Brighton,Bournemouth,2,2,draw,draw,"Amex Stadium, Falmer",1,2017/18,2018-01-01
+Burnley,Liverpool,1,2,Liverpool,Burnley,"Turf Moor, Burnley",1,2017/18,2018-01-01
+Leicester,Huddersfield,3,0,Leicester,Huddersfield,"King Power Stadium, Leicester",1,2017/18,2018-01-01
+Stoke,Newcastle,0,1,Newcastle,Stoke,"bet365 Stadium, Stoke",1,2017/18,2018-01-01
+Everton,Man Utd,0,2,Man Utd,Everton,"Goodison Park, Liverpool",1,2017/18,2018-01-01
+Crystal Palace,Man City,0,0,draw,draw,"Selhurst Park, London",1,2017/18,2017-12-31
+West Brom,Arsenal,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-12-31
+Bournemouth,Everton,2,1,Bournemouth,Everton,"Vitality Stadium, Bournemouth",1,2017/18,2017-12-30
+Chelsea,Stoke,5,0,Chelsea,Stoke,"Stamford Bridge, London",1,2017/18,2017-12-30
+Huddersfield,Burnley,0,0,draw,draw,"John Smith's Stadium, Huddersfield",1,2017/18,2017-12-30
+Liverpool,Leicester,2,1,Liverpool,Leicester,"Anfield, Liverpool",1,2017/18,2017-12-30
+Newcastle,Brighton,0,0,draw,draw,"St. James' Park, Newcastle",1,2017/18,2017-12-30
+Watford,Swansea,1,2,Swansea,Watford,"Vicarage Road, Watford",1,2017/18,2017-12-30
+Man Utd,Southampton,0,0,draw,draw,"Old Trafford, Manchester",1,2017/18,2017-12-30
+Crystal Palace,Arsenal,2,3,Arsenal,Crystal Palace,"Selhurst Park, London",1,2017/18,2017-12-28
+Newcastle,Man City,0,1,Man City,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-12-27
+Spurs,Southampton,5,2,Spurs,Southampton,"Wembley Stadium, London",1,2017/18,2017-12-26
+Bournemouth,West Ham,3,3,draw,draw,"Vitality Stadium, Bournemouth",1,2017/18,2017-12-26
+Chelsea,Brighton,2,0,Chelsea,Brighton,"Stamford Bridge, London",1,2017/18,2017-12-26
+Huddersfield,Stoke,1,1,draw,draw,"John Smith's Stadium, Huddersfield",1,2017/18,2017-12-26
+Man Utd,Burnley,2,2,draw,draw,"Old Trafford, Manchester",1,2017/18,2017-12-26
+Watford,Leicester,2,1,Watford,Leicester,"Vicarage Road, Watford",1,2017/18,2017-12-26
+West Brom,Everton,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-12-26
+Liverpool,Swansea,5,0,Liverpool,Swansea,"Anfield, Liverpool",1,2017/18,2017-12-26
+Everton,Chelsea,0,0,draw,draw,"Goodison Park, Liverpool",1,2017/18,2017-12-23
+Brighton,Watford,1,0,Brighton,Watford,"Amex Stadium, Falmer",1,2017/18,2017-12-23
+Man City,Bournemouth,4,0,Man City,Bournemouth,"Etihad Stadium, Manchester",1,2017/18,2017-12-23
+Southampton,Huddersfield,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2017-12-23
+Stoke,West Brom,3,1,Stoke,West Brom,"bet365 Stadium, Stoke",1,2017/18,2017-12-23
+Swansea,Crystal Palace,1,1,draw,draw,"Liberty Stadium, Swansea",1,2017/18,2017-12-23
+West Ham,Newcastle,2,3,Newcastle,West Ham,"London Stadium, London",1,2017/18,2017-12-23
+Burnley,Spurs,0,3,Spurs,Burnley,"Turf Moor, Burnley",1,2017/18,2017-12-23
+Leicester,Man Utd,2,2,draw,draw,"King Power Stadium, Leicester",1,2017/18,2017-12-23
+Arsenal,Liverpool,3,3,draw,draw,"Emirates Stadium, London",1,2017/18,2017-12-22
+Everton,Swansea,3,1,Everton,Swansea,"Goodison Park, Liverpool",1,2017/18,2017-12-18
+West Brom,Man Utd,1,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2017-12-17
+Bournemouth,Liverpool,0,4,Liverpool,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2017-12-17
+Leicester,Crystal Palace,0,3,Crystal Palace,Leicester,"King Power Stadium, Leicester",1,2017/18,2017-12-16
+Arsenal,Newcastle,1,0,Arsenal,Newcastle,"Emirates Stadium, London",1,2017/18,2017-12-16
+Brighton,Burnley,0,0,draw,draw,"Amex Stadium, Falmer",1,2017/18,2017-12-16
+Chelsea,Southampton,1,0,Chelsea,Southampton,"Stamford Bridge, London",1,2017/18,2017-12-16
+Watford,Huddersfield,1,4,Huddersfield,Watford,"Vicarage Road, Watford",1,2017/18,2017-12-16
+Stoke,West Ham,0,3,West Ham,Stoke,"bet365 Stadium, Stoke",1,2017/18,2017-12-16
+Man City,Spurs,4,1,Man City,Spurs,"Etihad Stadium, Manchester",1,2017/18,2017-12-16
+Newcastle,Everton,0,1,Everton,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-12-13
+Southampton,Leicester,1,4,Leicester,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2017-12-13
+Swansea,Man City,0,4,Man City,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-12-13
+Liverpool,West Brom,0,0,draw,draw,"Anfield, Liverpool",1,2017/18,2017-12-13
+Man Utd,Bournemouth,1,0,Man Utd,Bournemouth,"Old Trafford, Manchester",1,2017/18,2017-12-13
+Spurs,Brighton,2,0,Spurs,Brighton,"Wembley Stadium, London",1,2017/18,2017-12-13
+West Ham,Arsenal,0,0,draw,draw,"London Stadium, London",1,2017/18,2017-12-13
+Burnley,Stoke,1,0,Burnley,Stoke,"Turf Moor, Burnley",1,2017/18,2017-12-12
+Crystal Palace,Watford,2,1,Crystal Palace,Watford,"Selhurst Park, London",1,2017/18,2017-12-12
+Huddersfield,Chelsea,1,3,Chelsea,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2017-12-12
+Southampton,Arsenal,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2017-12-10
+Liverpool,Everton,1,1,draw,draw,"Anfield, Liverpool",1,2017/18,2017-12-10
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2017/18,2017-12-10
+West Ham,Chelsea,1,0,West Ham,Chelsea,"London Stadium, London",1,2017/18,2017-12-09
+Burnley,Watford,1,0,Burnley,Watford,"Turf Moor, Burnley",1,2017/18,2017-12-09
+Crystal Palace,Bournemouth,2,2,draw,draw,"Selhurst Park, London",1,2017/18,2017-12-09
+Huddersfield,Brighton,2,0,Huddersfield,Brighton,"John Smith's Stadium, Huddersfield",1,2017/18,2017-12-09
+Swansea,West Brom,1,0,Swansea,West Brom,"Liberty Stadium, Swansea",1,2017/18,2017-12-09
+Spurs,Stoke,5,1,Spurs,Stoke,"Wembley Stadium, London",1,2017/18,2017-12-09
+Newcastle,Leicester,2,3,Leicester,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-12-09
+Bournemouth,Southampton,1,1,draw,draw,"Vitality Stadium, Bournemouth",1,2017/18,2017-12-03
+Man City,West Ham,2,1,Man City,West Ham,"Etihad Stadium, Manchester",1,2017/18,2017-12-03
+Chelsea,Newcastle,3,1,Chelsea,Newcastle,"Stamford Bridge, London",1,2017/18,2017-12-02
+Brighton,Liverpool,1,5,Liverpool,Brighton,"Amex Stadium, Falmer",1,2017/18,2017-12-02
+Everton,Huddersfield,2,0,Everton,Huddersfield,"Goodison Park, Liverpool",1,2017/18,2017-12-02
+Leicester,Burnley,1,0,Leicester,Burnley,"King Power Stadium, Leicester",1,2017/18,2017-12-02
+Stoke,Swansea,2,1,Stoke,Swansea,"bet365 Stadium, Stoke",1,2017/18,2017-12-02
+Watford,Spurs,1,1,draw,draw,"Vicarage Road, Watford",1,2017/18,2017-12-02
+West Brom,Crystal Palace,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-12-02
+Arsenal,Man Utd,1,3,Man Utd,Arsenal,"Emirates Stadium, London",1,2017/18,2017-12-02
+Arsenal,Huddersfield,5,0,Arsenal,Huddersfield,"Emirates Stadium, London",1,2017/18,2017-11-29
+Bournemouth,Burnley,1,2,Burnley,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2017-11-29
+Chelsea,Swansea,1,0,Chelsea,Swansea,"Stamford Bridge, London",1,2017/18,2017-11-29
+Everton,West Ham,4,0,Everton,West Ham,"Goodison Park, Liverpool",1,2017/18,2017-11-29
+Man City,Southampton,2,1,Man City,Southampton,"Etihad Stadium, Manchester",1,2017/18,2017-11-29
+Stoke,Liverpool,0,3,Liverpool,Stoke,"bet365 Stadium, Stoke",1,2017/18,2017-11-29
+Brighton,Crystal Palace,0,0,draw,draw,"Amex Stadium, Falmer",1,2017/18,2017-11-28
+Leicester,Spurs,2,1,Leicester,Spurs,"King Power Stadium, Leicester",1,2017/18,2017-11-28
+Watford,Man Utd,2,4,Man Utd,Watford,"Vicarage Road, Watford",1,2017/18,2017-11-28
+West Brom,Newcastle,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-11-28
+Southampton,Everton,4,1,Southampton,Everton,"St. Mary's Stadium, Southampton",1,2017/18,2017-11-26
+Burnley,Arsenal,0,1,Arsenal,Burnley,"Turf Moor, Burnley",1,2017/18,2017-11-26
+Huddersfield,Man City,1,2,Man City,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2017-11-26
+Crystal Palace,Stoke,2,1,Crystal Palace,Stoke,"Selhurst Park, London",1,2017/18,2017-11-25
+Man Utd,Brighton,1,0,Man Utd,Brighton,"Old Trafford, Manchester",1,2017/18,2017-11-25
+Newcastle,Watford,0,3,Watford,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-11-25
+Swansea,Bournemouth,0,0,draw,draw,"Liberty Stadium, Swansea",1,2017/18,2017-11-25
+Spurs,West Brom,1,1,draw,draw,"Wembley Stadium, London",1,2017/18,2017-11-25
+Liverpool,Chelsea,1,1,draw,draw,"Anfield, Liverpool",1,2017/18,2017-11-25
+West Ham,Leicester,1,1,draw,draw,"London Stadium, London",1,2017/18,2017-11-24
+Brighton,Stoke,2,2,draw,draw,"Amex Stadium, Falmer",1,2017/18,2017-11-20
+Watford,West Ham,2,0,Watford,West Ham,"Vicarage Road, Watford",1,2017/18,2017-11-19
+Arsenal,Spurs,2,0,Arsenal,Spurs,"Emirates Stadium, London",1,2017/18,2017-11-18
+Bournemouth,Huddersfield,4,0,Bournemouth,Huddersfield,"Vitality Stadium, Bournemouth",1,2017/18,2017-11-18
+Burnley,Swansea,2,0,Burnley,Swansea,"Turf Moor, Burnley",1,2017/18,2017-11-18
+Crystal Palace,Everton,2,2,draw,draw,"Selhurst Park, London",1,2017/18,2017-11-18
+Leicester,Man City,0,2,Man City,Leicester,"King Power Stadium, Leicester",1,2017/18,2017-11-18
+Liverpool,Southampton,3,0,Liverpool,Southampton,"Anfield, Liverpool",1,2017/18,2017-11-18
+West Brom,Chelsea,0,4,Chelsea,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2017-11-18
+Man Utd,Newcastle,4,1,Man Utd,Newcastle,"Old Trafford, Manchester",1,2017/18,2017-11-18
+Spurs,Crystal Palace,1,0,Spurs,Crystal Palace,"Wembley Stadium, London",1,2017/18,2017-11-05
+Man City,Arsenal,3,1,Man City,Arsenal,"Etihad Stadium, Manchester",1,2017/18,2017-11-05
+Chelsea,Man Utd,1,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2017/18,2017-11-05
+Everton,Watford,3,2,Everton,Watford,"Goodison Park, Liverpool",1,2017/18,2017-11-05
+Stoke,Leicester,2,2,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2017-11-04
+Huddersfield,West Brom,1,0,Huddersfield,West Brom,"John Smith's Stadium, Huddersfield",1,2017/18,2017-11-04
+Newcastle,Bournemouth,0,1,Bournemouth,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-11-04
+Southampton,Burnley,0,1,Burnley,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2017-11-04
+Swansea,Brighton,0,1,Brighton,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-11-04
+West Ham,Liverpool,1,4,Liverpool,West Ham,"London Stadium, London",1,2017/18,2017-11-04
+Burnley,Newcastle,1,0,Burnley,Newcastle,"Turf Moor, Burnley",1,2017/18,2017-10-30
+Brighton,Southampton,1,1,draw,draw,"Amex Stadium, Falmer",1,2017/18,2017-10-29
+Leicester,Everton,2,0,Leicester,Everton,"King Power Stadium, Leicester",1,2017/18,2017-10-29
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2017/18,2017-10-28
+Arsenal,Swansea,2,1,Arsenal,Swansea,"Emirates Stadium, London",1,2017/18,2017-10-28
+Crystal Palace,West Ham,2,2,draw,draw,"Selhurst Park, London",1,2017/18,2017-10-28
+Liverpool,Huddersfield,3,0,Liverpool,Huddersfield,"Anfield, Liverpool",1,2017/18,2017-10-28
+Watford,Stoke,0,1,Stoke,Watford,"Vicarage Road, Watford",1,2017/18,2017-10-28
+West Brom,Man City,2,3,Man City,West Brom,"The Hawthorns, West Bromwich",1,2017/18,2017-10-28
+Bournemouth,Chelsea,0,1,Chelsea,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2017-10-28
+Everton,Arsenal,2,5,Arsenal,Everton,"Goodison Park, Liverpool",1,2017/18,2017-10-22
+Spurs,Liverpool,4,1,Spurs,Liverpool,"Wembley Stadium, London",1,2017/18,2017-10-22
+Chelsea,Watford,4,2,Chelsea,Watford,"Stamford Bridge, London",1,2017/18,2017-10-21
+Huddersfield,Man Utd,2,1,Huddersfield,Man Utd,"John Smith's Stadium, Huddersfield",1,2017/18,2017-10-21
+Man City,Burnley,3,0,Man City,Burnley,"Etihad Stadium, Manchester",1,2017/18,2017-10-21
+Newcastle,Crystal Palace,1,0,Newcastle,Crystal Palace,"St. James' Park, Newcastle",1,2017/18,2017-10-21
+Stoke,Bournemouth,1,2,Bournemouth,Stoke,"bet365 Stadium, Stoke",1,2017/18,2017-10-21
+Swansea,Leicester,1,2,Leicester,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-10-21
+Southampton,West Brom,1,0,Southampton,West Brom,"St. Mary's Stadium, Southampton",1,2017/18,2017-10-21
+West Ham,Brighton,0,3,Brighton,West Ham,"London Stadium, London",1,2017/18,2017-10-20
+Leicester,West Brom,1,1,draw,draw,"King Power Stadium, Leicester",1,2017/18,2017-10-16
+Brighton,Everton,1,1,draw,draw,"Amex Stadium, Falmer",1,2017/18,2017-10-15
+Southampton,Newcastle,2,2,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2017-10-15
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2017/18,2017-10-14
+Burnley,West Ham,1,1,draw,draw,"Turf Moor, Burnley",1,2017/18,2017-10-14
+Crystal Palace,Chelsea,2,1,Crystal Palace,Chelsea,"Selhurst Park, London",1,2017/18,2017-10-14
+Man City,Stoke,7,2,Man City,Stoke,"Etihad Stadium, Manchester",1,2017/18,2017-10-14
+Swansea,Huddersfield,2,0,Swansea,Huddersfield,"Liberty Stadium, Swansea",1,2017/18,2017-10-14
+Spurs,Bournemouth,1,0,Spurs,Bournemouth,"Wembley Stadium, London",1,2017/18,2017-10-14
+Watford,Arsenal,2,1,Watford,Arsenal,"Vicarage Road, Watford",1,2017/18,2017-10-14
+Arsenal,Brighton,2,0,Arsenal,Brighton,"Emirates Stadium, London",1,2017/18,2017-10-01
+Everton,Burnley,0,1,Burnley,Everton,"Goodison Park, Liverpool",1,2017/18,2017-10-01
+Newcastle,Liverpool,1,1,draw,draw,"St. James' Park, Newcastle",1,2017/18,2017-10-01
+Huddersfield,Spurs,0,4,Spurs,Huddersfield,"John Smith's Stadium, Huddersfield",1,2017/18,2017-09-30
+Bournemouth,Leicester,0,0,draw,draw,"Vitality Stadium, Bournemouth",1,2017/18,2017-09-30
+Man Utd,Crystal Palace,4,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2017/18,2017-09-30
+Stoke,Southampton,2,1,Stoke,Southampton,"bet365 Stadium, Stoke",1,2017/18,2017-09-30
+West Brom,Watford,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-09-30
+West Ham,Swansea,1,0,West Ham,Swansea,"London Stadium, London",1,2017/18,2017-09-30
+Chelsea,Man City,0,1,Man City,Chelsea,"Stamford Bridge, London",1,2017/18,2017-09-30
+Arsenal,West Brom,2,0,Arsenal,West Brom,"Emirates Stadium, London",1,2017/18,2017-09-25
+Brighton,Newcastle,1,0,Brighton,Newcastle,"Amex Stadium, Falmer",1,2017/18,2017-09-24
+West Ham,Spurs,2,3,Spurs,West Ham,"London Stadium, London",1,2017/18,2017-09-23
+Burnley,Huddersfield,0,0,draw,draw,"Turf Moor, Burnley",1,2017/18,2017-09-23
+Everton,Bournemouth,2,1,Everton,Bournemouth,"Goodison Park, Liverpool",1,2017/18,2017-09-23
+Man City,Crystal Palace,5,0,Man City,Crystal Palace,"Etihad Stadium, Manchester",1,2017/18,2017-09-23
+Southampton,Man Utd,0,1,Man Utd,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2017-09-23
+Stoke,Chelsea,0,4,Chelsea,Stoke,"bet365 Stadium, Stoke",1,2017/18,2017-09-23
+Swansea,Watford,1,2,Watford,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-09-23
+Leicester,Liverpool,2,3,Liverpool,Leicester,"King Power Stadium, Leicester",1,2017/18,2017-09-23
+Chelsea,Arsenal,0,0,draw,draw,"Stamford Bridge, London",1,2017/18,2017-09-17
+Man Utd,Everton,4,0,Man Utd,Everton,"Old Trafford, Manchester",1,2017/18,2017-09-17
+Crystal Palace,Southampton,0,1,Southampton,Crystal Palace,"Selhurst Park, London",1,2017/18,2017-09-16
+Huddersfield,Leicester,1,1,draw,draw,"John Smith's Stadium, Huddersfield",1,2017/18,2017-09-16
+Liverpool,Burnley,1,1,draw,draw,"Anfield, Liverpool",1,2017/18,2017-09-16
+Newcastle,Stoke,2,1,Newcastle,Stoke,"St. James' Park, Newcastle",1,2017/18,2017-09-16
+Watford,Man City,0,6,Man City,Watford,"Vicarage Road, Watford",1,2017/18,2017-09-16
+West Brom,West Ham,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-09-16
+Spurs,Swansea,0,0,draw,draw,"Wembley Stadium, London",1,2017/18,2017-09-16
+Bournemouth,Brighton,2,1,Bournemouth,Brighton,"Vitality Stadium, Bournemouth",1,2017/18,2017-09-15
+West Ham,Huddersfield,2,0,West Ham,Huddersfield,"London Stadium, London",1,2017/18,2017-09-11
+Burnley,Crystal Palace,1,0,Burnley,Crystal Palace,"Turf Moor, Burnley",1,2017/18,2017-09-10
+Swansea,Newcastle,0,1,Newcastle,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-09-10
+Man City,Liverpool,5,0,Man City,Liverpool,"Etihad Stadium, Manchester",1,2017/18,2017-09-09
+Arsenal,Bournemouth,3,0,Arsenal,Bournemouth,"Emirates Stadium, London",1,2017/18,2017-09-09
+Brighton,West Brom,3,1,Brighton,West Brom,"Amex Stadium, Falmer",1,2017/18,2017-09-09
+Everton,Spurs,0,3,Spurs,Everton,"Goodison Park, Liverpool",1,2017/18,2017-09-09
+Leicester,Chelsea,1,2,Chelsea,Leicester,"King Power Stadium, Leicester",1,2017/18,2017-09-09
+Southampton,Watford,0,2,Watford,Southampton,"St. Mary's Stadium, Southampton",1,2017/18,2017-09-09
+Stoke,Man Utd,2,2,draw,draw,"bet365 Stadium, Stoke",1,2017/18,2017-09-09
+Chelsea,Everton,2,0,Chelsea,Everton,"Stamford Bridge, London",1,2017/18,2017-08-27
+West Brom,Stoke,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2017/18,2017-08-27
+Liverpool,Arsenal,4,0,Liverpool,Arsenal,"Anfield, Liverpool",1,2017/18,2017-08-27
+Spurs,Burnley,1,1,draw,draw,"Wembley Stadium, London",1,2017/18,2017-08-27
+Bournemouth,Man City,1,2,Man City,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2017-08-26
+Crystal Palace,Swansea,0,2,Swansea,Crystal Palace,"Selhurst Park, London",1,2017/18,2017-08-26
+Huddersfield,Southampton,0,0,draw,draw,"John Smith's Stadium, Huddersfield",1,2017/18,2017-08-26
+Newcastle,West Ham,3,0,Newcastle,West Ham,"St. James' Park, Newcastle",1,2017/18,2017-08-26
+Watford,Brighton,0,0,draw,draw,"Vicarage Road, Watford",1,2017/18,2017-08-26
+Man Utd,Leicester,2,0,Man Utd,Leicester,"Old Trafford, Manchester",1,2017/18,2017-08-26
+Man City,Everton,1,1,draw,draw,"Etihad Stadium, Manchester",1,2017/18,2017-08-21
+Huddersfield,Newcastle,1,0,Huddersfield,Newcastle,"John Smith's Stadium, Huddersfield",1,2017/18,2017-08-20
+Spurs,Chelsea,1,2,Chelsea,Spurs,"Wembley Stadium, London",1,2017/18,2017-08-20
+Swansea,Man Utd,0,4,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2017/18,2017-08-19
+Bournemouth,Watford,0,2,Watford,Bournemouth,"Vitality Stadium, Bournemouth",1,2017/18,2017-08-19
+Burnley,West Brom,0,1,West Brom,Burnley,"Turf Moor, Burnley",1,2017/18,2017-08-19
+Leicester,Brighton,2,0,Leicester,Brighton,"King Power Stadium, Leicester",1,2017/18,2017-08-19
+Liverpool,Crystal Palace,1,0,Liverpool,Crystal Palace,"Anfield, Liverpool",1,2017/18,2017-08-19
+Southampton,West Ham,3,2,Southampton,West Ham,"St. Mary's Stadium, Southampton",1,2017/18,2017-08-19
+Stoke,Arsenal,1,0,Stoke,Arsenal,"bet365 Stadium, Stoke",1,2017/18,2017-08-19
+Newcastle,Spurs,0,2,Spurs,Newcastle,"St. James' Park, Newcastle",1,2017/18,2017-08-13
+Man Utd,West Ham,4,0,Man Utd,West Ham,"Old Trafford, Manchester",1,2017/18,2017-08-13
+Watford,Liverpool,3,3,draw,draw,"Vicarage Road, Watford",1,2017/18,2017-08-12
+Chelsea,Burnley,2,3,Burnley,Chelsea,"Stamford Bridge, London",1,2017/18,2017-08-12
+Crystal Palace,Huddersfield,0,3,Huddersfield,Crystal Palace,"Selhurst Park, London",1,2017/18,2017-08-12
+Everton,Stoke,1,0,Everton,Stoke,"Goodison Park, Liverpool",1,2017/18,2017-08-12
+Southampton,Swansea,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2017/18,2017-08-12
+West Brom,Bournemouth,1,0,West Brom,Bournemouth,"The Hawthorns, West Bromwich",1,2017/18,2017-08-12
+Brighton,Man City,0,2,Man City,Brighton,"Amex Stadium, Falmer",1,2017/18,2017-08-12
+Arsenal,Leicester,4,3,Arsenal,Leicester,"Emirates Stadium, London",1,2017/18,2017-08-11
+Arsenal,Everton,3,1,Arsenal,Everton,"Emirates Stadium, London",1,2016/17,2017-05-21
+Burnley,West Ham,1,2,West Ham,Burnley,"Turf Moor, Burnley",1,2016/17,2017-05-21
+Chelsea,Sunderland,5,1,Chelsea,Sunderland,"Stamford Bridge, London",1,2016/17,2017-05-21
+Hull,Spurs,1,7,Spurs,Hull,"MKM Stadium, Hull",1,2016/17,2017-05-21
+Leicester,Bournemouth,1,1,draw,draw,"King Power Stadium, Leicester",1,2016/17,2017-05-21
+Liverpool,Middlesbrough,3,0,Liverpool,Middlesbrough,"Anfield, Liverpool",1,2016/17,2017-05-21
+Man Utd,Crystal Palace,2,0,Man Utd,Crystal Palace,"Old Trafford, Manchester",1,2016/17,2017-05-21
+Southampton,Stoke,0,1,Stoke,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2017-05-21
+Swansea,West Brom,2,1,Swansea,West Brom,"Liberty Stadium, Swansea",1,2016/17,2017-05-21
+Watford,Man City,0,5,Man City,Watford,"Vicarage Road, Watford",1,2016/17,2017-05-21
+Leicester,Spurs,1,6,Spurs,Leicester,"King Power Stadium, Leicester",1,2016/17,2017-05-18
+Southampton,Man Utd,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2017-05-17
+Arsenal,Sunderland,2,0,Arsenal,Sunderland,"Emirates Stadium, London",1,2016/17,2017-05-16
+Man City,West Brom,3,1,Man City,West Brom,"Etihad Stadium, Manchester",1,2016/17,2017-05-16
+Chelsea,Watford,4,3,Chelsea,Watford,"Stamford Bridge, London",1,2016/17,2017-05-15
+Crystal Palace,Hull,4,0,Crystal Palace,Hull,"Selhurst Park, London",1,2016/17,2017-05-14
+West Ham,Liverpool,0,4,Liverpool,West Ham,"London Stadium, London",1,2016/17,2017-05-14
+Spurs,Man Utd,2,1,Spurs,Man Utd,"White Hart Lane, London",1,2016/17,2017-05-14
+Bournemouth,Burnley,2,1,Bournemouth,Burnley,"Vitality Stadium, Bournemouth",1,2016/17,2017-05-13
+Stoke,Arsenal,1,4,Arsenal,Stoke,"bet365 Stadium, Stoke",1,2016/17,2017-05-13
+Man City,Leicester,2,1,Man City,Leicester,"Etihad Stadium, Manchester",1,2016/17,2017-05-13
+Middlesbrough,Southampton,1,2,Southampton,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2017-05-13
+Sunderland,Swansea,0,2,Swansea,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-05-13
+Everton,Watford,1,0,Everton,Watford,"Goodison Park, Liverpool",1,2016/17,2017-05-12
+West Brom,Chelsea,0,1,Chelsea,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2017-05-12
+Southampton,Arsenal,0,2,Arsenal,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2017-05-10
+Chelsea,Middlesbrough,3,0,Chelsea,Middlesbrough,"Stamford Bridge, London",1,2016/17,2017-05-08
+Liverpool,Southampton,0,0,draw,draw,"Anfield, Liverpool",1,2016/17,2017-05-07
+Arsenal,Man Utd,2,0,Arsenal,Man Utd,"Emirates Stadium, London",1,2016/17,2017-05-07
+Man City,Crystal Palace,5,0,Man City,Crystal Palace,"Etihad Stadium, Manchester",1,2016/17,2017-05-06
+Bournemouth,Stoke,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2016/17,2017-05-06
+Burnley,West Brom,2,2,draw,draw,"Turf Moor, Burnley",1,2016/17,2017-05-06
+Hull,Sunderland,0,2,Sunderland,Hull,"MKM Stadium, Hull",1,2016/17,2017-05-06
+Leicester,Watford,3,0,Leicester,Watford,"King Power Stadium, Leicester",1,2016/17,2017-05-06
+Swansea,Everton,1,0,Swansea,Everton,"Liberty Stadium, Swansea",1,2016/17,2017-05-06
+West Ham,Spurs,1,0,West Ham,Spurs,"London Stadium, London",1,2016/17,2017-05-05
+Watford,Liverpool,0,1,Liverpool,Watford,"Vicarage Road, Watford",1,2016/17,2017-05-01
+Everton,Chelsea,0,3,Chelsea,Everton,"Goodison Park, Liverpool",1,2016/17,2017-04-30
+Middlesbrough,Man City,2,2,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2017-04-30
+Spurs,Arsenal,2,0,Spurs,Arsenal,"White Hart Lane, London",1,2016/17,2017-04-30
+Man Utd,Swansea,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-30
+Southampton,Hull,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2017-04-29
+Stoke,West Ham,0,0,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2017-04-29
+Sunderland,Bournemouth,0,1,Bournemouth,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-04-29
+West Brom,Leicester,0,1,Leicester,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2017-04-29
+Crystal Palace,Burnley,0,2,Burnley,Crystal Palace,"Selhurst Park, London",1,2016/17,2017-04-29
+Man City,Man Utd,0,0,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2017-04-27
+Arsenal,Leicester,1,0,Arsenal,Leicester,"Emirates Stadium, London",1,2016/17,2017-04-26
+Middlesbrough,Sunderland,1,0,Middlesbrough,Sunderland,"Riverside Stadium, Middlesbrough",1,2016/17,2017-04-26
+Crystal Palace,Spurs,0,1,Spurs,Crystal Palace,"Selhurst Park, London",1,2016/17,2017-04-26
+Chelsea,Southampton,4,2,Chelsea,Southampton,"Stamford Bridge, London",1,2016/17,2017-04-25
+Burnley,Man Utd,0,2,Man Utd,Burnley,"Turf Moor, Burnley",1,2016/17,2017-04-23
+Liverpool,Crystal Palace,1,2,Crystal Palace,Liverpool,"Anfield, Liverpool",1,2016/17,2017-04-23
+Bournemouth,Middlesbrough,4,0,Bournemouth,Middlesbrough,"Vitality Stadium, Bournemouth",1,2016/17,2017-04-22
+Hull,Watford,2,0,Hull,Watford,"MKM Stadium, Hull",1,2016/17,2017-04-22
+Swansea,Stoke,2,0,Swansea,Stoke,"Liberty Stadium, Swansea",1,2016/17,2017-04-22
+West Ham,Everton,0,0,draw,draw,"London Stadium, London",1,2016/17,2017-04-22
+Middlesbrough,Arsenal,1,2,Arsenal,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2017-04-17
+West Brom,Liverpool,0,1,Liverpool,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2017-04-16
+Man Utd,Chelsea,2,0,Man Utd,Chelsea,"Old Trafford, Manchester",1,2016/17,2017-04-16
+Spurs,Bournemouth,4,0,Spurs,Bournemouth,"White Hart Lane, London",1,2016/17,2017-04-15
+Crystal Palace,Leicester,2,2,draw,draw,"Selhurst Park, London",1,2016/17,2017-04-15
+Everton,Burnley,3,1,Everton,Burnley,"Goodison Park, Liverpool",1,2016/17,2017-04-15
+Stoke,Hull,3,1,Stoke,Hull,"bet365 Stadium, Stoke",1,2016/17,2017-04-15
+Sunderland,West Ham,2,2,draw,draw,"Stadium of Light, Sunderland",1,2016/17,2017-04-15
+Watford,Swansea,1,0,Watford,Swansea,"Vicarage Road, Watford",1,2016/17,2017-04-15
+Southampton,Man City,0,3,Man City,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2017-04-15
+Crystal Palace,Arsenal,3,0,Crystal Palace,Arsenal,"Selhurst Park, London",1,2016/17,2017-04-10
+Sunderland,Man Utd,0,3,Man Utd,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-04-09
+Everton,Leicester,4,2,Everton,Leicester,"Goodison Park, Liverpool",1,2016/17,2017-04-09
+Spurs,Watford,4,0,Spurs,Watford,"White Hart Lane, London",1,2016/17,2017-04-08
+Man City,Hull,3,1,Man City,Hull,"Etihad Stadium, Manchester",1,2016/17,2017-04-08
+Middlesbrough,Burnley,0,0,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2017-04-08
+Stoke,Liverpool,1,2,Liverpool,Stoke,"bet365 Stadium, Stoke",1,2016/17,2017-04-08
+West Brom,Southampton,0,1,Southampton,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2017-04-08
+West Ham,Swansea,1,0,West Ham,Swansea,"London Stadium, London",1,2016/17,2017-04-08
+Bournemouth,Chelsea,1,3,Chelsea,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2017-04-08
+Arsenal,West Ham,3,0,Arsenal,West Ham,"Emirates Stadium, London",1,2016/17,2017-04-05
+Chelsea,Man City,2,1,Chelsea,Man City,"Stamford Bridge, London",1,2016/17,2017-04-05
+Liverpool,Bournemouth,2,2,draw,draw,"Anfield, Liverpool",1,2016/17,2017-04-05
+Hull,Middlesbrough,4,2,Hull,Middlesbrough,"MKM Stadium, Hull",1,2016/17,2017-04-05
+Southampton,Crystal Palace,3,1,Southampton,Crystal Palace,"St. Mary's Stadium, Southampton",1,2016/17,2017-04-05
+Swansea,Spurs,1,3,Spurs,Swansea,"Liberty Stadium, Swansea",1,2016/17,2017-04-05
+Burnley,Stoke,1,0,Burnley,Stoke,"Turf Moor, Burnley",1,2016/17,2017-04-04
+Leicester,Sunderland,2,0,Leicester,Sunderland,"King Power Stadium, Leicester",1,2016/17,2017-04-04
+Watford,West Brom,2,0,Watford,West Brom,"Vicarage Road, Watford",1,2016/17,2017-04-04
+Man Utd,Everton,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-04
+Swansea,Middlesbrough,0,0,draw,draw,"Liberty Stadium, Swansea",1,2016/17,2017-04-02
+Arsenal,Man City,2,2,draw,draw,"Emirates Stadium, London",1,2016/17,2017-04-02
+Liverpool,Everton,3,1,Liverpool,Everton,"Anfield, Liverpool",1,2016/17,2017-04-01
+Burnley,Spurs,0,2,Spurs,Burnley,"Turf Moor, Burnley",1,2016/17,2017-04-01
+Chelsea,Crystal Palace,1,2,Crystal Palace,Chelsea,"Stamford Bridge, London",1,2016/17,2017-04-01
+Hull,West Ham,2,1,Hull,West Ham,"MKM Stadium, Hull",1,2016/17,2017-04-01
+Leicester,Stoke,2,0,Leicester,Stoke,"King Power Stadium, Leicester",1,2016/17,2017-04-01
+Man Utd,West Brom,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-04-01
+Watford,Sunderland,1,0,Watford,Sunderland,"Vicarage Road, Watford",1,2016/17,2017-04-01
+Southampton,Bournemouth,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2017-04-01
+Middlesbrough,Man Utd,1,3,Man Utd,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2017-03-19
+Spurs,Southampton,2,1,Spurs,Southampton,"White Hart Lane, London",1,2016/17,2017-03-19
+Man City,Liverpool,1,1,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2017-03-19
+West Brom,Arsenal,3,1,West Brom,Arsenal,"The Hawthorns, West Bromwich",1,2016/17,2017-03-18
+Crystal Palace,Watford,1,0,Crystal Palace,Watford,"Selhurst Park, London",1,2016/17,2017-03-18
+Everton,Hull,4,0,Everton,Hull,"Goodison Park, Liverpool",1,2016/17,2017-03-18
+Stoke,Chelsea,1,2,Chelsea,Stoke,"bet365 Stadium, Stoke",1,2016/17,2017-03-18
+Sunderland,Burnley,0,0,draw,draw,"Stadium of Light, Sunderland",1,2016/17,2017-03-18
+West Ham,Leicester,2,3,Leicester,West Ham,"London Stadium, London",1,2016/17,2017-03-18
+Bournemouth,Swansea,2,0,Bournemouth,Swansea,"Vitality Stadium, Bournemouth",1,2016/17,2017-03-18
+Liverpool,Burnley,2,1,Liverpool,Burnley,"Anfield, Liverpool",1,2016/17,2017-03-12
+Bournemouth,West Ham,3,2,Bournemouth,West Ham,"Vitality Stadium, Bournemouth",1,2016/17,2017-03-11
+Everton,West Brom,3,0,Everton,West Brom,"Goodison Park, Liverpool",1,2016/17,2017-03-11
+Hull,Swansea,2,1,Hull,Swansea,"MKM Stadium, Hull",1,2016/17,2017-03-11
+Man City,Stoke,0,0,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2017-03-08
+West Ham,Chelsea,1,2,Chelsea,West Ham,"London Stadium, London",1,2016/17,2017-03-06
+Spurs,Everton,3,2,Spurs,Everton,"White Hart Lane, London",1,2016/17,2017-03-05
+Sunderland,Man City,0,2,Man City,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-03-05
+Leicester,Hull,3,1,Leicester,Hull,"King Power Stadium, Leicester",1,2016/17,2017-03-04
+Stoke,Middlesbrough,2,0,Stoke,Middlesbrough,"bet365 Stadium, Stoke",1,2016/17,2017-03-04
+Swansea,Burnley,3,2,Swansea,Burnley,"Liberty Stadium, Swansea",1,2016/17,2017-03-04
+Watford,Southampton,3,4,Southampton,Watford,"Vicarage Road, Watford",1,2016/17,2017-03-04
+Liverpool,Arsenal,3,1,Liverpool,Arsenal,"Anfield, Liverpool",1,2016/17,2017-03-04
+Man Utd,Bournemouth,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-03-04
+West Brom,Crystal Palace,0,2,Crystal Palace,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2017-03-04
+Leicester,Liverpool,3,1,Leicester,Liverpool,"King Power Stadium, Leicester",1,2016/17,2017-02-27
+Spurs,Stoke,4,0,Spurs,Stoke,"White Hart Lane, London",1,2016/17,2017-02-26
+Chelsea,Swansea,3,1,Chelsea,Swansea,"Stamford Bridge, London",1,2016/17,2017-02-25
+Crystal Palace,Middlesbrough,1,0,Crystal Palace,Middlesbrough,"Selhurst Park, London",1,2016/17,2017-02-25
+Everton,Sunderland,2,0,Everton,Sunderland,"Goodison Park, Liverpool",1,2016/17,2017-02-25
+Hull,Burnley,1,1,draw,draw,"MKM Stadium, Hull",1,2016/17,2017-02-25
+West Brom,Bournemouth,2,1,West Brom,Bournemouth,"The Hawthorns, West Bromwich",1,2016/17,2017-02-25
+Watford,West Ham,1,1,draw,draw,"Vicarage Road, Watford",1,2016/17,2017-02-25
+Bournemouth,Man City,0,2,Man City,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2017-02-13
+Burnley,Chelsea,1,1,draw,draw,"Turf Moor, Burnley",1,2016/17,2017-02-12
+Swansea,Leicester,2,0,Swansea,Leicester,"Liberty Stadium, Swansea",1,2016/17,2017-02-12
+Arsenal,Hull,2,0,Arsenal,Hull,"Emirates Stadium, London",1,2016/17,2017-02-11
+Man Utd,Watford,2,0,Man Utd,Watford,"Old Trafford, Manchester",1,2016/17,2017-02-11
+Middlesbrough,Everton,0,0,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2017-02-11
+Stoke,Crystal Palace,1,0,Stoke,Crystal Palace,"bet365 Stadium, Stoke",1,2016/17,2017-02-11
+Sunderland,Southampton,0,4,Southampton,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-02-11
+West Ham,West Brom,2,2,draw,draw,"London Stadium, London",1,2016/17,2017-02-11
+Liverpool,Spurs,2,0,Liverpool,Spurs,"Anfield, Liverpool",1,2016/17,2017-02-11
+Man City,Swansea,2,1,Man City,Swansea,"Etihad Stadium, Manchester",1,2016/17,2017-02-05
+Leicester,Man Utd,0,3,Man Utd,Leicester,"King Power Stadium, Leicester",1,2016/17,2017-02-05
+Chelsea,Arsenal,3,1,Chelsea,Arsenal,"Stamford Bridge, London",1,2016/17,2017-02-04
+Crystal Palace,Sunderland,0,4,Sunderland,Crystal Palace,"Selhurst Park, London",1,2016/17,2017-02-04
+Everton,Bournemouth,6,3,Everton,Bournemouth,"Goodison Park, Liverpool",1,2016/17,2017-02-04
+Hull,Liverpool,2,0,Hull,Liverpool,"MKM Stadium, Hull",1,2016/17,2017-02-04
+Southampton,West Ham,1,3,West Ham,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2017-02-04
+Watford,Burnley,2,1,Watford,Burnley,"Vicarage Road, Watford",1,2016/17,2017-02-04
+West Brom,Stoke,1,0,West Brom,Stoke,"The Hawthorns, West Bromwich",1,2016/17,2017-02-04
+Spurs,Middlesbrough,1,0,Spurs,Middlesbrough,"White Hart Lane, London",1,2016/17,2017-02-04
+West Ham,Man City,0,4,Man City,West Ham,"London Stadium, London",1,2016/17,2017-02-01
+Man Utd,Hull,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-02-01
+Stoke,Everton,1,1,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2017-02-01
+Arsenal,Watford,1,2,Watford,Arsenal,"Emirates Stadium, London",1,2016/17,2017-01-31
+Bournemouth,Crystal Palace,0,2,Crystal Palace,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2017-01-31
+Burnley,Leicester,1,0,Burnley,Leicester,"Turf Moor, Burnley",1,2016/17,2017-01-31
+Middlesbrough,West Brom,1,1,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2017-01-31
+Sunderland,Spurs,0,0,draw,draw,"Stadium of Light, Sunderland",1,2016/17,2017-01-31
+Swansea,Southampton,2,1,Swansea,Southampton,"Liberty Stadium, Swansea",1,2016/17,2017-01-31
+Liverpool,Chelsea,1,1,draw,draw,"Anfield, Liverpool",1,2016/17,2017-01-31
+Southampton,Leicester,3,0,Southampton,Leicester,"St. Mary's Stadium, Southampton",1,2016/17,2017-01-22
+Arsenal,Burnley,2,1,Arsenal,Burnley,"Emirates Stadium, London",1,2016/17,2017-01-22
+Chelsea,Hull,2,0,Chelsea,Hull,"Stamford Bridge, London",1,2016/17,2017-01-22
+Liverpool,Swansea,2,3,Swansea,Liverpool,"Anfield, Liverpool",1,2016/17,2017-01-21
+Bournemouth,Watford,2,2,draw,draw,"Vitality Stadium, Bournemouth",1,2016/17,2017-01-21
+Crystal Palace,Everton,0,1,Everton,Crystal Palace,"Selhurst Park, London",1,2016/17,2017-01-21
+Middlesbrough,West Ham,1,3,West Ham,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2017-01-21
+Stoke,Man Utd,1,1,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2017-01-21
+West Brom,Sunderland,2,0,West Brom,Sunderland,"The Hawthorns, West Bromwich",1,2016/17,2017-01-21
+Man City,Spurs,2,2,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2017-01-21
+Everton,Man City,4,0,Everton,Man City,"Goodison Park, Liverpool",1,2016/17,2017-01-15
+Man Utd,Liverpool,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2017-01-15
+Spurs,West Brom,4,0,Spurs,West Brom,"White Hart Lane, London",1,2016/17,2017-01-14
+Burnley,Southampton,1,0,Burnley,Southampton,"Turf Moor, Burnley",1,2016/17,2017-01-14
+Hull,Bournemouth,3,1,Hull,Bournemouth,"MKM Stadium, Hull",1,2016/17,2017-01-14
+Sunderland,Stoke,1,3,Stoke,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2017-01-14
+Swansea,Arsenal,0,4,Arsenal,Swansea,"Liberty Stadium, Swansea",1,2016/17,2017-01-14
+Watford,Middlesbrough,0,0,draw,draw,"Vicarage Road, Watford",1,2016/17,2017-01-14
+West Ham,Crystal Palace,3,0,West Ham,Crystal Palace,"London Stadium, London",1,2016/17,2017-01-14
+Leicester,Chelsea,0,3,Chelsea,Leicester,"King Power Stadium, Leicester",1,2016/17,2017-01-14
+Spurs,Chelsea,2,0,Spurs,Chelsea,"White Hart Lane, London",1,2016/17,2017-01-04
+Bournemouth,Arsenal,3,3,draw,draw,"Vitality Stadium, Bournemouth",1,2016/17,2017-01-03
+Crystal Palace,Swansea,1,2,Swansea,Crystal Palace,"Selhurst Park, London",1,2016/17,2017-01-03
+Stoke,Watford,2,0,Stoke,Watford,"bet365 Stadium, Stoke",1,2016/17,2017-01-03
+Middlesbrough,Leicester,0,0,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2017-01-02
+Everton,Southampton,3,0,Everton,Southampton,"Goodison Park, Liverpool",1,2016/17,2017-01-02
+Man City,Burnley,2,1,Man City,Burnley,"Etihad Stadium, Manchester",1,2016/17,2017-01-02
+Sunderland,Liverpool,2,2,draw,draw,"Stadium of Light, Sunderland",1,2016/17,2017-01-02
+West Brom,Hull,3,1,West Brom,Hull,"The Hawthorns, West Bromwich",1,2016/17,2017-01-02
+West Ham,Man Utd,0,2,Man Utd,West Ham,"London Stadium, London",1,2016/17,2017-01-02
+Watford,Spurs,1,4,Spurs,Watford,"Vicarage Road, Watford",1,2016/17,2017-01-01
+Arsenal,Crystal Palace,2,0,Arsenal,Crystal Palace,"Emirates Stadium, London",1,2016/17,2017-01-01
+Burnley,Sunderland,4,1,Burnley,Sunderland,"Turf Moor, Burnley",1,2016/17,2016-12-31
+Chelsea,Stoke,4,2,Chelsea,Stoke,"Stamford Bridge, London",1,2016/17,2016-12-31
+Leicester,West Ham,1,0,Leicester,West Ham,"King Power Stadium, Leicester",1,2016/17,2016-12-31
+Man Utd,Middlesbrough,2,1,Man Utd,Middlesbrough,"Old Trafford, Manchester",1,2016/17,2016-12-31
+Southampton,West Brom,1,2,West Brom,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2016-12-31
+Swansea,Bournemouth,0,3,Bournemouth,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-12-31
+Liverpool,Man City,1,0,Liverpool,Man City,"Anfield, Liverpool",1,2016/17,2016-12-31
+Hull,Everton,2,2,draw,draw,"MKM Stadium, Hull",1,2016/17,2016-12-30
+Southampton,Spurs,1,4,Spurs,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2016-12-28
+Liverpool,Stoke,4,1,Liverpool,Stoke,"Anfield, Liverpool",1,2016/17,2016-12-27
+Watford,Crystal Palace,1,1,draw,draw,"Vicarage Road, Watford",1,2016/17,2016-12-26
+Arsenal,West Brom,1,0,Arsenal,West Brom,"Emirates Stadium, London",1,2016/17,2016-12-26
+Burnley,Middlesbrough,1,0,Burnley,Middlesbrough,"Turf Moor, Burnley",1,2016/17,2016-12-26
+Chelsea,Bournemouth,3,0,Chelsea,Bournemouth,"Stamford Bridge, London",1,2016/17,2016-12-26
+Leicester,Everton,0,2,Everton,Leicester,"King Power Stadium, Leicester",1,2016/17,2016-12-26
+Man Utd,Sunderland,3,1,Man Utd,Sunderland,"Old Trafford, Manchester",1,2016/17,2016-12-26
+Swansea,West Ham,1,4,West Ham,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-12-26
+Hull,Man City,0,3,Man City,Hull,"MKM Stadium, Hull",1,2016/17,2016-12-26
+Everton,Liverpool,0,1,Liverpool,Everton,"Goodison Park, Liverpool",1,2016/17,2016-12-19
+Bournemouth,Southampton,1,3,Southampton,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2016-12-18
+Man City,Arsenal,2,1,Man City,Arsenal,"Etihad Stadium, Manchester",1,2016/17,2016-12-18
+Spurs,Burnley,2,1,Spurs,Burnley,"White Hart Lane, London",1,2016/17,2016-12-18
+Crystal Palace,Chelsea,0,1,Chelsea,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-12-17
+Middlesbrough,Swansea,3,0,Middlesbrough,Swansea,"Riverside Stadium, Middlesbrough",1,2016/17,2016-12-17
+Stoke,Leicester,2,2,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2016-12-17
+Sunderland,Watford,1,0,Sunderland,Watford,"Stadium of Light, Sunderland",1,2016/17,2016-12-17
+West Ham,Hull,1,0,West Ham,Hull,"London Stadium, London",1,2016/17,2016-12-17
+West Brom,Man Utd,0,2,Man Utd,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2016-12-17
+Middlesbrough,Liverpool,0,3,Liverpool,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2016-12-14
+Sunderland,Chelsea,0,1,Chelsea,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2016-12-14
+West Ham,Burnley,1,0,West Ham,Burnley,"London Stadium, London",1,2016/17,2016-12-14
+Crystal Palace,Man Utd,1,2,Man Utd,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-12-14
+Man City,Watford,2,0,Man City,Watford,"Etihad Stadium, Manchester",1,2016/17,2016-12-14
+Stoke,Southampton,0,0,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2016-12-14
+Spurs,Hull,3,0,Spurs,Hull,"White Hart Lane, London",1,2016/17,2016-12-14
+West Brom,Swansea,3,1,West Brom,Swansea,"The Hawthorns, West Bromwich",1,2016/17,2016-12-14
+Bournemouth,Leicester,1,0,Bournemouth,Leicester,"Vitality Stadium, Bournemouth",1,2016/17,2016-12-13
+Everton,Arsenal,2,1,Everton,Arsenal,"Goodison Park, Liverpool",1,2016/17,2016-12-13
+Chelsea,West Brom,1,0,Chelsea,West Brom,"Stamford Bridge, London",1,2016/17,2016-12-11
+Man Utd,Spurs,1,0,Man Utd,Spurs,"Old Trafford, Manchester",1,2016/17,2016-12-11
+Southampton,Middlesbrough,1,0,Southampton,Middlesbrough,"St. Mary's Stadium, Southampton",1,2016/17,2016-12-11
+Liverpool,West Ham,2,2,draw,draw,"Anfield, Liverpool",1,2016/17,2016-12-11
+Watford,Everton,3,2,Watford,Everton,"Vicarage Road, Watford",1,2016/17,2016-12-10
+Arsenal,Stoke,3,1,Arsenal,Stoke,"Emirates Stadium, London",1,2016/17,2016-12-10
+Burnley,Bournemouth,3,2,Burnley,Bournemouth,"Turf Moor, Burnley",1,2016/17,2016-12-10
+Hull,Crystal Palace,3,3,draw,draw,"MKM Stadium, Hull",1,2016/17,2016-12-10
+Swansea,Sunderland,3,0,Swansea,Sunderland,"Liberty Stadium, Swansea",1,2016/17,2016-12-10
+Leicester,Man City,4,2,Leicester,Man City,"King Power Stadium, Leicester",1,2016/17,2016-12-10
+Middlesbrough,Hull,1,0,Middlesbrough,Hull,"Riverside Stadium, Middlesbrough",1,2016/17,2016-12-05
+Bournemouth,Liverpool,4,3,Bournemouth,Liverpool,"Vitality Stadium, Bournemouth",1,2016/17,2016-12-04
+Everton,Man Utd,1,1,draw,draw,"Goodison Park, Liverpool",1,2016/17,2016-12-04
+Man City,Chelsea,1,3,Chelsea,Man City,"Etihad Stadium, Manchester",1,2016/17,2016-12-03
+Crystal Palace,Southampton,3,0,Crystal Palace,Southampton,"Selhurst Park, London",1,2016/17,2016-12-03
+Stoke,Burnley,2,0,Stoke,Burnley,"bet365 Stadium, Stoke",1,2016/17,2016-12-03
+Sunderland,Leicester,2,1,Sunderland,Leicester,"Stadium of Light, Sunderland",1,2016/17,2016-12-03
+Spurs,Swansea,5,0,Spurs,Swansea,"White Hart Lane, London",1,2016/17,2016-12-03
+West Brom,Watford,3,1,West Brom,Watford,"The Hawthorns, West Bromwich",1,2016/17,2016-12-03
+West Ham,Arsenal,1,5,Arsenal,West Ham,"London Stadium, London",1,2016/17,2016-12-03
+Watford,Stoke,0,1,Stoke,Watford,"Vicarage Road, Watford",1,2016/17,2016-11-27
+Arsenal,Bournemouth,3,1,Arsenal,Bournemouth,"Emirates Stadium, London",1,2016/17,2016-11-27
+Man Utd,West Ham,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-11-27
+Southampton,Everton,1,0,Southampton,Everton,"St. Mary's Stadium, Southampton",1,2016/17,2016-11-27
+Burnley,Man City,1,2,Man City,Burnley,"Turf Moor, Burnley",1,2016/17,2016-11-26
+Hull,West Brom,1,1,draw,draw,"MKM Stadium, Hull",1,2016/17,2016-11-26
+Leicester,Middlesbrough,2,2,draw,draw,"King Power Stadium, Leicester",1,2016/17,2016-11-26
+Liverpool,Sunderland,2,0,Liverpool,Sunderland,"Anfield, Liverpool",1,2016/17,2016-11-26
+Swansea,Crystal Palace,5,4,Swansea,Crystal Palace,"Liberty Stadium, Swansea",1,2016/17,2016-11-26
+Chelsea,Spurs,2,1,Chelsea,Spurs,"Stamford Bridge, London",1,2016/17,2016-11-26
+West Brom,Burnley,4,0,West Brom,Burnley,"The Hawthorns, West Bromwich",1,2016/17,2016-11-21
+Middlesbrough,Chelsea,0,1,Chelsea,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2016-11-20
+Man Utd,Arsenal,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-11-19
+Crystal Palace,Man City,1,2,Man City,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-11-19
+Everton,Swansea,1,1,draw,draw,"Goodison Park, Liverpool",1,2016/17,2016-11-19
+Southampton,Liverpool,0,0,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2016-11-19
+Stoke,Bournemouth,0,1,Bournemouth,Stoke,"bet365 Stadium, Stoke",1,2016/17,2016-11-19
+Sunderland,Hull,3,0,Sunderland,Hull,"Stadium of Light, Sunderland",1,2016/17,2016-11-19
+Watford,Leicester,2,1,Watford,Leicester,"Vicarage Road, Watford",1,2016/17,2016-11-19
+Spurs,West Ham,3,2,Spurs,West Ham,"White Hart Lane, London",1,2016/17,2016-11-19
+Arsenal,Spurs,1,1,draw,draw,"Emirates Stadium, London",1,2016/17,2016-11-06
+Hull,Southampton,2,1,Hull,Southampton,"MKM Stadium, Hull",1,2016/17,2016-11-06
+Liverpool,Watford,6,1,Liverpool,Watford,"Anfield, Liverpool",1,2016/17,2016-11-06
+Swansea,Man Utd,1,3,Man Utd,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-11-06
+Leicester,West Brom,1,2,West Brom,Leicester,"King Power Stadium, Leicester",1,2016/17,2016-11-06
+Bournemouth,Sunderland,1,2,Sunderland,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2016-11-05
+Burnley,Crystal Palace,3,2,Burnley,Crystal Palace,"Turf Moor, Burnley",1,2016/17,2016-11-05
+Man City,Middlesbrough,1,1,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2016-11-05
+West Ham,Stoke,1,1,draw,draw,"London Stadium, London",1,2016/17,2016-11-05
+Chelsea,Everton,5,0,Chelsea,Everton,"Stamford Bridge, London",1,2016/17,2016-11-05
+Stoke,Swansea,3,1,Stoke,Swansea,"bet365 Stadium, Stoke",1,2016/17,2016-10-31
+Everton,West Ham,2,0,Everton,West Ham,"Goodison Park, Liverpool",1,2016/17,2016-10-30
+Southampton,Chelsea,0,2,Chelsea,Southampton,"St. Mary's Stadium, Southampton",1,2016/17,2016-10-30
+Sunderland,Arsenal,1,4,Arsenal,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2016-10-29
+Man Utd,Burnley,0,0,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-10-29
+Middlesbrough,Bournemouth,2,0,Middlesbrough,Bournemouth,"Riverside Stadium, Middlesbrough",1,2016/17,2016-10-29
+Spurs,Leicester,1,1,draw,draw,"White Hart Lane, London",1,2016/17,2016-10-29
+Watford,Hull,1,0,Watford,Hull,"Vicarage Road, Watford",1,2016/17,2016-10-29
+West Brom,Man City,0,4,Man City,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2016-10-29
+Crystal Palace,Liverpool,2,4,Liverpool,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-10-29
+Man City,Southampton,1,1,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2016-10-23
+Chelsea,Man Utd,4,0,Chelsea,Man Utd,"Stamford Bridge, London",1,2016/17,2016-10-23
+Bournemouth,Spurs,0,0,draw,draw,"Vitality Stadium, Bournemouth",1,2016/17,2016-10-22
+Arsenal,Middlesbrough,0,0,draw,draw,"Emirates Stadium, London",1,2016/17,2016-10-22
+Burnley,Everton,2,1,Burnley,Everton,"Turf Moor, Burnley",1,2016/17,2016-10-22
+Hull,Stoke,0,2,Stoke,Hull,"MKM Stadium, Hull",1,2016/17,2016-10-22
+Leicester,Crystal Palace,3,1,Leicester,Crystal Palace,"King Power Stadium, Leicester",1,2016/17,2016-10-22
+Swansea,Watford,0,0,draw,draw,"Liberty Stadium, Swansea",1,2016/17,2016-10-22
+West Ham,Sunderland,1,0,West Ham,Sunderland,"London Stadium, London",1,2016/17,2016-10-22
+Liverpool,West Brom,2,1,Liverpool,West Brom,"Anfield, Liverpool",1,2016/17,2016-10-22
+Liverpool,Man Utd,0,0,draw,draw,"Anfield, Liverpool",1,2016/17,2016-10-17
+Middlesbrough,Watford,0,1,Watford,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2016-10-16
+Southampton,Burnley,3,1,Southampton,Burnley,"St. Mary's Stadium, Southampton",1,2016/17,2016-10-16
+Chelsea,Leicester,3,0,Chelsea,Leicester,"Stamford Bridge, London",1,2016/17,2016-10-15
+Arsenal,Swansea,3,2,Arsenal,Swansea,"Emirates Stadium, London",1,2016/17,2016-10-15
+Bournemouth,Hull,6,1,Bournemouth,Hull,"Vitality Stadium, Bournemouth",1,2016/17,2016-10-15
+Man City,Everton,1,1,draw,draw,"Etihad Stadium, Manchester",1,2016/17,2016-10-15
+Stoke,Sunderland,2,0,Stoke,Sunderland,"bet365 Stadium, Stoke",1,2016/17,2016-10-15
+West Brom,Spurs,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2016/17,2016-10-15
+Crystal Palace,West Ham,0,1,West Ham,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-10-15
+Man Utd,Stoke,1,1,draw,draw,"Old Trafford, Manchester",1,2016/17,2016-10-02
+Leicester,Southampton,0,0,draw,draw,"King Power Stadium, Leicester",1,2016/17,2016-10-02
+Spurs,Man City,2,0,Spurs,Man City,"White Hart Lane, London",1,2016/17,2016-10-02
+Burnley,Arsenal,0,1,Arsenal,Burnley,"Turf Moor, Burnley",1,2016/17,2016-10-02
+Swansea,Liverpool,1,2,Liverpool,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-10-01
+Hull,Chelsea,0,2,Chelsea,Hull,"MKM Stadium, Hull",1,2016/17,2016-10-01
+Sunderland,West Brom,1,1,draw,draw,"Stadium of Light, Sunderland",1,2016/17,2016-10-01
+Watford,Bournemouth,2,2,draw,draw,"Vicarage Road, Watford",1,2016/17,2016-10-01
+West Ham,Middlesbrough,1,1,draw,draw,"London Stadium, London",1,2016/17,2016-10-01
+Everton,Crystal Palace,1,1,draw,draw,"Goodison Park, Liverpool",1,2016/17,2016-09-30
+Burnley,Watford,2,0,Burnley,Watford,"Turf Moor, Burnley",1,2016/17,2016-09-26
+West Ham,Southampton,0,3,Southampton,West Ham,"London Stadium, London",1,2016/17,2016-09-25
+Man Utd,Leicester,4,1,Man Utd,Leicester,"Old Trafford, Manchester",1,2016/17,2016-09-24
+Bournemouth,Everton,1,0,Bournemouth,Everton,"Vitality Stadium, Bournemouth",1,2016/17,2016-09-24
+Liverpool,Hull,5,1,Liverpool,Hull,"Anfield, Liverpool",1,2016/17,2016-09-24
+Middlesbrough,Spurs,1,2,Spurs,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2016-09-24
+Stoke,West Brom,1,1,draw,draw,"bet365 Stadium, Stoke",1,2016/17,2016-09-24
+Sunderland,Crystal Palace,2,3,Crystal Palace,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2016-09-24
+Swansea,Man City,1,3,Man City,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-09-24
+Arsenal,Chelsea,3,0,Arsenal,Chelsea,"Emirates Stadium, London",1,2016/17,2016-09-24
+Watford,Man Utd,3,1,Watford,Man Utd,"Vicarage Road, Watford",1,2016/17,2016-09-18
+Crystal Palace,Stoke,4,1,Crystal Palace,Stoke,"Selhurst Park, London",1,2016/17,2016-09-18
+Southampton,Swansea,1,0,Southampton,Swansea,"St. Mary's Stadium, Southampton",1,2016/17,2016-09-18
+Spurs,Sunderland,1,0,Spurs,Sunderland,"White Hart Lane, London",1,2016/17,2016-09-18
+Hull,Arsenal,1,4,Arsenal,Hull,"MKM Stadium, Hull",1,2016/17,2016-09-17
+Leicester,Burnley,3,0,Leicester,Burnley,"King Power Stadium, Leicester",1,2016/17,2016-09-17
+Man City,Bournemouth,4,0,Man City,Bournemouth,"Etihad Stadium, Manchester",1,2016/17,2016-09-17
+West Brom,West Ham,4,2,West Brom,West Ham,"The Hawthorns, West Bromwich",1,2016/17,2016-09-17
+Everton,Middlesbrough,3,1,Everton,Middlesbrough,"Goodison Park, Liverpool",1,2016/17,2016-09-17
+Chelsea,Liverpool,1,2,Liverpool,Chelsea,"Stamford Bridge, London",1,2016/17,2016-09-16
+Sunderland,Everton,0,3,Everton,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2016-09-12
+Swansea,Chelsea,2,2,draw,draw,"Liberty Stadium, Swansea",1,2016/17,2016-09-11
+Man Utd,Man City,1,2,Man City,Man Utd,"Old Trafford, Manchester",1,2016/17,2016-09-10
+Arsenal,Southampton,2,1,Arsenal,Southampton,"Emirates Stadium, London",1,2016/17,2016-09-10
+Bournemouth,West Brom,1,0,Bournemouth,West Brom,"Vitality Stadium, Bournemouth",1,2016/17,2016-09-10
+Burnley,Hull,1,1,draw,draw,"Turf Moor, Burnley",1,2016/17,2016-09-10
+Middlesbrough,Crystal Palace,1,2,Crystal Palace,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2016/17,2016-09-10
+Stoke,Spurs,0,4,Spurs,Stoke,"bet365 Stadium, Stoke",1,2016/17,2016-09-10
+West Ham,Watford,2,4,Watford,West Ham,"London Stadium, London",1,2016/17,2016-09-10
+Liverpool,Leicester,4,1,Liverpool,Leicester,"Anfield, Liverpool",1,2016/17,2016-09-10
+West Brom,Middlesbrough,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2016/17,2016-08-28
+Man City,West Ham,3,1,Man City,West Ham,"Etihad Stadium, Manchester",1,2016/17,2016-08-28
+Spurs,Liverpool,1,1,draw,draw,"White Hart Lane, London",1,2016/17,2016-08-27
+Chelsea,Burnley,3,0,Chelsea,Burnley,"Stamford Bridge, London",1,2016/17,2016-08-27
+Crystal Palace,Bournemouth,1,1,draw,draw,"Selhurst Park, London",1,2016/17,2016-08-27
+Everton,Stoke,1,0,Everton,Stoke,"Goodison Park, Liverpool",1,2016/17,2016-08-27
+Leicester,Swansea,2,1,Leicester,Swansea,"King Power Stadium, Leicester",1,2016/17,2016-08-27
+Southampton,Sunderland,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2016-08-27
+Watford,Arsenal,1,3,Arsenal,Watford,"Vicarage Road, Watford",1,2016/17,2016-08-27
+Hull,Man Utd,0,1,Man Utd,Hull,"MKM Stadium, Hull",1,2016/17,2016-08-27
+Sunderland,Middlesbrough,1,2,Middlesbrough,Sunderland,"Stadium of Light, Sunderland",1,2016/17,2016-08-21
+West Ham,Bournemouth,1,0,West Ham,Bournemouth,"London Stadium, London",1,2016/17,2016-08-21
+Stoke,Man City,1,4,Man City,Stoke,"bet365 Stadium, Stoke",1,2016/17,2016-08-20
+Burnley,Liverpool,2,0,Burnley,Liverpool,"Turf Moor, Burnley",1,2016/17,2016-08-20
+Swansea,Hull,0,2,Hull,Swansea,"Liberty Stadium, Swansea",1,2016/17,2016-08-20
+Spurs,Crystal Palace,1,0,Spurs,Crystal Palace,"White Hart Lane, London",1,2016/17,2016-08-20
+Watford,Chelsea,1,2,Chelsea,Watford,"Vicarage Road, Watford",1,2016/17,2016-08-20
+West Brom,Everton,1,2,Everton,West Brom,"The Hawthorns, West Bromwich",1,2016/17,2016-08-20
+Leicester,Arsenal,0,0,draw,draw,"King Power Stadium, Leicester",1,2016/17,2016-08-20
+Man Utd,Southampton,2,0,Man Utd,Southampton,"Old Trafford, Manchester",1,2016/17,2016-08-19
+Chelsea,West Ham,2,1,Chelsea,West Ham,"Stamford Bridge, London",1,2016/17,2016-08-15
+Bournemouth,Man Utd,1,3,Man Utd,Bournemouth,"Vitality Stadium, Bournemouth",1,2016/17,2016-08-14
+Arsenal,Liverpool,3,4,Liverpool,Arsenal,"Emirates Stadium, London",1,2016/17,2016-08-14
+Hull,Leicester,2,1,Hull,Leicester,"MKM Stadium, Hull",1,2016/17,2016-08-13
+Burnley,Swansea,0,1,Swansea,Burnley,"Turf Moor, Burnley",1,2016/17,2016-08-13
+Crystal Palace,West Brom,0,1,West Brom,Crystal Palace,"Selhurst Park, London",1,2016/17,2016-08-13
+Everton,Spurs,1,1,draw,draw,"Goodison Park, Liverpool",1,2016/17,2016-08-13
+Middlesbrough,Stoke,1,1,draw,draw,"Riverside Stadium, Middlesbrough",1,2016/17,2016-08-13
+Southampton,Watford,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2016/17,2016-08-13
+Man City,Sunderland,2,1,Man City,Sunderland,"Etihad Stadium, Manchester",1,2016/17,2016-08-13
+Arsenal,Aston Villa,4,0,Arsenal,Aston Villa,"Emirates Stadium, London",1,2015/16,2016-05-15
+Aston Villa,Newcastle,0,0,draw,draw,"Villa Park, Birmingham",1,2015/16,2016-05-07
+Watford,Aston Villa,3,2,Watford,Aston Villa,"Vicarage Road, Watford",1,2015/16,2016-04-30
+Aston Villa,Southampton,2,4,Southampton,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-04-23
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2015/16,2016-04-16
+Aston Villa,Bournemouth,1,2,Bournemouth,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-04-09
+Aston Villa,Chelsea,0,4,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-04-02
+Swansea,Aston Villa,1,0,Swansea,Aston Villa,"Liberty Stadium, Swansea",1,2015/16,2016-03-19
+Aston Villa,Spurs,0,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-03-13
+Man City,Aston Villa,4,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2015/16,2016-03-05
+Aston Villa,Everton,1,3,Everton,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-03-01
+Stoke,Aston Villa,2,1,Stoke,Aston Villa,"bet365 Stadium, Stoke",1,2015/16,2016-02-27
+Aston Villa,Liverpool,0,6,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2015/16,2016-02-14
+Aston Villa,Norwich,2,0,Aston Villa,Norwich,"Villa Park, Birmingham",1,2015/16,2016-02-06
+West Ham,Aston Villa,2,0,West Ham,Aston Villa,"Boleyn Ground, London",1,2015/16,2016-02-02
+West Brom,Aston Villa,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2015/16,2016-01-23
+Aston Villa,Leicester,1,1,draw,draw,"Villa Park, Birmingham",1,2015/16,2016-01-16
+Aston Villa,Crystal Palace,1,0,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,2015/16,2016-01-12
+Sunderland,Aston Villa,3,1,Sunderland,Aston Villa,"Stadium of Light, Sunderland",1,2015/16,2016-01-02
+Norwich,Aston Villa,2,0,Norwich,Aston Villa,"Carrow Road, Norwich",1,2015/16,2015-12-28
+Aston Villa,West Ham,1,1,draw,draw,"Villa Park, Birmingham",1,2015/16,2015-12-26
+Newcastle,Aston Villa,1,1,draw,draw,"St. James' Park, Newcastle",1,2015/16,2015-12-19
+Aston Villa,Arsenal,0,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-12-13
+Southampton,Aston Villa,1,1,draw,draw,"St. Mary's Stadium, Southampton",1,2015/16,2015-12-05
+Aston Villa,Watford,2,3,Watford,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-11-28
+Everton,Aston Villa,4,0,Everton,Aston Villa,"Goodison Park, Liverpool",1,2015/16,2015-11-21
+Aston Villa,Man City,0,0,draw,draw,"Villa Park, Birmingham",1,2015/16,2015-11-08
+Spurs,Aston Villa,3,1,Spurs,Aston Villa,"White Hart Lane, London",1,2015/16,2015-11-02
+Aston Villa,Swansea,1,2,Swansea,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-10-24
+Chelsea,Aston Villa,2,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2015/16,2015-10-17
+Aston Villa,Stoke,0,1,Stoke,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-10-03
+Liverpool,Aston Villa,3,2,Liverpool,Aston Villa,"Anfield, Liverpool",1,2015/16,2015-09-26
+Aston Villa,West Brom,0,1,West Brom,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-09-19
+Leicester,Aston Villa,3,2,Leicester,Aston Villa,"King Power Stadium, Leicester",1,2015/16,2015-09-13
+Aston Villa,Sunderland,2,2,draw,draw,"Villa Park, Birmingham",1,2015/16,2015-08-29
+Crystal Palace,Aston Villa,2,1,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2015/16,2015-08-22
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2015/16,2015-08-14
+Bournemouth,Aston Villa,0,1,Aston Villa,Bournemouth,"Goldsands Stadium, Bournemouth",1,2015/16,2015-08-08
+Aston Villa,Burnley,0,1,Burnley,Aston Villa,"Villa Park, Birmingham",1,2014/15,2015-05-24
+Southampton,Aston Villa,6,1,Southampton,Aston Villa,"St. Mary's Stadium, Southampton",1,2014/15,2015-05-16
+Aston Villa,West Ham,1,0,Aston Villa,West Ham,"Villa Park, Birmingham",1,2014/15,2015-05-09
+Aston Villa,Everton,3,2,Aston Villa,Everton,"Villa Park, Birmingham",1,2014/15,2015-05-02
+Man City,Aston Villa,3,2,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2014/15,2015-04-25
+Spurs,Aston Villa,0,1,Aston Villa,Spurs,"White Hart Lane, London",1,2014/15,2015-04-11
+Aston Villa,QPR,3,3,draw,draw,"Villa Park, Birmingham",1,2014/15,2015-04-07
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2014/15,2015-04-04
+Aston Villa,Swansea,0,1,Swansea,Aston Villa,"Villa Park, Birmingham",1,2014/15,2015-03-21
+Sunderland,Aston Villa,0,4,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2014/15,2015-03-14
+Aston Villa,West Brom,2,1,Aston Villa,West Brom,"Villa Park, Birmingham",1,2014/15,2015-03-03
+Newcastle,Aston Villa,1,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2014/15,2015-02-28
+Aston Villa,Stoke,1,2,Stoke,Aston Villa,"Villa Park, Birmingham",1,2014/15,2015-02-21
+Hull,Aston Villa,2,0,Hull,Aston Villa,"KCOM Stadium, Hull",1,2014/15,2015-02-10
+Aston Villa,Chelsea,1,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2014/15,2015-02-07
+Arsenal,Aston Villa,5,0,Arsenal,Aston Villa,"Emirates Stadium, London",1,2014/15,2015-02-01
+Aston Villa,Liverpool,0,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2014/15,2015-01-17
+Leicester,Aston Villa,1,0,Leicester,Aston Villa,"King Power Stadium, Leicester",1,2014/15,2015-01-10
+Aston Villa,Crystal Palace,0,0,draw,draw,"Villa Park, Birmingham",1,2014/15,2015-01-01
+Aston Villa,Sunderland,0,0,draw,draw,"Villa Park, Birmingham",1,2014/15,2014-12-28
+Swansea,Aston Villa,1,0,Swansea,Aston Villa,"Liberty Stadium, Swansea",1,2014/15,2014-12-26
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2014/15,2014-12-20
+West Brom,Aston Villa,1,0,West Brom,Aston Villa,"The Hawthorns, West Bromwich",1,2014/15,2014-12-13
+Aston Villa,Leicester,2,1,Aston Villa,Leicester,"Villa Park, Birmingham",1,2014/15,2014-12-07
+Crystal Palace,Aston Villa,0,1,Aston Villa,Crystal Palace,"Selhurst Park, London",1,2014/15,2014-12-02
+Burnley,Aston Villa,1,1,draw,draw,"Turf Moor, Burnley",1,2014/15,2014-11-29
+Aston Villa,Southampton,1,1,draw,draw,"Villa Park, Birmingham",1,2014/15,2014-11-24
+West Ham,Aston Villa,0,0,draw,draw,"Boleyn Ground, London",1,2014/15,2014-11-08
+Aston Villa,Spurs,1,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2014/15,2014-11-02
+QPR,Aston Villa,2,0,QPR,Aston Villa,"Loftus Road, London",1,2014/15,2014-10-27
+Everton,Aston Villa,3,0,Everton,Aston Villa,"Goodison Park, Liverpool",1,2014/15,2014-10-18
+Aston Villa,Man City,0,2,Man City,Aston Villa,"Villa Park, Birmingham",1,2014/15,2014-10-04
+Chelsea,Aston Villa,3,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2014/15,2014-09-27
+Aston Villa,Arsenal,0,3,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2014/15,2014-09-20
+Liverpool,Aston Villa,0,1,Aston Villa,Liverpool,"Anfield, Liverpool",1,2014/15,2014-09-13
+Aston Villa,Hull,2,1,Aston Villa,Hull,"Villa Park, Birmingham",1,2014/15,2014-08-31
+Aston Villa,Newcastle,0,0,draw,draw,"Villa Park, Birmingham",1,2014/15,2014-08-23
+Stoke,Aston Villa,0,1,Aston Villa,Stoke,"bet365 Stadium, Stoke",1,2014/15,2014-08-16
+Spurs,Aston Villa,3,0,Spurs,Aston Villa,"White Hart Lane, London",1,2013/14,2014-05-11
+Man City,Aston Villa,4,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2013/14,2014-05-07
+Aston Villa,Hull,3,1,Aston Villa,Hull,"Villa Park, Birmingham",1,2013/14,2014-05-03
+Swansea,Aston Villa,4,1,Swansea,Aston Villa,"Liberty Stadium, Swansea",1,2013/14,2014-04-26
+Aston Villa,Southampton,0,0,draw,draw,"Villa Park, Birmingham",1,2013/14,2014-04-19
+Crystal Palace,Aston Villa,1,0,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2013/14,2014-04-12
+Aston Villa,Fulham,1,2,Fulham,Aston Villa,"Villa Park, Birmingham",1,2013/14,2014-04-05
+Man Utd,Aston Villa,4,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2013/14,2014-03-29
+Aston Villa,Stoke,1,4,Stoke,Aston Villa,"Villa Park, Birmingham",1,2013/14,2014-03-23
+Aston Villa,Chelsea,1,0,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2013/14,2014-03-15
+Aston Villa,Norwich,4,1,Aston Villa,Norwich,"Villa Park, Birmingham",1,2013/14,2014-03-02
+Newcastle,Aston Villa,1,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2013/14,2014-02-23
+Cardiff,Aston Villa,0,0,draw,draw,"Cardiff City Stadium, Cardiff",1,2013/14,2014-02-11
+Aston Villa,West Ham,0,2,West Ham,Aston Villa,"Villa Park, Birmingham",1,2013/14,2014-02-08
+Everton,Aston Villa,2,1,Everton,Aston Villa,"Goodison Park, Liverpool",1,2013/14,2014-02-01
+Aston Villa,West Brom,4,3,Aston Villa,West Brom,"Villa Park, Birmingham",1,2013/14,2014-01-29
+Liverpool,Aston Villa,2,2,draw,draw,"Anfield, Liverpool",1,2013/14,2014-01-18
+Aston Villa,Arsenal,1,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2013/14,2014-01-13
+Sunderland,Aston Villa,0,1,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2013/14,2014-01-01
+Aston Villa,Swansea,1,1,draw,draw,"Villa Park, Birmingham",1,2013/14,2013-12-28
+Aston Villa,Crystal Palace,0,1,Crystal Palace,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-12-26
+Stoke,Aston Villa,2,1,Stoke,Aston Villa,"Britannia Stadium, Stoke",1,2013/14,2013-12-21
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-12-15
+Fulham,Aston Villa,2,0,Fulham,Aston Villa,"Craven Cottage, London",1,2013/14,2013-12-08
+Southampton,Aston Villa,2,3,Aston Villa,Southampton,"St. Mary's Stadium, Southampton",1,2013/14,2013-12-04
+Aston Villa,Sunderland,0,0,draw,draw,"Villa Park, Birmingham",1,2013/14,2013-11-30
+West Brom,Aston Villa,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2013/14,2013-11-25
+Aston Villa,Cardiff,2,0,Aston Villa,Cardiff,"Villa Park, Birmingham",1,2013/14,2013-11-09
+West Ham,Aston Villa,0,0,draw,draw,"Boleyn Ground, London",1,2013/14,2013-11-02
+Aston Villa,Everton,0,2,Everton,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-10-26
+Aston Villa,Spurs,0,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-10-20
+Hull,Aston Villa,0,0,draw,draw,"MKM Stadium, Hull",1,2013/14,2013-10-05
+Aston Villa,Man City,3,2,Aston Villa,Man City,"Villa Park, Birmingham",1,2013/14,2013-09-28
+Norwich,Aston Villa,0,1,Aston Villa,Norwich,"Carrow Road, Norwich",1,2013/14,2013-09-21
+Aston Villa,Newcastle,1,2,Newcastle,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-09-14
+Aston Villa,Liverpool,0,1,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2013/14,2013-08-24
+Chelsea,Aston Villa,2,1,Chelsea,Aston Villa,"Stamford Bridge, London",1,2013/14,2013-08-21
+Arsenal,Aston Villa,1,3,Aston Villa,Arsenal,"Emirates Stadium, London",1,2013/14,2013-08-17
+Wigan,Aston Villa,2,2,draw,draw,"DW Stadium, Wigan",1,2012/13,2013-05-19
+Aston Villa,Chelsea,1,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2012/13,2013-05-11
+Norwich,Aston Villa,1,2,Aston Villa,Norwich,"Carrow Road, Norwich",1,2012/13,2013-05-04
+Aston Villa,Sunderland,6,1,Aston Villa,Sunderland,"Villa Park, Birmingham",1,2012/13,2013-04-29
+Man Utd,Aston Villa,3,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2012/13,2013-04-22
+Aston Villa,Fulham,1,1,draw,draw,"Villa Park, Birmingham",1,2012/13,2013-04-13
+Stoke,Aston Villa,1,3,Aston Villa,Stoke,"Britannia Stadium, Stoke",1,2012/13,2013-04-06
+Aston Villa,Liverpool,1,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2012/13,2013-03-31
+Aston Villa,QPR,3,2,Aston Villa,QPR,"Villa Park, Birmingham",1,2012/13,2013-03-16
+Reading,Aston Villa,1,2,Aston Villa,Reading,"Madejski Stadium, Reading",1,2012/13,2013-03-09
+Aston Villa,Man City,0,1,Man City,Aston Villa,"Villa Park, Birmingham",1,2012/13,2013-03-04
+Arsenal,Aston Villa,2,1,Arsenal,Aston Villa,"Emirates Stadium, London",1,2012/13,2013-02-23
+Aston Villa,West Ham,2,1,Aston Villa,West Ham,"Villa Park, Birmingham",1,2012/13,2013-02-10
+Everton,Aston Villa,3,3,draw,draw,"Goodison Park, Liverpool",1,2012/13,2013-02-02
+Aston Villa,Newcastle,1,2,Newcastle,Aston Villa,"Villa Park, Birmingham",1,2012/13,2013-01-29
+West Brom,Aston Villa,2,2,draw,draw,"The Hawthorns, West Bromwich",1,2012/13,2013-01-19
+Aston Villa,Southampton,0,1,Southampton,Aston Villa,"Villa Park, Birmingham",1,2012/13,2013-01-12
+Swansea,Aston Villa,2,2,draw,draw,"Swansea.com Stadium, Swansea",1,2012/13,2013-01-01
+Aston Villa,Wigan,0,3,Wigan,Aston Villa,"Villa Park, Birmingham",1,2012/13,2012-12-29
+Aston Villa,Spurs,0,4,Spurs,Aston Villa,"Villa Park, Birmingham",1,2012/13,2012-12-26
+Chelsea,Aston Villa,8,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2012/13,2012-12-23
+Liverpool,Aston Villa,1,3,Aston Villa,Liverpool,"Anfield, Liverpool",1,2012/13,2012-12-15
+Aston Villa,Stoke,0,0,draw,draw,"Villa Park, Birmingham",1,2012/13,2012-12-08
+QPR,Aston Villa,1,1,draw,draw,"Kiyan Prince Foundation Stadium, London",1,2012/13,2012-12-01
+Aston Villa,Reading,1,0,Aston Villa,Reading,"Villa Park, Birmingham",1,2012/13,2012-11-27
+Aston Villa,Arsenal,0,0,draw,draw,"Villa Park, Birmingham",1,2012/13,2012-11-24
+Man City,Aston Villa,5,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2012/13,2012-11-17
+Aston Villa,Man Utd,2,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2012/13,2012-11-10
+Sunderland,Aston Villa,0,1,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2012/13,2012-11-03
+Aston Villa,Norwich,1,1,draw,draw,"Villa Park, Birmingham",1,2012/13,2012-10-27
+Fulham,Aston Villa,1,0,Fulham,Aston Villa,"Craven Cottage, London",1,2012/13,2012-10-20
+Spurs,Aston Villa,2,0,Spurs,Aston Villa,"White Hart Lane, London",1,2012/13,2012-10-07
+Aston Villa,West Brom,1,1,draw,draw,"Villa Park, Birmingham",1,2012/13,2012-09-30
+Southampton,Aston Villa,4,1,Southampton,Aston Villa,"The Friends Provident St Mary's Stadium, Southampton",1,2012/13,2012-09-22
+Aston Villa,Swansea,2,0,Aston Villa,Swansea,"Villa Park, Birmingham",1,2012/13,2012-09-15
+Newcastle,Aston Villa,1,1,draw,draw,"St James' Park, Newcastle",1,2012/13,2012-09-02
+Aston Villa,Everton,1,3,Everton,Aston Villa,"Villa Park, Birmingham",1,2012/13,2012-08-25
+West Ham,Aston Villa,1,0,West Ham,Aston Villa,"Boleyn Ground, London",1,2012/13,2012-08-18
+Norwich,Aston Villa,2,0,Norwich,Aston Villa,"Carrow Road, Norwich",1,2011/12,2012-05-13
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,2011/12,2012-05-06
+West Brom,Aston Villa,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2011/12,2012-04-28
+Aston Villa,Bolton,1,2,Bolton,Aston Villa,"Villa Park, Birmingham",1,2011/12,2012-04-24
+Aston Villa,Sunderland,0,0,draw,draw,"Villa Park, Birmingham",1,2011/12,2012-04-21
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2011/12,2012-04-15
+Aston Villa,Stoke,1,1,draw,draw,"Villa Park, Birmingham",1,2011/12,2012-04-09
+Liverpool,Aston Villa,1,1,draw,draw,"Anfield, Liverpool",1,2011/12,2012-04-07
+Aston Villa,Chelsea,2,4,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2011/12,2012-03-31
+Arsenal,Aston Villa,3,0,Arsenal,Aston Villa,"Emirates Stadium, London",1,2011/12,2012-03-24
+Aston Villa,Fulham,1,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2011/12,2012-03-10
+Blackburn,Aston Villa,1,1,draw,draw,"Ewood Park, Blackburn",1,2011/12,2012-03-03
+Wigan,Aston Villa,0,0,draw,draw,"DW Stadium, Wigan",1,2011/12,2012-02-25
+Aston Villa,Man City,0,1,Man City,Aston Villa,"Villa Park, Birmingham",1,2011/12,2012-02-12
+Newcastle,Aston Villa,2,1,Newcastle,Aston Villa,"St James' Park, Newcastle",1,2011/12,2012-02-05
+Aston Villa,QPR,2,2,draw,draw,"Villa Park, Birmingham",1,2011/12,2012-02-01
+Wolves,Aston Villa,2,3,Aston Villa,Wolves,"Molineux Stadium, Wolverhampton",1,2011/12,2012-01-21
+Aston Villa,Everton,1,1,draw,draw,"Villa Park, Birmingham",1,2011/12,2012-01-14
+Aston Villa,Swansea,0,2,Swansea,Aston Villa,"Villa Park, Birmingham",1,2011/12,2012-01-02
+Chelsea,Aston Villa,1,3,Aston Villa,Chelsea,"Stamford Bridge, London",1,2011/12,2011-12-31
+Stoke,Aston Villa,0,0,draw,draw,"bet365 Stadium, Stoke",1,2011/12,2011-12-26
+Aston Villa,Arsenal,1,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2011/12,2011-12-21
+Aston Villa,Liverpool,0,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2011/12,2011-12-18
+Bolton,Aston Villa,1,2,Aston Villa,Bolton,"Toughsheet Community Stadium, Bolton",1,2011/12,2011-12-10
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2011/12,2011-12-03
+Swansea,Aston Villa,0,0,draw,draw,"Liberty Stadium, Swansea",1,2011/12,2011-11-27
+Spurs,Aston Villa,2,0,Spurs,Aston Villa,"White Hart Lane, London",1,2011/12,2011-11-21
+Aston Villa,Norwich,3,2,Aston Villa,Norwich,"Villa Park, Birmingham",1,2011/12,2011-11-05
+Sunderland,Aston Villa,2,2,draw,draw,"Stadium of Light, Sunderland",1,2011/12,2011-10-29
+Aston Villa,West Brom,1,2,West Brom,Aston Villa,"Villa Park, Birmingham",1,2011/12,2011-10-22
+Man City,Aston Villa,4,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2011/12,2011-10-15
+Aston Villa,Wigan,2,0,Aston Villa,Wigan,"Villa Park, Birmingham",1,2011/12,2011-10-01
+QPR,Aston Villa,1,1,draw,draw,"Kiyan Prince Foundation Stadium, London",1,2011/12,2011-09-25
+Aston Villa,Newcastle,1,1,draw,draw,"Villa Park, Birmingham",1,2011/12,2011-09-17
+Everton,Aston Villa,2,2,draw,draw,"Goodison Park, Liverpool",1,2011/12,2011-09-10
+Aston Villa,Wolves,0,0,draw,draw,"Villa Park, Birmingham",1,2011/12,2011-08-27
+Aston Villa,Blackburn,3,1,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2011/12,2011-08-20
+Fulham,Aston Villa,0,0,draw,draw,"Craven Cottage, London",1,2011/12,2011-08-13
+Aston Villa,Liverpool,1,0,Aston Villa,Liverpool,"Villa Park, Birmingham",1,2010/11,2011-05-22
+Arsenal,Aston Villa,1,2,Aston Villa,Arsenal,"Emirates Stadium, London",1,2010/11,2011-05-15
+Aston Villa,Wigan,1,1,draw,draw,"Villa Park, Birmingham",1,2010/11,2011-05-07
+West Brom,Aston Villa,2,1,West Brom,Aston Villa,"The Hawthorns, West Bromwich",1,2010/11,2011-04-30
+Aston Villa,Stoke,1,1,draw,draw,"Villa Park, Birmingham",1,2010/11,2011-04-23
+West Ham,Aston Villa,1,2,Aston Villa,West Ham,"Boleyn Ground, London",1,2010/11,2011-04-16
+Aston Villa,Newcastle,1,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2010/11,2011-04-10
+Everton,Aston Villa,2,2,draw,draw,"Goodison Park, Liverpool",1,2010/11,2011-04-02
+Aston Villa,Wolves,0,1,Wolves,Aston Villa,"Villa Park, Birmingham",1,2010/11,2011-03-19
+Bolton,Aston Villa,3,2,Bolton,Aston Villa,"Macron Stadium, Bolton",1,2010/11,2011-03-05
+Aston Villa,Blackburn,4,1,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2010/11,2011-02-26
+Blackpool,Aston Villa,1,1,draw,draw,"Bloomfield Road, Blackpool",1,2010/11,2011-02-12
+Aston Villa,Fulham,2,2,draw,draw,"Villa Park, Birmingham",1,2010/11,2011-02-05
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2010/11,2011-02-01
+Wigan,Aston Villa,1,2,Aston Villa,Wigan,"DW Stadium, Wigan",1,2010/11,2011-01-25
+Aston Villa,Man City,1,0,Aston Villa,Man City,"Villa Park, Birmingham",1,2010/11,2011-01-22
+Birmingham,Aston Villa,1,1,draw,draw,"St Andrews, Birmingham",1,2010/11,2011-01-16
+Aston Villa,Sunderland,0,1,Sunderland,Aston Villa,"Villa Park, Birmingham",1,2010/11,2011-01-05
+Chelsea,Aston Villa,3,3,draw,draw,"Stamford Bridge, London",1,2010/11,2011-01-02
+Man City,Aston Villa,4,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2010/11,2010-12-28
+Aston Villa,Spurs,1,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2010/11,2010-12-26
+Aston Villa,West Brom,2,1,Aston Villa,West Brom,"Villa Park, Birmingham",1,2010/11,2010-12-11
+Liverpool,Aston Villa,3,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2010/11,2010-12-06
+Aston Villa,Arsenal,2,4,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2010/11,2010-11-27
+Blackburn,Aston Villa,2,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,2010/11,2010-11-21
+Aston Villa,Man Utd,2,2,draw,draw,"Villa Park, Birmingham",1,2010/11,2010-11-13
+Aston Villa,Blackpool,3,2,Aston Villa,Blackpool,"Villa Park, Birmingham",1,2010/11,2010-11-10
+Fulham,Aston Villa,1,1,draw,draw,"Craven Cottage, London",1,2010/11,2010-11-06
+Aston Villa,Birmingham,0,0,draw,draw,"Villa Park, Birmingham",1,2010/11,2010-10-31
+Sunderland,Aston Villa,1,0,Sunderland,Aston Villa,"Stadium of Light, Sunderland",1,2010/11,2010-10-23
+Aston Villa,Chelsea,0,0,draw,draw,"Villa Park, Birmingham",1,2010/11,2010-10-16
+Spurs,Aston Villa,2,1,Spurs,Aston Villa,"White Hart Lane, London",1,2010/11,2010-10-02
+Wolves,Aston Villa,1,2,Aston Villa,Wolves,"Molineux Stadium, Wolverhampton",1,2010/11,2010-09-26
+Aston Villa,Bolton,1,1,draw,draw,"Villa Park, Birmingham",1,2010/11,2010-09-18
+Stoke,Aston Villa,2,1,Stoke,Aston Villa,"Britannia Stadium, Stoke",1,2010/11,2010-09-13
+Aston Villa,Everton,1,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2010/11,2010-08-29
+Newcastle,Aston Villa,6,0,Newcastle,Aston Villa,"Sports Direct Arena, Newcastle",1,2010/11,2010-08-22
+Aston Villa,West Ham,3,0,Aston Villa,West Ham,"Villa Park, Birmingham",1,2010/11,2010-08-14
+Aston Villa,Blackburn,0,1,Blackburn,Aston Villa,"Villa Park, Birmingham",1,2009/10,2010-05-09
+Man City,Aston Villa,3,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2009/10,2010-05-01
+Aston Villa,Birmingham,1,0,Aston Villa,Birmingham,"Villa Park, Birmingham",1,2009/10,2010-04-25
+Hull,Aston Villa,0,2,Aston Villa,Hull,"KCOM Stadium, Hull",1,2009/10,2010-04-21
+Portsmouth,Aston Villa,1,2,Aston Villa,Portsmouth,"Fratton Park, Portsmouth",1,2009/10,2010-04-18
+Aston Villa,Everton,2,2,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-04-14
+Bolton,Aston Villa,0,1,Aston Villa,Bolton,"Macron Stadium, Bolton",1,2009/10,2010-04-03
+Chelsea,Aston Villa,7,1,Chelsea,Aston Villa,"Stamford Bridge, London",1,2009/10,2010-03-27
+Aston Villa,Sunderland,1,1,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-03-24
+Aston Villa,Wolves,2,2,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-03-20
+Wigan,Aston Villa,1,2,Aston Villa,Wigan,"DW Stadium, Wigan",1,2009/10,2010-03-16
+Stoke,Aston Villa,0,0,draw,draw,"Britannia Stadium, Stoke",1,2009/10,2010-03-13
+Aston Villa,Burnley,5,2,Aston Villa,Burnley,"Villa Park, Birmingham",1,2009/10,2010-02-21
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-02-10
+Spurs,Aston Villa,0,0,draw,draw,"White Hart Lane, London",1,2009/10,2010-02-06
+Fulham,Aston Villa,0,2,Aston Villa,Fulham,"Craven Cottage, London",1,2009/10,2010-01-30
+Aston Villa,Arsenal,0,0,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-01-27
+Aston Villa,West Ham,0,0,draw,draw,"Villa Park, Birmingham",1,2009/10,2010-01-17
+Aston Villa,Liverpool,0,1,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2009/10,2009-12-29
+Arsenal,Aston Villa,3,0,Arsenal,Aston Villa,"Emirates Stadium, London",1,2009/10,2009-12-27
+Aston Villa,Stoke,1,0,Aston Villa,Stoke,"Villa Park, Birmingham",1,2009/10,2009-12-19
+Sunderland,Aston Villa,0,2,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2009/10,2009-12-15
+Man Utd,Aston Villa,0,1,Aston Villa,Man Utd,"Old Trafford, Manchester",1,2009/10,2009-12-12
+Aston Villa,Hull,3,0,Aston Villa,Hull,"Villa Park, Birmingham",1,2009/10,2009-12-05
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,2009/10,2009-11-28
+Burnley,Aston Villa,1,1,draw,draw,"Turf Moor, Burnley",1,2009/10,2009-11-21
+Aston Villa,Bolton,5,1,Aston Villa,Bolton,"Villa Park, Birmingham",1,2009/10,2009-11-07
+West Ham,Aston Villa,2,1,West Ham,Aston Villa,"Boleyn Ground, London",1,2009/10,2009-11-04
+Everton,Aston Villa,1,1,draw,draw,"Goodison Park, Liverpool",1,2009/10,2009-10-31
+Wolves,Aston Villa,1,1,draw,draw,"Molineux Stadium, Wolverhampton",1,2009/10,2009-10-24
+Aston Villa,Chelsea,2,1,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2009/10,2009-10-17
+Aston Villa,Man City,1,1,draw,draw,"Villa Park, Birmingham",1,2009/10,2009-10-05
+Blackburn,Aston Villa,2,1,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,2009/10,2009-09-26
+Aston Villa,Portsmouth,2,0,Aston Villa,Portsmouth,"Villa Park, Birmingham",1,2009/10,2009-09-19
+Birmingham,Aston Villa,0,1,Aston Villa,Birmingham,"St Andrews, Birmingham",1,2009/10,2009-09-13
+Aston Villa,Fulham,2,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2009/10,2009-08-30
+Liverpool,Aston Villa,1,3,Aston Villa,Liverpool,"Anfield, Liverpool",1,2009/10,2009-08-24
+Aston Villa,Wigan,0,2,Wigan,Aston Villa,"Villa Park, Birmingham",1,2009/10,2009-08-15
+Aston Villa,Newcastle,1,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2008/09,2009-05-24
+Middlesbrough,Aston Villa,1,1,draw,draw,"Riverside Stadium, Middlesbrough",1,2008/09,2009-05-16
+Fulham,Aston Villa,3,1,Fulham,Aston Villa,"Craven Cottage, London",1,2008/09,2009-05-09
+Aston Villa,Hull,1,0,Aston Villa,Hull,"Villa Park, Birmingham",1,2008/09,2009-05-04
+Bolton,Aston Villa,1,1,draw,draw,"Toughsheet Community Stadium, Bolton",1,2008/09,2009-04-25
+Aston Villa,West Ham,1,1,draw,draw,"Villa Park, Birmingham",1,2008/09,2009-04-18
+Aston Villa,Everton,3,3,draw,draw,"Villa Park, Birmingham",1,2008/09,2009-04-12
+Man Utd,Aston Villa,3,2,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2008/09,2009-04-05
+Liverpool,Aston Villa,5,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2008/09,2009-03-22
+Aston Villa,Spurs,1,2,Spurs,Aston Villa,"Villa Park, Birmingham",1,2008/09,2009-03-15
+Man City,Aston Villa,2,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2008/09,2009-03-04
+Aston Villa,Stoke,2,2,draw,draw,"Villa Park, Birmingham",1,2008/09,2009-03-01
+Aston Villa,Chelsea,0,1,Chelsea,Aston Villa,"Villa Park, Birmingham",1,2008/09,2009-02-21
+Blackburn,Aston Villa,0,2,Aston Villa,Blackburn,"Ewood Park, Blackburn",1,2008/09,2009-02-07
+Aston Villa,Wigan,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2009-01-31
+Portsmouth,Aston Villa,0,1,Aston Villa,Portsmouth,"Fratton Park, Portsmouth",1,2008/09,2009-01-27
+Sunderland,Aston Villa,1,2,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2008/09,2009-01-17
+Aston Villa,West Brom,2,1,Aston Villa,West Brom,"Villa Park, Birmingham",1,2008/09,2009-01-10
+Hull,Aston Villa,0,1,Aston Villa,Hull,"KCOM Stadium, Hull",1,2008/09,2008-12-30
+Aston Villa,Arsenal,2,2,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-12-26
+West Ham,Aston Villa,0,1,Aston Villa,West Ham,"Boleyn Ground, London",1,2008/09,2008-12-20
+Aston Villa,Bolton,4,2,Aston Villa,Bolton,"Villa Park, Birmingham",1,2008/09,2008-12-13
+Everton,Aston Villa,2,3,Aston Villa,Everton,"Goodison Park, Liverpool",1,2008/09,2008-12-07
+Aston Villa,Fulham,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-11-29
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-11-22
+Arsenal,Aston Villa,0,2,Aston Villa,Arsenal,"Emirates Stadium, London",1,2008/09,2008-11-15
+Aston Villa,Middlesbrough,1,2,Middlesbrough,Aston Villa,"Villa Park, Birmingham",1,2008/09,2008-11-09
+Newcastle,Aston Villa,2,0,Newcastle,Aston Villa,"Sports Direct Arena, Newcastle",1,2008/09,2008-11-03
+Aston Villa,Blackburn,3,2,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2008/09,2008-10-29
+Wigan,Aston Villa,0,4,Aston Villa,Wigan,"DW Stadium, Wigan",1,2008/09,2008-10-26
+Aston Villa,Portsmouth,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-10-18
+Chelsea,Aston Villa,2,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2008/09,2008-10-05
+Aston Villa,Sunderland,2,1,Aston Villa,Sunderland,"Villa Park, Birmingham",1,2008/09,2008-09-27
+West Brom,Aston Villa,1,2,Aston Villa,West Brom,"The Hawthorns, West Bromwich",1,2008/09,2008-09-21
+Spurs,Aston Villa,1,2,Aston Villa,Spurs,"White Hart Lane, London",1,2008/09,2008-09-15
+Aston Villa,Liverpool,0,0,draw,draw,"Villa Park, Birmingham",1,2008/09,2008-08-31
+Stoke,Aston Villa,3,2,Stoke,Aston Villa,"bet365 Stadium, Stoke",1,2008/09,2008-08-23
+Aston Villa,Man City,4,2,Aston Villa,Man City,"Villa Park, Birmingham",1,2008/09,2008-08-17
+West Ham,Aston Villa,2,2,draw,draw,"Boleyn Ground, London",1,2007/08,2008-05-11
+Aston Villa,Wigan,0,2,Wigan,Aston Villa,"Villa Park, Birmingham",1,2007/08,2008-05-03
+Everton,Aston Villa,2,2,draw,draw,"Goodison Park, Liverpool",1,2007/08,2008-04-27
+Aston Villa,Birmingham,5,1,Aston Villa,Birmingham,"Villa Park, Birmingham",1,2007/08,2008-04-20
+Derby,Aston Villa,0,6,Aston Villa,Derby,"Pride Park Stadium, Derby",1,2007/08,2008-04-12
+Aston Villa,Bolton,4,0,Aston Villa,Bolton,"Villa Park, Birmingham",1,2007/08,2008-04-05
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2007/08,2008-03-29
+Aston Villa,Sunderland,0,1,Sunderland,Aston Villa,"Villa Park, Birmingham",1,2007/08,2008-03-22
+Portsmouth,Aston Villa,2,0,Portsmouth,Aston Villa,"Fratton Park, Portsmouth",1,2007/08,2008-03-15
+Aston Villa,Middlesbrough,1,1,draw,draw,"Villa Park, Birmingham",1,2007/08,2008-03-12
+Arsenal,Aston Villa,1,1,draw,draw,"Emirates Stadium, London",1,2007/08,2008-03-01
+Reading,Aston Villa,1,2,Aston Villa,Reading,"Madejski Stadium, Reading",1,2007/08,2008-02-24
+Aston Villa,Newcastle,4,1,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2007/08,2008-02-09
+Fulham,Aston Villa,2,1,Fulham,Aston Villa,"Craven Cottage, London",1,2007/08,2008-02-03
+Aston Villa,Blackburn,1,1,draw,draw,"Villa Park, Birmingham",1,2007/08,2008-01-26
+Liverpool,Aston Villa,2,2,draw,draw,"Anfield, Liverpool",1,2007/08,2008-01-21
+Aston Villa,Reading,3,1,Aston Villa,Reading,"Villa Park, Birmingham",1,2007/08,2008-01-12
+Aston Villa,Spurs,2,1,Aston Villa,Spurs,"Villa Park, Birmingham",1,2007/08,2008-01-01
+Wigan,Aston Villa,1,2,Aston Villa,Wigan,"DW Stadium, Wigan",1,2007/08,2007-12-29
+Chelsea,Aston Villa,4,4,draw,draw,"Stamford Bridge, London",1,2007/08,2007-12-26
+Aston Villa,Man City,1,1,draw,draw,"Villa Park, Birmingham",1,2007/08,2007-12-22
+Sunderland,Aston Villa,1,1,draw,draw,"Stadium of Light, Sunderland",1,2007/08,2007-12-15
+Aston Villa,Portsmouth,1,3,Portsmouth,Aston Villa,"Villa Park, Birmingham",1,2007/08,2007-12-08
+Aston Villa,Arsenal,1,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2007/08,2007-12-01
+Blackburn,Aston Villa,0,4,Aston Villa,Blackburn,"Ewood Park, Blackburn",1,2007/08,2007-11-28
+Middlesbrough,Aston Villa,0,3,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2007/08,2007-11-24
+Birmingham,Aston Villa,1,2,Aston Villa,Birmingham,"St. Andrew's Trillion Trophy Stadium, Birmingham",1,2007/08,2007-11-11
+Aston Villa,Derby,2,0,Aston Villa,Derby,"Villa Park, Birmingham",1,2007/08,2007-11-03
+Bolton,Aston Villa,1,1,draw,draw,"Toughsheet Community Stadium, Bolton",1,2007/08,2007-10-28
+Aston Villa,Man Utd,1,4,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2007/08,2007-10-20
+Aston Villa,West Ham,1,0,Aston Villa,West Ham,"Villa Park, Birmingham",1,2007/08,2007-10-06
+Spurs,Aston Villa,4,4,draw,draw,"White Hart Lane, London",1,2007/08,2007-10-01
+Aston Villa,Everton,2,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2007/08,2007-09-23
+Man City,Aston Villa,1,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2007/08,2007-09-16
+Aston Villa,Chelsea,2,0,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2007/08,2007-09-02
+Aston Villa,Fulham,2,1,Aston Villa,Fulham,"Villa Park, Birmingham",1,2007/08,2007-08-25
+Newcastle,Aston Villa,0,0,draw,draw,"Sports Direct Arena, Newcastle",1,2007/08,2007-08-18
+Aston Villa,Liverpool,1,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2007/08,2007-08-11
+Bolton,Aston Villa,2,2,draw,draw,"Toughsheet Community Stadium, Bolton",1,2006/07,2007-05-13
+Aston Villa,Sheffield Utd,3,0,Aston Villa,Sheffield Utd,"Villa Park, Birmingham",1,2006/07,2007-05-05
+Man City,Aston Villa,0,2,Aston Villa,Man City,"Etihad Stadium, Manchester",1,2006/07,2007-04-28
+Aston Villa,Portsmouth,0,0,draw,draw,"Villa Park, Birmingham",1,2006/07,2007-04-22
+Middlesbrough,Aston Villa,1,3,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2006/07,2007-04-14
+Aston Villa,Wigan,1,1,draw,draw,"Villa Park, Birmingham",1,2006/07,2007-04-09
+Blackburn,Aston Villa,1,2,Aston Villa,Blackburn,"Ewood Park, Blackburn",1,2006/07,2007-04-07
+Aston Villa,Everton,1,1,draw,draw,"Villa Park, Birmingham",1,2006/07,2007-04-02
+Aston Villa,Liverpool,0,0,draw,draw,"Villa Park, Birmingham",1,2006/07,2007-03-18
+Aston Villa,Arsenal,0,1,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2006/07,2007-03-14
+Fulham,Aston Villa,1,1,draw,draw,"Craven Cottage, London",1,2006/07,2007-03-03
+Reading,Aston Villa,2,0,Reading,Aston Villa,"Madejski Stadium, Reading",1,2006/07,2007-02-10
+Aston Villa,West Ham,1,0,Aston Villa,West Ham,"Villa Park, Birmingham",1,2006/07,2007-02-03
+Newcastle,Aston Villa,3,1,Newcastle,Aston Villa,"Sports Direct Arena, Newcastle",1,2006/07,2007-01-31
+Aston Villa,Watford,2,0,Aston Villa,Watford,"Villa Park, Birmingham",1,2006/07,2007-01-20
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2006/07,2007-01-13
+Aston Villa,Chelsea,0,0,draw,draw,"Villa Park, Birmingham",1,2006/07,2007-01-02
+Charlton,Aston Villa,2,1,Charlton,Aston Villa,"The Valley, London",1,2006/07,2006-12-30
+Spurs,Aston Villa,2,1,Spurs,Aston Villa,"White Hart Lane, London",1,2006/07,2006-12-26
+Aston Villa,Man Utd,0,3,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2006/07,2006-12-23
+Aston Villa,Bolton,0,1,Bolton,Aston Villa,"Villa Park, Birmingham",1,2006/07,2006-12-16
+Sheffield Utd,Aston Villa,2,2,draw,draw,"Bramall Lane, Sheffield",1,2006/07,2006-12-11
+Portsmouth,Aston Villa,2,2,draw,draw,"Fratton Park, Portsmouth",1,2006/07,2006-12-02
+Aston Villa,Man City,1,3,Man City,Aston Villa,"Villa Park, Birmingham",1,2006/07,2006-11-29
+Aston Villa,Middlesbrough,1,1,draw,draw,"Villa Park, Birmingham",1,2006/07,2006-11-25
+Wigan,Aston Villa,0,0,draw,draw,"DW Stadium, Wigan",1,2006/07,2006-11-19
+Everton,Aston Villa,0,1,Aston Villa,Everton,"Goodison Park, Liverpool",1,2006/07,2006-11-11
+Aston Villa,Blackburn,2,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2006/07,2006-11-05
+Liverpool,Aston Villa,3,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,2006/07,2006-10-28
+Aston Villa,Fulham,1,1,draw,draw,"Villa Park, Birmingham",1,2006/07,2006-10-21
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,2006/07,2006-10-14
+Chelsea,Aston Villa,1,1,draw,draw,"Stamford Bridge, London",1,2006/07,2006-09-30
+Aston Villa,Charlton,2,0,Aston Villa,Charlton,"Villa Park, Birmingham",1,2006/07,2006-09-23
+Watford,Aston Villa,0,0,draw,draw,"Vicarage Road, Watford",1,2006/07,2006-09-16
+West Ham,Aston Villa,1,1,draw,draw,"Boleyn Ground, London",1,2006/07,2006-09-10
+Aston Villa,Newcastle,2,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2006/07,2006-08-27
+Aston Villa,Reading,2,1,Aston Villa,Reading,"Villa Park, Birmingham",1,2006/07,2006-08-23
+Arsenal,Aston Villa,1,1,draw,draw,"Emirates Stadium, London",1,2006/07,2006-08-19
+Aston Villa,Sunderland,2,1,Aston Villa,Sunderland,"Villa Park, Birmingham",1,2005/06,2006-05-07
+Liverpool,Aston Villa,3,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,2005/06,2006-04-29
+Aston Villa,Man City,0,1,Man City,Aston Villa,"Villa Park, Birmingham",1,2005/06,2006-04-25
+Wigan,Aston Villa,3,2,Wigan,Aston Villa,"DW Stadium, Wigan",1,2005/06,2006-04-18
+Aston Villa,Birmingham,3,1,Aston Villa,Birmingham,"Villa Park, Birmingham",1,2005/06,2006-04-16
+Aston Villa,West Brom,0,0,draw,draw,"Villa Park, Birmingham",1,2005/06,2006-04-09
+Arsenal,Aston Villa,5,0,Arsenal,Aston Villa,"Highbury, London",1,2005/06,2006-04-01
+Aston Villa,Fulham,0,0,draw,draw,"Villa Park, Birmingham",1,2005/06,2006-03-25
+Everton,Aston Villa,4,1,Everton,Aston Villa,"Goodison Park, Liverpool",1,2005/06,2006-03-18
+Blackburn,Aston Villa,2,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,2005/06,2006-03-11
+Aston Villa,Portsmouth,1,0,Aston Villa,Portsmouth,"Villa Park, Birmingham",1,2005/06,2006-03-04
+Charlton,Aston Villa,0,0,draw,draw,"The Valley, London",1,2005/06,2006-02-25
+Aston Villa,Newcastle,1,2,Newcastle,Aston Villa,"Villa Park, Birmingham",1,2005/06,2006-02-11
+Middlesbrough,Aston Villa,0,4,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2005/06,2006-02-04
+Aston Villa,Chelsea,1,1,draw,draw,"Villa Park, Birmingham",1,2005/06,2006-02-01
+Spurs,Aston Villa,0,0,draw,draw,"White Hart Lane, London",1,2005/06,2006-01-21
+Aston Villa,West Ham,1,2,West Ham,Aston Villa,"Villa Park, Birmingham",1,2005/06,2006-01-14
+West Brom,Aston Villa,1,2,Aston Villa,West Brom,"The Hawthorns, West Bromwich",1,2005/06,2006-01-02
+Aston Villa,Arsenal,0,0,draw,draw,"Villa Park, Birmingham",1,2005/06,2005-12-31
+Fulham,Aston Villa,3,3,draw,draw,"Craven Cottage, London",1,2005/06,2005-12-28
+Aston Villa,Everton,4,0,Aston Villa,Everton,"Villa Park, Birmingham",1,2005/06,2005-12-26
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2005/06,2005-12-17
+Bolton,Aston Villa,1,1,draw,draw,"Macron Stadium, Bolton",1,2005/06,2005-12-10
+Newcastle,Aston Villa,1,1,draw,draw,"Sports Direct Arena, Newcastle",1,2005/06,2005-12-03
+Aston Villa,Charlton,1,0,Aston Villa,Charlton,"Villa Park, Birmingham",1,2005/06,2005-11-26
+Sunderland,Aston Villa,1,3,Aston Villa,Sunderland,"Stadium of Light, Sunderland",1,2005/06,2005-11-19
+Aston Villa,Liverpool,0,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2005/06,2005-11-05
+Man City,Aston Villa,3,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2005/06,2005-10-31
+Aston Villa,Wigan,0,2,Wigan,Aston Villa,"Villa Park, Birmingham",1,2005/06,2005-10-22
+Birmingham,Aston Villa,0,1,Aston Villa,Birmingham,"St Andrews, Birmingham",1,2005/06,2005-10-16
+Aston Villa,Middlesbrough,2,3,Middlesbrough,Aston Villa,"Villa Park, Birmingham",1,2005/06,2005-10-02
+Chelsea,Aston Villa,2,1,Chelsea,Aston Villa,"Stamford Bridge, London",1,2005/06,2005-09-24
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,2005/06,2005-09-17
+West Ham,Aston Villa,4,0,West Ham,Aston Villa,"Boleyn Ground, London",1,2005/06,2005-09-12
+Aston Villa,Blackburn,1,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2005/06,2005-08-27
+Portsmouth,Aston Villa,1,1,draw,draw,"Fratton Park, Portsmouth",1,2005/06,2005-08-23
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2005/06,2005-08-20
+Aston Villa,Bolton,2,2,draw,draw,"Villa Park, Birmingham",1,2005/06,2005-08-13
+Liverpool,Aston Villa,2,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,2004/05,2005-05-15
+Aston Villa,Man City,1,2,Man City,Aston Villa,"Villa Park, Birmingham",1,2004/05,2005-05-07
+Spurs,Aston Villa,5,1,Spurs,Aston Villa,"White Hart Lane, London",1,2004/05,2005-05-01
+Aston Villa,Bolton,1,1,draw,draw,"Villa Park, Birmingham",1,2004/05,2005-04-23
+Aston Villa,Charlton,0,0,draw,draw,"Villa Park, Birmingham",1,2004/05,2005-04-20
+Southampton,Aston Villa,2,3,Aston Villa,Southampton,"The Friends Provident St Mary's Stadium, Southampton",1,2004/05,2005-04-16
+Aston Villa,West Brom,1,1,draw,draw,"Villa Park, Birmingham",1,2004/05,2005-04-10
+Newcastle,Aston Villa,0,3,Aston Villa,Newcastle,"Sports Direct Arena, Newcastle",1,2004/05,2005-04-02
+Birmingham,Aston Villa,2,0,Birmingham,Aston Villa,"St Andrews, Birmingham",1,2004/05,2005-03-20
+Aston Villa,Middlesbrough,2,0,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,2004/05,2005-03-05
+Aston Villa,Everton,1,3,Everton,Aston Villa,"Villa Park, Birmingham",1,2004/05,2005-02-26
+Portsmouth,Aston Villa,1,2,Aston Villa,Portsmouth,"Fratton Park, Portsmouth",1,2004/05,2005-02-12
+Aston Villa,Arsenal,1,3,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2004/05,2005-02-05
+Fulham,Aston Villa,1,1,draw,draw,"Craven Cottage, London",1,2004/05,2005-02-02
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2004/05,2005-01-22
+Aston Villa,Norwich,3,0,Aston Villa,Norwich,"Villa Park, Birmingham",1,2004/05,2005-01-15
+Crystal Palace,Aston Villa,2,0,Crystal Palace,Aston Villa,"Selhurst Park, London",1,2004/05,2005-01-03
+Aston Villa,Blackburn,1,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2004/05,2005-01-01
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2004/05,2004-12-28
+Chelsea,Aston Villa,1,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2004/05,2004-12-26
+Middlesbrough,Aston Villa,3,0,Middlesbrough,Aston Villa,"Riverside Stadium, Middlesbrough",1,2004/05,2004-12-18
+Aston Villa,Birmingham,1,2,Birmingham,Aston Villa,"Villa Park, Birmingham",1,2004/05,2004-12-12
+Aston Villa,Liverpool,1,1,draw,draw,"Villa Park, Birmingham",1,2004/05,2004-12-04
+Man City,Aston Villa,2,0,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2004/05,2004-11-27
+Aston Villa,Spurs,1,0,Aston Villa,Spurs,"Villa Park, Birmingham",1,2004/05,2004-11-22
+Bolton,Aston Villa,1,2,Aston Villa,Bolton,"Macron Stadium, Bolton",1,2004/05,2004-11-13
+Aston Villa,Portsmouth,3,0,Aston Villa,Portsmouth,"Villa Park, Birmingham",1,2004/05,2004-11-06
+Everton,Aston Villa,1,1,draw,draw,"Goodison Park, Liverpool",1,2004/05,2004-10-30
+Aston Villa,Fulham,2,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2004/05,2004-10-23
+Arsenal,Aston Villa,3,1,Arsenal,Aston Villa,"Highbury, London",1,2004/05,2004-10-16
+Blackburn,Aston Villa,2,2,draw,draw,"Ewood Park, Blackburn",1,2004/05,2004-10-02
+Aston Villa,Crystal Palace,1,1,draw,draw,"Villa Park, Birmingham",1,2004/05,2004-09-25
+Norwich,Aston Villa,0,0,draw,draw,"Carrow Road, Norwich",1,2004/05,2004-09-18
+Aston Villa,Chelsea,0,0,draw,draw,"Villa Park, Birmingham",1,2004/05,2004-09-11
+Aston Villa,Newcastle,4,2,Aston Villa,Newcastle,"Villa Park, Birmingham",1,2004/05,2004-08-28
+Charlton,Aston Villa,3,0,Charlton,Aston Villa,"The Valley, London",1,2004/05,2004-08-25
+West Brom,Aston Villa,1,1,draw,draw,"The Hawthorns, West Bromwich",1,2004/05,2004-08-22
+Aston Villa,Southampton,2,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,2004/05,2004-08-14
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2003/04,2004-05-15
+Southampton,Aston Villa,1,1,draw,draw,"The Friends Provident St Mary's Stadium, Southampton",1,2003/04,2004-05-08
+Aston Villa,Spurs,1,0,Aston Villa,Spurs,"Villa Park, Birmingham",1,2003/04,2004-05-02
+Middlesbrough,Aston Villa,1,2,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2003/04,2004-04-24
+Aston Villa,Newcastle,0,0,draw,draw,"Villa Park, Birmingham",1,2003/04,2004-04-18
+Aston Villa,Chelsea,3,2,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2003/04,2004-04-12
+Bolton,Aston Villa,2,2,draw,draw,"Macron Stadium, Bolton",1,2003/04,2004-04-10
+Aston Villa,Man City,1,1,draw,draw,"Villa Park, Birmingham",1,2003/04,2004-04-04
+Charlton,Aston Villa,1,2,Aston Villa,Charlton,"The Valley, London",1,2003/04,2004-03-27
+Aston Villa,Blackburn,0,2,Blackburn,Aston Villa,"Villa Park, Birmingham",1,2003/04,2004-03-20
+Wolves,Aston Villa,0,4,Aston Villa,Wolves,"Molineux, Wolverhampton",1,2003/04,2004-03-14
+Everton,Aston Villa,2,0,Everton,Aston Villa,"Goodison Park, Liverpool",1,2003/04,2004-02-28
+Aston Villa,Birmingham,2,2,draw,draw,"Villa Park, Birmingham",1,2003/04,2004-02-22
+Fulham,Aston Villa,1,2,Aston Villa,Fulham,"Loftus Road, London",1,2003/04,2004-02-11
+Aston Villa,Leeds,2,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,2003/04,2004-02-07
+Leicester,Aston Villa,0,5,Aston Villa,Leicester,"King Power Stadium, Leicester",1,2003/04,2004-01-31
+Aston Villa,Arsenal,0,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2003/04,2004-01-18
+Liverpool,Aston Villa,1,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,2003/04,2004-01-10
+Aston Villa,Portsmouth,2,1,Aston Villa,Portsmouth,"Villa Park, Birmingham",1,2003/04,2004-01-06
+Aston Villa,Fulham,3,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2003/04,2003-12-28
+Leeds,Aston Villa,0,0,draw,draw,"Elland Road, Leeds",1,2003/04,2003-12-26
+Blackburn,Aston Villa,0,2,Aston Villa,Blackburn,"Ewood Park, Blackburn",1,2003/04,2003-12-20
+Aston Villa,Wolves,3,2,Aston Villa,Wolves,"Villa Park, Birmingham",1,2003/04,2003-12-14
+Man Utd,Aston Villa,4,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2003/04,2003-12-06
+Aston Villa,Southampton,1,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,2003/04,2003-11-29
+Spurs,Aston Villa,2,1,Spurs,Aston Villa,"White Hart Lane, London",1,2003/04,2003-11-23
+Aston Villa,Middlesbrough,0,2,Middlesbrough,Aston Villa,"Villa Park, Birmingham",1,2003/04,2003-11-08
+Newcastle,Aston Villa,1,1,draw,draw,"Sports Direct Arena, Newcastle",1,2003/04,2003-11-01
+Aston Villa,Everton,0,0,draw,draw,"Villa Park, Birmingham",1,2003/04,2003-10-25
+Birmingham,Aston Villa,0,0,draw,draw,"St Andrews, Birmingham",1,2003/04,2003-10-19
+Aston Villa,Bolton,1,1,draw,draw,"Villa Park, Birmingham",1,2003/04,2003-10-05
+Chelsea,Aston Villa,1,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2003/04,2003-09-27
+Aston Villa,Charlton,2,1,Aston Villa,Charlton,"Villa Park, Birmingham",1,2003/04,2003-09-20
+Man City,Aston Villa,4,1,Man City,Aston Villa,"Etihad Stadium, Manchester",1,2003/04,2003-09-14
+Aston Villa,Leicester,3,1,Aston Villa,Leicester,"Villa Park, Birmingham",1,2003/04,2003-08-30
+Arsenal,Aston Villa,2,0,Arsenal,Aston Villa,"Highbury, London",1,2003/04,2003-08-27
+Aston Villa,Liverpool,0,0,draw,draw,"Villa Park, Birmingham",1,2003/04,2003-08-24
+Portsmouth,Aston Villa,2,1,Portsmouth,Aston Villa,"Fratton Park, Portsmouth",1,2003/04,2003-08-16
+Leeds,Aston Villa,3,1,Leeds,Aston Villa,"Elland Road, Leeds",1,2002/03,2003-05-11
+Aston Villa,Sunderland,1,0,Aston Villa,Sunderland,"Villa Park, Birmingham",1,2002/03,2003-05-03
+Everton,Aston Villa,2,1,Everton,Aston Villa,"Goodison Park, Liverpool",1,2002/03,2003-04-26
+Newcastle,Aston Villa,1,1,draw,draw,"St. James' Park, Newcastle",1,2002/03,2003-04-21
+Aston Villa,Chelsea,2,1,Aston Villa,Chelsea,"Villa Park, Birmingham",1,2002/03,2003-04-19
+West Ham,Aston Villa,2,2,draw,draw,"Boleyn Ground, London",1,2002/03,2003-04-12
+Aston Villa,Arsenal,1,1,draw,draw,"Villa Park, Birmingham",1,2002/03,2003-04-05
+Southampton,Aston Villa,2,2,draw,draw,"St. Mary's Stadium, Southampton",1,2002/03,2003-03-22
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2002/03,2003-03-15
+Aston Villa,Birmingham,0,2,Birmingham,Aston Villa,"Villa Park, Birmingham",1,2002/03,2003-03-03
+Charlton,Aston Villa,3,0,Charlton,Aston Villa,"The Valley, London",1,2002/03,2003-02-22
+Fulham,Aston Villa,2,1,Fulham,Aston Villa,"Loftus Road, London",1,2002/03,2003-02-08
+Aston Villa,Blackburn,3,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2002/03,2003-02-02
+Middlesbrough,Aston Villa,2,5,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,2002/03,2003-01-28
+Aston Villa,Spurs,0,1,Spurs,Aston Villa,"Villa Park, Birmingham",1,2002/03,2003-01-18
+Liverpool,Aston Villa,1,1,draw,draw,"Anfield, Liverpool",1,2002/03,2003-01-11
+Aston Villa,Bolton,2,0,Aston Villa,Bolton,"Villa Park, Birmingham",1,2002/03,2003-01-01
+Aston Villa,Middlesbrough,1,0,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,2002/03,2002-12-28
+Man City,Aston Villa,3,1,Man City,Aston Villa,"Maine Road, Manchester",1,2002/03,2002-12-26
+Chelsea,Aston Villa,2,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2002/03,2002-12-21
+Aston Villa,West Brom,2,1,Aston Villa,West Brom,"Villa Park, Birmingham",1,2002/03,2002-12-14
+Aston Villa,Newcastle,0,1,Newcastle,Aston Villa,"Villa Park, Birmingham",1,2002/03,2002-12-07
+Arsenal,Aston Villa,3,1,Arsenal,Aston Villa,"Highbury, London",1,2002/03,2002-11-30
+Aston Villa,West Ham,4,1,Aston Villa,West Ham,"Villa Park, Birmingham",1,2002/03,2002-11-23
+West Brom,Aston Villa,0,0,draw,draw,"The Hawthorns, West Bromwich",1,2002/03,2002-11-16
+Aston Villa,Fulham,3,1,Aston Villa,Fulham,"Villa Park, Birmingham",1,2002/03,2002-11-09
+Blackburn,Aston Villa,0,0,draw,draw,"Ewood Park, Blackburn",1,2002/03,2002-11-03
+Man Utd,Aston Villa,1,1,draw,draw,"Old Trafford, Manchester",1,2002/03,2002-10-26
+Aston Villa,Southampton,0,1,Southampton,Aston Villa,"Villa Park, Birmingham",1,2002/03,2002-10-21
+Aston Villa,Leeds,0,0,draw,draw,"Villa Park, Birmingham",1,2002/03,2002-10-06
+Sunderland,Aston Villa,1,0,Sunderland,Aston Villa,"Stadium of Light, Sunderland",1,2002/03,2002-09-28
+Aston Villa,Everton,3,2,Aston Villa,Everton,"Villa Park, Birmingham",1,2002/03,2002-09-22
+Birmingham,Aston Villa,3,0,Birmingham,Aston Villa,"St. Andrew's Stadium, Birmingham",1,2002/03,2002-09-16
+Aston Villa,Charlton,2,0,Aston Villa,Charlton,"Villa Park, Birmingham",1,2002/03,2002-09-11
+Bolton,Aston Villa,1,0,Bolton,Aston Villa,"Macron Stadium, Bolton",1,2002/03,2002-09-01
+Aston Villa,Man City,1,0,Aston Villa,Man City,"Villa Park, Birmingham",1,2002/03,2002-08-28
+Spurs,Aston Villa,1,0,Spurs,Aston Villa,"White Hart Lane, London",1,2002/03,2002-08-24
+Aston Villa,Liverpool,0,1,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2002/03,2002-08-18
+Chelsea,Aston Villa,1,3,Aston Villa,Chelsea,"Stamford Bridge, London",1,2001/02,2002-05-11
+Aston Villa,Southampton,2,1,Aston Villa,Southampton,"Villa Park, Birmingham",1,2001/02,2002-04-27
+Leicester,Aston Villa,2,2,draw,draw,"Filbert Street, Leicester",1,2001/02,2002-04-20
+Aston Villa,Leeds,0,1,Leeds,Aston Villa,"Villa Park, Birmingham",1,2001/02,2002-04-13
+Middlesbrough,Aston Villa,2,1,Middlesbrough,Aston Villa,"Riverside Stadium, Middlesbrough",1,2001/02,2002-04-06
+Aston Villa,Newcastle,1,1,draw,draw,"Villa Park, Birmingham",1,2001/02,2002-04-02
+Bolton,Aston Villa,3,2,Bolton,Aston Villa,"Macron Stadium, Bolton",1,2001/02,2002-03-30
+Ipswich,Aston Villa,0,0,draw,draw,"Portman Road, Ipswich",1,2001/02,2002-03-23
+Aston Villa,Arsenal,1,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,2001/02,2002-03-17
+Blackburn,Aston Villa,3,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,2001/02,2002-03-05
+Aston Villa,West Ham,2,1,Aston Villa,West Ham,"Villa Park, Birmingham",1,2001/02,2002-03-02
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2001/02,2002-02-23
+Aston Villa,Chelsea,1,1,draw,draw,"Villa Park, Birmingham",1,2001/02,2002-02-09
+Fulham,Aston Villa,0,0,draw,draw,"Craven Cottage, London",1,2001/02,2002-02-02
+Aston Villa,Everton,0,0,draw,draw,"Villa Park, Birmingham",1,2001/02,2002-01-30
+Charlton,Aston Villa,1,2,Aston Villa,Charlton,"The Valley, London",1,2001/02,2002-01-21
+Aston Villa,Derby,2,1,Aston Villa,Derby,"Villa Park, Birmingham",1,2001/02,2002-01-12
+Sunderland,Aston Villa,1,1,draw,draw,"Stadium of Light, Sunderland",1,2001/02,2002-01-01
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,2001/02,2001-12-29
+Aston Villa,Liverpool,1,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2001/02,2001-12-26
+Derby,Aston Villa,3,1,Derby,Aston Villa,"Pride Park, Derby",1,2001/02,2001-12-22
+Aston Villa,Ipswich,2,1,Aston Villa,Ipswich,"Villa Park, Birmingham",1,2001/02,2001-12-17
+Arsenal,Aston Villa,3,2,Arsenal,Aston Villa,"Highbury, London",1,2001/02,2001-12-09
+West Ham,Aston Villa,1,1,draw,draw,"Boleyn Ground, London",1,2001/02,2001-12-05
+Aston Villa,Leicester,0,2,Leicester,Aston Villa,"Villa Park, Birmingham",1,2001/02,2001-12-01
+Leeds,Aston Villa,1,1,draw,draw,"Elland Road, Leeds",1,2001/02,2001-11-25
+Aston Villa,Middlesbrough,0,0,draw,draw,"Villa Park, Birmingham",1,2001/02,2001-11-17
+Newcastle,Aston Villa,3,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2001/02,2001-11-03
+Aston Villa,Bolton,3,2,Aston Villa,Bolton,"Villa Park, Birmingham",1,2001/02,2001-10-27
+Aston Villa,Charlton,1,0,Aston Villa,Charlton,"Villa Park, Birmingham",1,2001/02,2001-10-24
+Everton,Aston Villa,3,2,Everton,Aston Villa,"Goodison Park, Liverpool",1,2001/02,2001-10-20
+Aston Villa,Fulham,2,0,Aston Villa,Fulham,"Villa Park, Birmingham",1,2001/02,2001-10-14
+Aston Villa,Blackburn,2,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,2001/02,2001-09-30
+Southampton,Aston Villa,1,3,Aston Villa,Southampton,"St. Mary's Stadium, Southampton",1,2001/02,2001-09-24
+Aston Villa,Sunderland,0,0,draw,draw,"Villa Park, Birmingham",1,2001/02,2001-09-16
+Liverpool,Aston Villa,1,3,Aston Villa,Liverpool,"Anfield, Liverpool",1,2001/02,2001-09-08
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,2001/02,2001-08-26
+Spurs,Aston Villa,0,0,draw,draw,"White Hart Lane, London",1,2001/02,2001-08-18
+Newcastle,Aston Villa,3,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,2000/01,2001-05-19
+Aston Villa,Coventry,3,2,Aston Villa,Coventry,"Villa Park, Birmingham",1,2000/01,2001-05-05
+Spurs,Aston Villa,0,0,draw,draw,"White Hart Lane, London",1,2000/01,2001-04-28
+Aston Villa,Southampton,0,0,draw,draw,"Villa Park, Birmingham",1,2000/01,2001-04-21
+Charlton,Aston Villa,3,3,draw,draw,"The Valley, London",1,2000/01,2001-04-17
+Aston Villa,Everton,2,1,Aston Villa,Everton,"Villa Park, Birmingham",1,2000/01,2001-04-14
+Aston Villa,West Ham,2,2,draw,draw,"Villa Park, Birmingham",1,2000/01,2001-04-07
+Aston Villa,Leicester,2,1,Aston Villa,Leicester,"Villa Park, Birmingham",1,2000/01,2001-04-04
+Man City,Aston Villa,1,3,Aston Villa,Man City,"Maine Road, Manchester",1,2000/01,2001-03-31
+Aston Villa,Arsenal,0,0,draw,draw,"Villa Park, Birmingham",1,2000/01,2001-03-18
+Aston Villa,Ipswich,2,1,Aston Villa,Ipswich,"Villa Park, Birmingham",1,2000/01,2001-03-10
+Sunderland,Aston Villa,1,1,draw,draw,"Stadium of Light, Sunderland",1,2000/01,2001-03-05
+Derby,Aston Villa,1,0,Derby,Aston Villa,"Pride Park, Derby",1,2000/01,2001-02-24
+Aston Villa,Middlesbrough,1,1,draw,draw,"Villa Park, Birmingham",1,2000/01,2001-02-10
+Bradford,Aston Villa,0,3,Aston Villa,Bradford,"Valley Parade, Bradford",1,2000/01,2001-02-03
+Aston Villa,Leeds,1,2,Leeds,Aston Villa,"Villa Park, Birmingham",1,2000/01,2001-01-24
+Man Utd,Aston Villa,2,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,2000/01,2001-01-20
+Aston Villa,Liverpool,0,3,Liverpool,Aston Villa,"Villa Park, Birmingham",1,2000/01,2001-01-13
+Chelsea,Aston Villa,1,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,2000/01,2001-01-01
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,2000/01,2000-12-26
+Leeds,Aston Villa,1,2,Aston Villa,Leeds,"Elland Road, Leeds",1,2000/01,2000-12-23
+Aston Villa,Man City,2,2,draw,draw,"Villa Park, Birmingham",1,2000/01,2000-12-16
+West Ham,Aston Villa,1,1,draw,draw,"Boleyn Ground, London",1,2000/01,2000-12-09
+Aston Villa,Newcastle,1,1,draw,draw,"Villa Park, Birmingham",1,2000/01,2000-12-02
+Coventry,Aston Villa,1,1,draw,draw,"Highfield Road, Coventry",1,2000/01,2000-11-25
+Southampton,Aston Villa,2,0,Southampton,Aston Villa,"The Dell, Southampton",1,2000/01,2000-11-18
+Aston Villa,Spurs,2,0,Aston Villa,Spurs,"Villa Park, Birmingham",1,2000/01,2000-11-11
+Everton,Aston Villa,0,1,Aston Villa,Everton,"Goodison Park, Liverpool",1,2000/01,2000-11-05
+Aston Villa,Charlton,2,1,Aston Villa,Charlton,"Villa Park, Birmingham",1,2000/01,2000-10-28
+Aston Villa,Sunderland,0,0,draw,draw,"Villa Park, Birmingham",1,2000/01,2000-10-22
+Arsenal,Aston Villa,1,0,Arsenal,Aston Villa,"Highbury, London",1,2000/01,2000-10-14
+Aston Villa,Derby,4,1,Aston Villa,Derby,"Villa Park, Birmingham",1,2000/01,2000-09-30
+Middlesbrough,Aston Villa,1,1,draw,draw,"Riverside Stadium, Middlesbrough",1,2000/01,2000-09-23
+Aston Villa,Bradford,2,0,Aston Villa,Bradford,"Villa Park, Birmingham",1,2000/01,2000-09-16
+Ipswich,Aston Villa,1,2,Aston Villa,Ipswich,"Portman Road, Ipswich",1,2000/01,2000-09-09
+Liverpool,Aston Villa,3,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,2000/01,2000-09-06
+Aston Villa,Chelsea,1,1,draw,draw,"Villa Park, Birmingham",1,2000/01,2000-08-27
+Leicester,Aston Villa,0,0,draw,draw,"Filbert Street, Leicester",1,2000/01,2000-08-19
+Aston Villa,Man Utd,0,1,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1999/00,2000-05-14
+Wimbledon,Aston Villa,2,2,draw,draw,"Selhurst Park, London",1,1999/00,2000-05-06
+Aston Villa,Sunderland,1,1,draw,draw,"Villa Park, Birmingham",1,1999/00,2000-04-29
+Aston Villa,Leicester,2,2,draw,draw,"Villa Park, Birmingham",1,1999/00,2000-04-22
+Spurs,Aston Villa,2,4,Aston Villa,Spurs,"White Hart Lane, London",1,1999/00,2000-04-15
+Aston Villa,Leeds,1,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,1999/00,2000-04-09
+Sheffield Wed,Aston Villa,0,1,Aston Villa,Sheffield Wed,"Hillsborough, Sheffield",1,1999/00,2000-04-05
+Aston Villa,Derby,2,0,Aston Villa,Derby,"Villa Park, Birmingham",1,1999/00,2000-03-25
+Southampton,Aston Villa,2,0,Southampton,Aston Villa,"The Dell, Southampton",1,1999/00,2000-03-18
+Liverpool,Aston Villa,0,0,draw,draw,"Anfield, Liverpool",1,1999/00,2000-03-15
+Aston Villa,Coventry,1,0,Aston Villa,Coventry,"Villa Park, Birmingham",1,1999/00,2000-03-11
+Aston Villa,Arsenal,1,1,draw,draw,"Villa Park, Birmingham",1,1999/00,2000-03-05
+Bradford,Aston Villa,1,1,draw,draw,"Valley Parade, Bradford",1,1999/00,2000-02-26
+Middlesbrough,Aston Villa,0,4,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,1999/00,2000-02-14
+Aston Villa,Watford,4,0,Aston Villa,Watford,"Villa Park, Birmingham",1,1999/00,2000-02-05
+Aston Villa,Chelsea,0,0,draw,draw,"Villa Park, Birmingham",1,1999/00,2000-01-22
+West Ham,Aston Villa,1,1,draw,draw,"Boleyn Ground, London",1,1999/00,2000-01-15
+Leeds,Aston Villa,1,2,Aston Villa,Leeds,"Elland Road, Leeds",1,1999/00,2000-01-03
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,1999/00,1999-12-29
+Derby,Aston Villa,0,2,Aston Villa,Derby,"Pride Park, Derby",1,1999/00,1999-12-26
+Aston Villa,Sheffield Wed,2,1,Aston Villa,Sheffield Wed,"Villa Park, Birmingham",1,1999/00,1999-12-18
+Aston Villa,Newcastle,0,1,Newcastle,Aston Villa,"Villa Park, Birmingham",1,1999/00,1999-12-04
+Everton,Aston Villa,0,0,draw,draw,"Goodison Park, Liverpool",1,1999/00,1999-11-27
+Coventry,Aston Villa,2,1,Coventry,Aston Villa,"Highfield Road, Coventry",1,1999/00,1999-11-22
+Aston Villa,Southampton,0,1,Southampton,Aston Villa,"Villa Park, Birmingham",1,1999/00,1999-11-06
+Man Utd,Aston Villa,3,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1999/00,1999-10-30
+Aston Villa,Wimbledon,1,1,draw,draw,"Villa Park, Birmingham",1,1999/00,1999-10-23
+Sunderland,Aston Villa,2,1,Sunderland,Aston Villa,"Stadium of Light, Sunderland",1,1999/00,1999-10-18
+Aston Villa,Liverpool,0,0,draw,draw,"Villa Park, Birmingham",1,1999/00,1999-10-02
+Leicester,Aston Villa,3,1,Leicester,Aston Villa,"Filbert Street, Leicester",1,1999/00,1999-09-25
+Aston Villa,Bradford,1,0,Aston Villa,Bradford,"Villa Park, Birmingham",1,1999/00,1999-09-18
+Arsenal,Aston Villa,3,1,Arsenal,Aston Villa,"Highbury, London",1,1999/00,1999-09-11
+Aston Villa,Middlesbrough,1,0,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,1999/00,1999-08-28
+Watford,Aston Villa,0,1,Aston Villa,Watford,"Vicarage Road, Watford",1,1999/00,1999-08-24
+Chelsea,Aston Villa,1,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,1999/00,1999-08-21
+Aston Villa,West Ham,2,2,draw,draw,"Villa Park, Birmingham",1,1999/00,1999-08-16
+Aston Villa,Everton,3,0,Aston Villa,Everton,"Villa Park, Birmingham",1,1999/00,1999-08-11
+Newcastle,Aston Villa,0,1,Aston Villa,Newcastle,"St. James' Park, Newcastle",1,1999/00,1999-08-07
+Arsenal,Aston Villa,1,0,Arsenal,Aston Villa,"Highbury, London",1,1998/99,1999-05-16
+Aston Villa,Charlton,3,4,Charlton,Aston Villa,"Villa Park, Birmingham",1,1998/99,1999-05-08
+Man Utd,Aston Villa,2,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1998/99,1999-05-01
+Aston Villa,Nott'm Forest,2,0,Aston Villa,Nott'm Forest,"Villa Park, Birmingham",1,1998/99,1999-04-24
+Liverpool,Aston Villa,0,1,Aston Villa,Liverpool,"Anfield, Liverpool",1,1998/99,1999-04-17
+Aston Villa,Southampton,3,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,1998/99,1999-04-10
+Leicester,Aston Villa,2,2,draw,draw,"Filbert Street, Leicester",1,1998/99,1999-04-06
+Aston Villa,West Ham,0,0,draw,draw,"Villa Park, Birmingham",1,1998/99,1999-04-02
+Aston Villa,Chelsea,0,3,Chelsea,Aston Villa,"Villa Park, Birmingham",1,1998/99,1999-03-21
+Spurs,Aston Villa,1,0,Spurs,Aston Villa,"White Hart Lane, London",1,1998/99,1999-03-13
+Derby,Aston Villa,2,1,Derby,Aston Villa,"Pride Park, Derby",1,1998/99,1999-03-10
+Aston Villa,Coventry,1,4,Coventry,Aston Villa,"Villa Park, Birmingham",1,1998/99,1999-02-27
+Wimbledon,Aston Villa,0,0,draw,draw,"Selhurst Park, London",1,1998/99,1999-02-21
+Aston Villa,Leeds,1,2,Leeds,Aston Villa,"Villa Park, Birmingham",1,1998/99,1999-02-17
+Aston Villa,Blackburn,1,3,Blackburn,Aston Villa,"Villa Park, Birmingham",1,1998/99,1999-02-06
+Newcastle,Aston Villa,2,1,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1998/99,1999-01-30
+Aston Villa,Everton,3,0,Aston Villa,Everton,"Villa Park, Birmingham",1,1998/99,1999-01-18
+Middlesbrough,Aston Villa,0,0,draw,draw,"Riverside Stadium, Middlesbrough",1,1998/99,1999-01-09
+Aston Villa,Sheffield Wed,2,1,Aston Villa,Sheffield Wed,"Villa Park, Birmingham",1,1998/99,1998-12-28
+Blackburn,Aston Villa,2,1,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,1998/99,1998-12-26
+Charlton,Aston Villa,0,1,Aston Villa,Charlton,"The Valley, London",1,1998/99,1998-12-21
+Aston Villa,Arsenal,3,2,Aston Villa,Arsenal,"Villa Park, Birmingham",1,1998/99,1998-12-13
+Chelsea,Aston Villa,2,1,Chelsea,Aston Villa,"Stamford Bridge, London",1,1998/99,1998-12-09
+Aston Villa,Man Utd,1,1,draw,draw,"Villa Park, Birmingham",1,1998/99,1998-12-05
+Nott'm Forest,Aston Villa,2,2,draw,draw,"City Ground, Nottingham",1,1998/99,1998-11-28
+Aston Villa,Liverpool,2,4,Liverpool,Aston Villa,"Villa Park, Birmingham",1,1998/99,1998-11-21
+Southampton,Aston Villa,1,4,Aston Villa,Southampton,"The Dell, Southampton",1,1998/99,1998-11-14
+Aston Villa,Spurs,3,2,Aston Villa,Spurs,"Villa Park, Birmingham",1,1998/99,1998-11-07
+Aston Villa,Leicester,1,1,draw,draw,"Villa Park, Birmingham",1,1998/99,1998-10-24
+West Ham,Aston Villa,0,0,draw,draw,"Boleyn Ground, London",1,1998/99,1998-10-17
+Coventry,Aston Villa,1,2,Aston Villa,Coventry,"Highfield Road, Coventry",1,1998/99,1998-10-03
+Aston Villa,Derby,1,0,Aston Villa,Derby,"Villa Park, Birmingham",1,1998/99,1998-09-26
+Leeds,Aston Villa,0,0,draw,draw,"Elland Road, Leeds",1,1998/99,1998-09-19
+Aston Villa,Wimbledon,2,0,Aston Villa,Wimbledon,"Villa Park, Birmingham",1,1998/99,1998-09-12
+Aston Villa,Newcastle,1,0,Aston Villa,Newcastle,"Villa Park, Birmingham",1,1998/99,1998-09-09
+Sheffield Wed,Aston Villa,0,1,Aston Villa,Sheffield Wed,"Hillsborough, Sheffield",1,1998/99,1998-08-29
+Aston Villa,Middlesbrough,3,1,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,1998/99,1998-08-23
+Everton,Aston Villa,0,0,draw,draw,"Goodison Park, Liverpool",1,1998/99,1998-08-15
+Aston Villa,Arsenal,1,0,Aston Villa,Arsenal,"Villa Park, Birmingham",1,1997/98,1998-05-10
+Sheffield Wed,Aston Villa,1,3,Aston Villa,Sheffield Wed,"Hillsborough, Sheffield",1,1997/98,1998-05-02
+Aston Villa,Bolton,1,3,Bolton,Aston Villa,"Villa Park, Birmingham",1,1997/98,1998-04-25
+Southampton,Aston Villa,1,2,Aston Villa,Southampton,"The Dell, Southampton",1,1997/98,1998-04-18
+Coventry,Aston Villa,1,2,Aston Villa,Coventry,"Highfield Road, Coventry",1,1997/98,1998-04-11
+Aston Villa,West Ham,2,0,Aston Villa,West Ham,"Villa Park, Birmingham",1,1997/98,1998-04-04
+Everton,Aston Villa,1,4,Aston Villa,Everton,"Goodison Park, Liverpool",1,1997/98,1998-03-28
+Aston Villa,Crystal Palace,3,1,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,1997/98,1998-03-14
+Aston Villa,Barnsley,0,1,Barnsley,Aston Villa,"Villa Park, Birmingham",1,1997/98,1998-03-11
+Chelsea,Aston Villa,0,1,Aston Villa,Chelsea,"Stamford Bridge, London",1,1997/98,1998-03-08
+Aston Villa,Liverpool,2,1,Aston Villa,Liverpool,"Villa Park, Birmingham",1,1997/98,1998-02-28
+Wimbledon,Aston Villa,2,1,Wimbledon,Aston Villa,"Selhurst Park, London",1,1997/98,1998-02-21
+Aston Villa,Man Utd,0,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1997/98,1998-02-18
+Derby,Aston Villa,0,1,Aston Villa,Derby,"Pride Park, Derby",1,1997/98,1998-02-07
+Aston Villa,Newcastle,0,1,Newcastle,Aston Villa,"Villa Park, Birmingham",1,1997/98,1998-02-01
+Blackburn,Aston Villa,5,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,1997/98,1998-01-17
+Aston Villa,Leicester,1,1,draw,draw,"Villa Park, Birmingham",1,1997/98,1998-01-10
+Leeds,Aston Villa,1,1,draw,draw,"Elland Road, Leeds",1,1997/98,1997-12-28
+Aston Villa,Spurs,4,1,Aston Villa,Spurs,"Villa Park, Birmingham",1,1997/98,1997-12-26
+Aston Villa,Southampton,1,1,draw,draw,"Villa Park, Birmingham",1,1997/98,1997-12-20
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1997/98,1997-12-15
+Aston Villa,Coventry,3,0,Aston Villa,Coventry,"Villa Park, Birmingham",1,1997/98,1997-12-06
+West Ham,Aston Villa,2,1,West Ham,Aston Villa,"Boleyn Ground, London",1,1997/98,1997-11-29
+Aston Villa,Everton,2,1,Aston Villa,Everton,"Villa Park, Birmingham",1,1997/98,1997-11-22
+Crystal Palace,Aston Villa,1,1,draw,draw,"Selhurst Park, London",1,1997/98,1997-11-08
+Aston Villa,Chelsea,0,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,1997/98,1997-11-01
+Arsenal,Aston Villa,0,0,draw,draw,"Highbury, London",1,1997/98,1997-10-26
+Aston Villa,Wimbledon,1,2,Wimbledon,Aston Villa,"Villa Park, Birmingham",1,1997/98,1997-10-18
+Bolton,Aston Villa,0,1,Aston Villa,Bolton,"Macron Stadium, Bolton",1,1997/98,1997-10-04
+Aston Villa,Sheffield Wed,2,2,draw,draw,"Villa Park, Birmingham",1,1997/98,1997-09-27
+Liverpool,Aston Villa,3,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,1997/98,1997-09-22
+Aston Villa,Derby,2,1,Aston Villa,Derby,"Villa Park, Birmingham",1,1997/98,1997-09-20
+Barnsley,Aston Villa,0,3,Aston Villa,Barnsley,"Oakwell, Barnsley",1,1997/98,1997-09-13
+Aston Villa,Leeds,1,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,1997/98,1997-08-30
+Spurs,Aston Villa,3,2,Spurs,Aston Villa,"White Hart Lane, London",1,1997/98,1997-08-27
+Newcastle,Aston Villa,1,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1997/98,1997-08-23
+Aston Villa,Blackburn,0,4,Blackburn,Aston Villa,"Villa Park, Birmingham",1,1997/98,1997-08-13
+Leicester,Aston Villa,1,0,Leicester,Aston Villa,"Filbert Street, Leicester",1,1997/98,1997-08-09
+Aston Villa,Southampton,1,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,1996/97,1997-05-11
+Middlesbrough,Aston Villa,3,2,Middlesbrough,Aston Villa,"Riverside Stadium, Middlesbrough",1,1996/97,1997-05-03
+Leeds,Aston Villa,0,0,draw,draw,"Elland Road, Leeds",1,1996/97,1997-04-22
+Aston Villa,Spurs,1,1,draw,draw,"Villa Park, Birmingham",1,1996/97,1997-04-19
+Derby,Aston Villa,2,1,Derby,Aston Villa,"Baseball Ground, Derby",1,1996/97,1997-04-12
+Wimbledon,Aston Villa,0,2,Aston Villa,Wimbledon,"Selhurst Park, London",1,1996/97,1997-04-09
+Aston Villa,Everton,3,1,Aston Villa,Everton,"Villa Park, Birmingham",1,1996/97,1997-04-05
+Blackburn,Aston Villa,0,2,Aston Villa,Blackburn,"Ewood Park, Blackburn",1,1996/97,1997-03-22
+Aston Villa,West Ham,0,0,draw,draw,"Villa Park, Birmingham",1,1996/97,1997-03-15
+Leicester,Aston Villa,1,0,Leicester,Aston Villa,"Filbert Street, Leicester",1,1996/97,1997-03-05
+Aston Villa,Liverpool,1,0,Aston Villa,Liverpool,"Villa Park, Birmingham",1,1996/97,1997-03-02
+Nott'm Forest,Aston Villa,0,0,draw,draw,"City Ground, Nottingham",1,1996/97,1997-02-22
+Aston Villa,Coventry,2,1,Aston Villa,Coventry,"Villa Park, Birmingham",1,1996/97,1997-02-19
+Aston Villa,Sunderland,1,0,Aston Villa,Sunderland,"Villa Park, Birmingham",1,1996/97,1997-02-01
+Aston Villa,Sheffield Wed,0,1,Sheffield Wed,Aston Villa,"Villa Park, Birmingham",1,1996/97,1997-01-29
+Liverpool,Aston Villa,3,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,1996/97,1997-01-18
+Aston Villa,Newcastle,2,2,draw,draw,"Villa Park, Birmingham",1,1996/97,1997-01-11
+Man Utd,Aston Villa,0,0,draw,draw,"Old Trafford, Manchester",1,1996/97,1997-01-01
+Arsenal,Aston Villa,2,2,draw,draw,"Highbury, London",1,1996/97,1996-12-28
+Aston Villa,Chelsea,0,2,Chelsea,Aston Villa,"Villa Park, Birmingham",1,1996/97,1996-12-26
+Aston Villa,Wimbledon,5,0,Aston Villa,Wimbledon,"Villa Park, Birmingham",1,1996/97,1996-12-22
+Southampton,Aston Villa,0,1,Aston Villa,Southampton,"The Dell, Southampton",1,1996/97,1996-12-07
+West Ham,Aston Villa,0,2,Aston Villa,West Ham,"Boleyn Ground, London",1,1996/97,1996-12-04
+Aston Villa,Middlesbrough,1,0,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,1996/97,1996-11-30
+Coventry,Aston Villa,1,2,Aston Villa,Coventry,"Highfield Road, Coventry",1,1996/97,1996-11-23
+Aston Villa,Leicester,1,3,Leicester,Aston Villa,"Villa Park, Birmingham",1,1996/97,1996-11-16
+Aston Villa,Nott'm Forest,2,0,Aston Villa,Nott'm Forest,"Villa Park, Birmingham",1,1996/97,1996-11-02
+Sunderland,Aston Villa,1,0,Sunderland,Aston Villa,"Roker Park, Sunderland",1,1996/97,1996-10-26
+Aston Villa,Leeds,2,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,1996/97,1996-10-19
+Spurs,Aston Villa,1,0,Spurs,Aston Villa,"White Hart Lane, London",1,1996/97,1996-10-12
+Newcastle,Aston Villa,4,3,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1996/97,1996-09-30
+Aston Villa,Man Utd,0,0,draw,draw,"Villa Park, Birmingham",1,1996/97,1996-09-21
+Chelsea,Aston Villa,1,1,draw,draw,"Stamford Bridge, London",1,1996/97,1996-09-15
+Aston Villa,Arsenal,2,2,draw,draw,"Villa Park, Birmingham",1,1996/97,1996-09-07
+Everton,Aston Villa,0,1,Aston Villa,Everton,"Goodison Park, Liverpool",1,1996/97,1996-09-04
+Aston Villa,Derby,2,0,Aston Villa,Derby,"Villa Park, Birmingham",1,1996/97,1996-08-24
+Aston Villa,Blackburn,1,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,1996/97,1996-08-21
+Sheffield Wed,Aston Villa,2,1,Sheffield Wed,Aston Villa,"Hillsborough, Sheffield",1,1996/97,1996-08-17
+Everton,Aston Villa,1,0,Everton,Aston Villa,"Goodison Park, Liverpool",1,1995/96,1996-05-05
+Aston Villa,Man City,0,1,Man City,Aston Villa,"Villa Park, Birmingham",1,1995/96,1996-04-27
+Aston Villa,West Ham,1,1,draw,draw,"Villa Park, Birmingham",1,1995/96,1996-04-17
+Newcastle,Aston Villa,1,0,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1995/96,1996-04-14
+Aston Villa,Southampton,3,0,Aston Villa,Southampton,"Villa Park, Birmingham",1,1995/96,1996-04-08
+Chelsea,Aston Villa,1,2,Aston Villa,Chelsea,"Stamford Bridge, London",1,1995/96,1996-04-06
+Aston Villa,Middlesbrough,0,0,draw,draw,"Villa Park, Birmingham",1,1995/96,1996-03-19
+Sheffield Wed,Aston Villa,2,0,Sheffield Wed,Aston Villa,"Hillsborough, Sheffield",1,1995/96,1996-03-16
+Aston Villa,QPR,4,2,Aston Villa,QPR,"Villa Park, Birmingham",1,1995/96,1996-03-09
+Aston Villa,Sheffield Wed,3,2,Aston Villa,Sheffield Wed,"Villa Park, Birmingham",1,1995/96,1996-03-06
+Liverpool,Aston Villa,3,0,Liverpool,Aston Villa,"Anfield, Liverpool",1,1995/96,1996-03-03
+Aston Villa,Blackburn,2,0,Aston Villa,Blackburn,"Villa Park, Birmingham",1,1995/96,1996-02-28
+Wimbledon,Aston Villa,3,3,draw,draw,"Selhurst Park, London",1,1995/96,1996-02-24
+Bolton,Aston Villa,0,2,Aston Villa,Bolton,"Burnden Park, Bolton",1,1995/96,1996-02-10
+Aston Villa,Leeds,3,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,1995/96,1996-02-03
+Aston Villa,Liverpool,0,2,Liverpool,Aston Villa,"Villa Park, Birmingham",1,1995/96,1996-01-31
+Aston Villa,Spurs,2,1,Aston Villa,Spurs,"Villa Park, Birmingham",1,1995/96,1996-01-21
+Man Utd,Aston Villa,0,0,draw,draw,"Old Trafford, Manchester",1,1995/96,1996-01-13
+Middlesbrough,Aston Villa,0,2,Aston Villa,Middlesbrough,"Riverside Stadium, Middlesbrough",1,1995/96,1996-01-01
+QPR,Aston Villa,1,0,QPR,Aston Villa,"Loftus Road, London",1,1995/96,1995-12-23
+Aston Villa,Coventry,4,1,Aston Villa,Coventry,"Villa Park, Birmingham",1,1995/96,1995-12-16
+Nott'm Forest,Aston Villa,1,1,draw,draw,"City Ground, Nottingham",1,1995/96,1995-12-10
+Aston Villa,Arsenal,1,1,draw,draw,"Villa Park, Birmingham",1,1995/96,1995-12-02
+Man City,Aston Villa,1,0,Man City,Aston Villa,"Maine Road, Manchester",1,1995/96,1995-11-25
+Southampton,Aston Villa,0,1,Aston Villa,Southampton,"The Dell, Southampton",1,1995/96,1995-11-20
+Aston Villa,Newcastle,1,1,draw,draw,"Villa Park, Birmingham",1,1995/96,1995-11-18
+West Ham,Aston Villa,1,4,Aston Villa,West Ham,"Boleyn Ground, London",1,1995/96,1995-11-04
+Aston Villa,Everton,1,0,Aston Villa,Everton,"Villa Park, Birmingham",1,1995/96,1995-10-28
+Arsenal,Aston Villa,2,0,Arsenal,Aston Villa,"Highbury, London",1,1995/96,1995-10-21
+Aston Villa,Chelsea,0,1,Chelsea,Aston Villa,"Villa Park, Birmingham",1,1995/96,1995-10-14
+Coventry,Aston Villa,0,3,Aston Villa,Coventry,"Highfield Road, Coventry",1,1995/96,1995-09-30
+Aston Villa,Nott'm Forest,1,1,draw,draw,"Villa Park, Birmingham",1,1995/96,1995-09-23
+Aston Villa,Wimbledon,2,0,Aston Villa,Wimbledon,"Villa Park, Birmingham",1,1995/96,1995-09-16
+Blackburn,Aston Villa,1,1,draw,draw,"Ewood Park, Blackburn",1,1995/96,1995-09-09
+Aston Villa,Bolton,1,0,Aston Villa,Bolton,"Villa Park, Birmingham",1,1995/96,1995-08-30
+Leeds,Aston Villa,2,0,Leeds,Aston Villa,"Elland Road, Leeds",1,1995/96,1995-08-26
+Spurs,Aston Villa,0,1,Aston Villa,Spurs,"White Hart Lane, London",1,1995/96,1995-08-23
+Aston Villa,Man Utd,3,1,Aston Villa,Man Utd,"Villa Park, Birmingham",1,1995/96,1995-08-19
+Norwich,Aston Villa,1,1,draw,draw,"Carrow Road, Norwich",1,1994/95,1995-05-14
+Aston Villa,Liverpool,2,0,Aston Villa,Liverpool,"Villa Park, Birmingham",1,1994/95,1995-05-06
+Aston Villa,Man City,1,1,draw,draw,"Villa Park, Birmingham",1,1994/95,1995-05-03
+Leeds,Aston Villa,1,0,Leeds,Aston Villa,"Elland Road, Leeds",1,1994/95,1995-04-29
+Aston Villa,Arsenal,0,4,Arsenal,Aston Villa,"Villa Park, Birmingham",1,1994/95,1995-04-17
+Chelsea,Aston Villa,1,0,Chelsea,Aston Villa,"Stamford Bridge, London",1,1994/95,1995-04-15
+Crystal Palace,Aston Villa,0,0,draw,draw,"Selhurst Park, London",1,1994/95,1995-04-04
+Ipswich,Aston Villa,0,1,Aston Villa,Ipswich,"Portman Road, Ipswich",1,1994/95,1995-04-01
+Aston Villa,West Ham,0,2,West Ham,Aston Villa,"Villa Park, Birmingham",1,1994/95,1995-03-18
+Aston Villa,Coventry,0,0,draw,draw,"Villa Park, Birmingham",1,1994/95,1995-03-06
+Aston Villa,Blackburn,0,1,Blackburn,Aston Villa,"Villa Park, Birmingham",1,1994/95,1995-03-04
+Newcastle,Aston Villa,3,1,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1994/95,1995-02-25
+Aston Villa,Leicester,4,4,draw,draw,"Villa Park, Birmingham",1,1994/95,1995-02-22
+Sheffield Wed,Aston Villa,1,2,Aston Villa,Sheffield Wed,"Hillsborough, Sheffield",1,1994/95,1995-02-18
+Aston Villa,Wimbledon,7,1,Aston Villa,Wimbledon,"Villa Park, Birmingham",1,1994/95,1995-02-11
+Man Utd,Aston Villa,1,0,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1994/95,1995-02-04
+Aston Villa,Spurs,1,0,Aston Villa,Spurs,"Villa Park, Birmingham",1,1994/95,1995-01-25
+Nott'm Forest,Aston Villa,1,2,Aston Villa,Nott'm Forest,"City Ground, Nottingham",1,1994/95,1995-01-21
+Aston Villa,QPR,2,1,Aston Villa,QPR,"Villa Park, Birmingham",1,1994/95,1995-01-14
+Aston Villa,Leeds,0,0,draw,draw,"Villa Park, Birmingham",1,1994/95,1995-01-02
+Man City,Aston Villa,2,2,draw,draw,"Maine Road, Manchester",1,1994/95,1994-12-31
+Aston Villa,Chelsea,3,0,Aston Villa,Chelsea,"Villa Park, Birmingham",1,1994/95,1994-12-28
+Arsenal,Aston Villa,0,0,draw,draw,"Highbury, London",1,1994/95,1994-12-26
+Southampton,Aston Villa,2,1,Southampton,Aston Villa,"The Dell, Southampton",1,1994/95,1994-12-19
+Aston Villa,Everton,0,0,draw,draw,"Villa Park, Birmingham",1,1994/95,1994-12-10
+Leicester,Aston Villa,1,1,draw,draw,"Filbert Street, Leicester",1,1994/95,1994-12-03
+Aston Villa,Sheffield Wed,1,1,draw,draw,"Villa Park, Birmingham",1,1994/95,1994-11-27
+Spurs,Aston Villa,3,4,Aston Villa,Spurs,"White Hart Lane, London",1,1994/95,1994-11-19
+Wimbledon,Aston Villa,4,3,Wimbledon,Aston Villa,"Selhurst Park, London",1,1994/95,1994-11-09
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1994/95,1994-11-06
+QPR,Aston Villa,2,0,QPR,Aston Villa,"Loftus Road, London",1,1994/95,1994-10-29
+Aston Villa,Nott'm Forest,0,2,Nott'm Forest,Aston Villa,"Villa Park, Birmingham",1,1994/95,1994-10-22
+Aston Villa,Norwich,1,1,draw,draw,"Villa Park, Birmingham",1,1994/95,1994-10-15
+Liverpool,Aston Villa,3,2,Liverpool,Aston Villa,"Anfield, Liverpool",1,1994/95,1994-10-08
+Aston Villa,Newcastle,0,2,Newcastle,Aston Villa,"Villa Park, Birmingham",1,1994/95,1994-10-01
+Blackburn,Aston Villa,3,1,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,1994/95,1994-09-24
+West Ham,Aston Villa,1,0,West Ham,Aston Villa,"Boleyn Ground, London",1,1994/95,1994-09-17
+Aston Villa,Ipswich,2,0,Aston Villa,Ipswich,"Villa Park, Birmingham",1,1994/95,1994-09-10
+Coventry,Aston Villa,0,1,Aston Villa,Coventry,"Highfield Road, Coventry",1,1994/95,1994-08-29
+Aston Villa,Crystal Palace,1,1,draw,draw,"Villa Park, Birmingham",1,1994/95,1994-08-27
+Aston Villa,Southampton,1,1,draw,draw,"Villa Park, Birmingham",1,1994/95,1994-08-24
+Everton,Aston Villa,2,2,draw,draw,"Goodison Park, Liverpool",1,1994/95,1994-08-20
+Aston Villa,Liverpool,2,1,Aston Villa,Liverpool,"Villa Park, Birmingham",1,1993/94,1994-05-07
+Southampton,Aston Villa,4,1,Southampton,Aston Villa,"The Dell, Southampton",1,1993/94,1994-04-30
+Newcastle,Aston Villa,5,1,Newcastle,Aston Villa,"St. James' Park, Newcastle",1,1993/94,1994-04-27
+Aston Villa,Arsenal,1,2,Arsenal,Aston Villa,"Villa Park, Birmingham",1,1993/94,1994-04-23
+Sheffield Utd,Aston Villa,1,2,Aston Villa,Sheffield Utd,"Bramall Lane, Sheffield",1,1993/94,1994-04-16
+Blackburn,Aston Villa,1,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,1993/94,1994-04-11
+Aston Villa,Norwich,0,0,draw,draw,"Villa Park, Birmingham",1,1993/94,1994-04-04
+Man City,Aston Villa,3,0,Man City,Aston Villa,"Maine Road, Manchester",1,1993/94,1994-04-02
+Aston Villa,Everton,0,0,draw,draw,"Villa Park, Birmingham",1,1993/94,1994-03-30
+Aston Villa,Oldham,1,2,Oldham,Aston Villa,"Villa Park, Birmingham",1,1993/94,1994-03-19
+Leeds,Aston Villa,2,0,Leeds,Aston Villa,"Elland Road, Leeds",1,1993/94,1994-03-16
+Aston Villa,Ipswich,0,1,Ipswich,Aston Villa,"Villa Park, Birmingham",1,1993/94,1994-03-12
+Coventry,Aston Villa,0,1,Aston Villa,Coventry,"Highfield Road, Coventry",1,1993/94,1994-03-06
+Spurs,Aston Villa,1,1,draw,draw,"White Hart Lane, London",1,1993/94,1994-03-02
+Aston Villa,Man City,0,0,draw,draw,"Villa Park, Birmingham",1,1993/94,1994-02-22
+Aston Villa,Swindon,5,0,Aston Villa,Swindon,"Villa Park, Birmingham",1,1993/94,1994-02-12
+Aston Villa,Leeds,1,0,Aston Villa,Leeds,"Villa Park, Birmingham",1,1993/94,1994-02-06
+Chelsea,Aston Villa,1,1,draw,draw,"Stamford Bridge, London",1,1993/94,1994-01-22
+Aston Villa,West Ham,3,1,Aston Villa,West Ham,"Villa Park, Birmingham",1,1993/94,1994-01-15
+Aston Villa,Blackburn,0,1,Blackburn,Aston Villa,"Villa Park, Birmingham",1,1993/94,1994-01-01
+Norwich,Aston Villa,1,2,Aston Villa,Norwich,"Carrow Road, Norwich",1,1993/94,1993-12-29
+Man Utd,Aston Villa,3,1,Man Utd,Aston Villa,"Old Trafford, Manchester",1,1993/94,1993-12-19
+Aston Villa,Wimbledon,0,1,Wimbledon,Aston Villa,"Villa Park, Birmingham",1,1993/94,1993-12-11
+Aston Villa,Sheffield Wed,2,2,draw,draw,"Villa Park, Birmingham",1,1993/94,1993-12-08
+QPR,Aston Villa,2,2,draw,draw,"Loftus Road, London",1,1993/94,1993-12-04
+Liverpool,Aston Villa,2,1,Liverpool,Aston Villa,"Anfield, Liverpool",1,1993/94,1993-11-28
+Aston Villa,Southampton,0,2,Southampton,Aston Villa,"Villa Park, Birmingham",1,1993/94,1993-11-24
+Aston Villa,Sheffield Utd,1,0,Aston Villa,Sheffield Utd,"Villa Park, Birmingham",1,1993/94,1993-11-20
+Arsenal,Aston Villa,1,2,Aston Villa,Arsenal,"Highbury, London",1,1993/94,1993-11-06
+Swindon,Aston Villa,1,2,Aston Villa,Swindon,"County Ground, Swindon",1,1993/94,1993-10-30
+Aston Villa,Chelsea,1,0,Aston Villa,Chelsea,"Villa Park, Birmingham",1,1993/94,1993-10-23
+West Ham,Aston Villa,0,0,draw,draw,"Boleyn Ground, London",1,1993/94,1993-10-16
+Aston Villa,Newcastle,0,2,Newcastle,Aston Villa,"Villa Park, Birmingham",1,1993/94,1993-10-02
+Oldham,Aston Villa,1,1,draw,draw,"Boundary Park, Oldham",1,1993/94,1993-09-25
+Ipswich,Aston Villa,1,2,Aston Villa,Ipswich,"Portman Road, Ipswich",1,1993/94,1993-09-18
+Aston Villa,Coventry,0,0,draw,draw,"Villa Park, Birmingham",1,1993/94,1993-09-11
+Everton,Aston Villa,0,1,Aston Villa,Everton,"Goodison Park, Liverpool",1,1993/94,1993-08-31
+Aston Villa,Spurs,1,0,Aston Villa,Spurs,"Villa Park, Birmingham",1,1993/94,1993-08-28
+Aston Villa,Man Utd,1,2,Man Utd,Aston Villa,"Villa Park, Birmingham",1,1993/94,1993-08-23
+Wimbledon,Aston Villa,2,2,draw,draw,"Selhurst Park, London",1,1993/94,1993-08-21
+Sheffield Wed,Aston Villa,0,0,draw,draw,"Hillsborough, Sheffield",1,1993/94,1993-08-18
+Aston Villa,QPR,4,1,Aston Villa,QPR,"Villa Park, Birmingham",1,1993/94,1993-08-14
+QPR,Aston Villa,2,1,QPR,Aston Villa,"Loftus Road, London",1,1992/93,1993-05-09
+Aston Villa,Oldham,0,1,Oldham,Aston Villa,"Villa Park, Birmingham",1,1992/93,1993-05-02
+Blackburn,Aston Villa,3,0,Blackburn,Aston Villa,"Ewood Park, Blackburn",1,1992/93,1993-04-21
+Aston Villa,Man City,3,1,Aston Villa,Man City,"Villa Park, Birmingham",1,1992/93,1993-04-18
+Arsenal,Aston Villa,0,1,Aston Villa,Arsenal,"Highbury, London",1,1992/93,1993-04-12
+Aston Villa,Coventry,0,0,draw,draw,"Villa Park, Birmingham",1,1992/93,1993-04-10
+Nott'm Forest,Aston Villa,0,1,Aston Villa,Nott'm Forest,"City Ground, Nottingham",1,1992/93,1993-04-04
+Norwich,Aston Villa,1,0,Norwich,Aston Villa,"Carrow Road, Norwich",1,1992/93,1993-03-24
+Aston Villa,Sheffield Wed,2,0,Aston Villa,Sheffield Wed,"Villa Park, Birmingham",1,1992/93,1993-03-20
+Man Utd,Aston Villa,1,1,draw,draw,"Old Trafford, Manchester",1,1992/93,1993-03-14
+Aston Villa,Spurs,0,0,draw,draw,"Villa Park, Birmingham",1,1992/93,1993-03-10
+Aston Villa,Wimbledon,1,0,Aston Villa,Wimbledon,"Villa Park, Birmingham",1,1992/93,1993-02-27
+Aston Villa,Everton,2,1,Aston Villa,Everton,"Villa Park, Birmingham",1,1992/93,1993-02-20
+Chelsea,Aston Villa,0,1,Aston Villa,Chelsea,"Stamford Bridge, London",1,1992/93,1993-02-13
+Crystal Palace,Aston Villa,1,0,Crystal Palace,Aston Villa,"Selhurst Park, London",1,1992/93,1993-02-10
+Aston Villa,Ipswich,2,0,Aston Villa,Ipswich,"Villa Park, Birmingham",1,1992/93,1993-02-06
+Southampton,Aston Villa,2,0,Southampton,Aston Villa,"The Dell, Southampton",1,1992/93,1993-01-30
+Aston Villa,Sheffield Utd,3,1,Aston Villa,Sheffield Utd,"Villa Park, Birmingham",1,1992/93,1993-01-27
+Aston Villa,Middlesbrough,5,1,Aston Villa,Middlesbrough,"Villa Park, Birmingham",1,1992/93,1993-01-17
+Liverpool,Aston Villa,1,2,Aston Villa,Liverpool,"Anfield, Liverpool",1,1992/93,1993-01-09
+Aston Villa,Arsenal,1,0,Aston Villa,Arsenal,"Villa Park, Birmingham",1,1992/93,1992-12-28
+Coventry,Aston Villa,3,0,Coventry,Aston Villa,"Highfield Road, Coventry",1,1992/93,1992-12-26
+Man City,Aston Villa,1,1,draw,draw,"Maine Road, Manchester",1,1992/93,1992-12-19
+Aston Villa,Nott'm Forest,2,1,Aston Villa,Nott'm Forest,"Villa Park, Birmingham",1,1992/93,1992-12-12
+Sheffield Wed,Aston Villa,1,2,Aston Villa,Sheffield Wed,"Hillsborough, Sheffield",1,1992/93,1992-12-05
+Aston Villa,Norwich,2,3,Norwich,Aston Villa,"Villa Park, Birmingham",1,1992/93,1992-11-28
+Spurs,Aston Villa,0,0,draw,draw,"White Hart Lane, London",1,1992/93,1992-11-21
+Aston Villa,Man Utd,1,0,Aston Villa,Man Utd,"Villa Park, Birmingham",1,1992/93,1992-11-07
+Aston Villa,QPR,2,0,Aston Villa,QPR,"Villa Park, Birmingham",1,1992/93,1992-11-01
+Oldham,Aston Villa,1,1,draw,draw,"Boundary Park, Oldham",1,1992/93,1992-10-24
+Aston Villa,Blackburn,0,0,draw,draw,"Villa Park, Birmingham",1,1992/93,1992-10-19
+Wimbledon,Aston Villa,2,3,Aston Villa,Wimbledon,"Selhurst Park, London",1,1992/93,1992-10-03
+Middlesbrough,Aston Villa,2,3,Aston Villa,Middlesbrough,"Ayresome Park, Middlesbrough",1,1992/93,1992-09-26
+Aston Villa,Liverpool,4,2,Aston Villa,Liverpool,"Villa Park, Birmingham",1,1992/93,1992-09-19
+Leeds,Aston Villa,1,1,draw,draw,"Elland Road, Leeds",1,1992/93,1992-09-13
+Aston Villa,Crystal Palace,3,0,Aston Villa,Crystal Palace,"Villa Park, Birmingham",1,1992/93,1992-09-05
+Aston Villa,Chelsea,1,3,Chelsea,Aston Villa,"Villa Park, Birmingham",1,1992/93,1992-09-02
+Sheffield Utd,Aston Villa,0,2,Aston Villa,Sheffield Utd,"Bramall Lane, Sheffield",1,1992/93,1992-08-29
+Everton,Aston Villa,1,0,Everton,Aston Villa,"Goodison Park, Liverpool",1,1992/93,1992-08-25
+Aston Villa,Southampton,1,1,draw,draw,"Villa Park, Birmingham",1,1992/93,1992-08-22
+Aston Villa,Leeds,1,1,draw,draw,"Villa Park, Birmingham",1,1992/93,1992-08-19
+Ipswich,Aston Villa,1,1,draw,draw,"Portman Road, Ipswich",1,1992/93,1992-08-15
