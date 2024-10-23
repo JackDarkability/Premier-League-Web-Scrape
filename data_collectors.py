@@ -131,13 +131,13 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
     driver.get(f"https://www.premierleague.com/match/{match_id}")
 
     # Wait for the tablist to be visible
-    tablist = WebDriverWait(driver, 10).until(
+    tablist = WebDriverWait(driver, 30).until(
         EC.presence_of_element_located((By.CLASS_NAME, "tablist"))
     )
     time.sleep(1)
     if not cookies_accepted:
         try:
-            WebDriverWait(driver, 10).until(
+            WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.ID, "onetrust-accept-btn-handler"))
             )
             cookies_button = driver.find_element(By.ID, "onetrust-accept-btn-handler")
@@ -149,13 +149,13 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
             print("cookies fine")
     
     # Locate the "Stats" tab by its data-tab-index or class "active"
-    stats_tab = WebDriverWait(driver, 10).until(
+    stats_tab = WebDriverWait(driver, 30).until(
         EC.element_to_be_clickable((By.XPATH, "//ul[@class='tablist']//li[@data-tab-index='2']"))
     )   
     stats_tab.click()
 
     try:
-        WebDriverWait(driver, 10).until(
+        WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.CLASS_NAME, "higher"))
         )
     except:

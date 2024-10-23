@@ -62,21 +62,6 @@ def scrape_football_data(
 
         for data in pool.starmap(get_matches_data, tasks):
             results_of_matches.extend(data)
-    
-
-    driver = setup_driver()
-    time.sleep(4)
-    for match in results_of_matches:
-        # Dictionary
-
-        detailed_stats = get_detailed_match_data(driver,match["match_id"])
-        match_full_dictionary = initialise_dictionary(match)
-        
-        for key, value in detailed_stats.items():
-            match_full_dictionary[key] = value
-        
-        match.update(match_full_dictionary)
-
 
 
     # Convert all matches to a DataFrame and change date to correct format
@@ -122,15 +107,15 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging_level, format=logging_format)
 
     # Scrape data and calculate Elo ratings
-    scrape_football_data(clubs=["2"], output_file="aston_villa_matches_with_ID.csv")
-    calculate_elo_and_save_to_file("football_matches_with_ID.csv", "home_team", "away_team")
-
-    '''
-    df = pd.read_csv("football_matches_with_ID.csv")
+    #scrape_football_data(clubs=["2"], output_file="aston_villa_matches_with_ID.csv")
+    #calculate_elo_and_save_to_file("football_matches_with_ID.csv", "home_team", "away_team")
+    
+    df = pd.read_csv("aston_villa_matches_with_ID.csv")
 
     results_of_matches = df.to_dict("records")
     results_of_matches = update_with_detailed_stats(results_of_matches)
-    '''
+    results_of_matches.to_csv("aston_villa_matches_with_ID_detailed.csv", index=False)
+    
 
 
 
@@ -146,5 +131,6 @@ Could maybe be done in parallel but the internet connection would likely be what
 It makes the site not load and therefore seasons to be missed, but no exception is thrown so hard to debug.
 Must be fixed if wanting to scrape individual match data as that would be even more pages to load and need more threads.
 
-- Add more leagues to scrape data from, currently only does the Premier League, stuff is set up to only do one league at a time.
+- If the team specified is not in the league for a given season, the code will still run but the data will just hold all the matches for that season. Should fix this
+
 '''
