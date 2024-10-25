@@ -74,9 +74,7 @@ def get_matches_data(full_link, year):
         for match in matches:
             # Get the data for the individual match
             # ID Can be used later for link to specific match
-            match_id = match.get(
-                "data-comp-match-item"
-            )  
+            match_id = match.get("data-comp-match-item")
             home_team = match.get("data-home")
             away_team = match.get("data-away")
             venue = match.get("data-venue")
@@ -130,8 +128,8 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
     print(f"Getting detailed match data for match {match_id}")
     driver.get(f"https://www.premierleague.com/match/{match_id}")
 
-    # Wait for the tablist to be visible
-    tablist = WebDriverWait(driver, 30).until(
+    # Wait for the tablist to be visible so know site has loaded
+    WebDriverWait(driver, 30).until(
         EC.presence_of_element_located((By.CLASS_NAME, "tablist"))
     )
     time.sleep(1)
@@ -147,11 +145,13 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
 
         except:
             print("cookies fine")
-    
-    # Locate the "Stats" tab by its data-tab-index or class "active"
+
+    # Click on the stats tab to go to the page with specific stats on the 2 teams.
     stats_tab = WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.XPATH, "//ul[@class='tablist']//li[@data-tab-index='2']"))
-    )   
+        EC.element_to_be_clickable(
+            (By.XPATH, "//ul[@class='tablist']//li[@data-tab-index='2']")
+        )
+    )
     stats_tab.click()
 
     try:
@@ -162,9 +162,7 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
         print("Timed out waiting for page to load.")
         driver.quit()
         return None
-    
 
-    
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
     match_summary_information = soup.find_all("div", class_="mc-summary__info")
@@ -183,29 +181,34 @@ def get_detailed_match_data(driver, match_id, cookies_accepted=False):
         pass
 
     # Get stats of match like possession etc.
-    big_div = soup.find("div", {"data-ui-tab": "Match Stats", "class": ["mcStatsTab", "statsSection", "season-so-far", "wrapper", "col-12"]})
+    big_div = soup.find(
+        "div",
+        {
+            "data-ui-tab": "Match Stats",
+            "class": [
+                "mcStatsTab",
+                "statsSection",
+                "season-so-far",
+                "wrapper",
+                "col-12",
+            ],
+        },
+    )
     stats = big_div.find("tbody", class_="matchCentreStatsContainer")
 
     separated_stats = stats.find_all("tr")
-    match_stats = {'attendance': match_attendance, 'referee': match_referee}
+    match_stats = {"attendance": match_attendance, "referee": match_referee}
 
     for stat in separated_stats:
         stat_elements = stat.find_all("p")
 
-        category = stat_elements[1].text.strip() # Category
+        category = stat_elements[1].text.strip()
         category = category.replace(" ", "_").lower()
-    
-        home_stat = stat_elements[0].text.strip() # Home team stat
-        away_stat = stat_elements[2].text.strip() # Away team stat
 
-        match_stats[category+"_home"] = home_stat
-        match_stats[category+"_away"] = away_stat
-    
+        home_stat = stat_elements[0].text.strip()  # Home team stat of category
+        away_stat = stat_elements[2].text.strip()  # Away team stat of category
+
+        match_stats[category + "_home"] = home_stat
+        match_stats[category + "_away"] = away_stat
+
     return match_stats
-
-
-    
-
-
-
-

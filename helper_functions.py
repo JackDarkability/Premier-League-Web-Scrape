@@ -1,4 +1,4 @@
-""" Module that holds all of the functions that scrape data from the website
+""" Module that holds all of the functions that do not directly scrape data but do small tasks to aid in the scraping.
 
 setup_driver: Creates a driver for web scraping with the arguments wanted, for consistency
 
